@@ -82,6 +82,6 @@ Además de la participación en los procesos de elaboración de anteproyectos de
 <br><br>
 <div class="row">	<div class="col-5 box_buttons">&nbsp;</div>
                     <div class="col-7 box_buttons">
-                        <a href="{{< siteurl >}}documentos/pdf/Denegatoria3T.pdf" type="button" class="btn btn_outline_blue" target="_blank">Solicitud de acceso &nbsp;<i class="fal fa-file-pdf"></i></a>
+                        <a href="{{< siteurl >}}documentos/PDF/Denegatoria3T.pdf" type="button" class="btn btn_outline_blue" target="_blank">Solicitud de acceso &nbsp;<i style="color:#cc0000" class="fal fa-file-pdf pdf_icon"></i></a>
                     </div>
                 </div>
