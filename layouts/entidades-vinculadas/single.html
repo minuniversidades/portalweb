@@ -190,9 +190,9 @@
             </div>
         </article>
     </section>
-    <section class="mb-120">
-        <article id="section_box_cards_blue">
-            <div class="container container-xl">
+    <section>
+        <article id="section_box_cards_blue" class="cards_box_custom mb-120">
+            <div class="container container-xl p-0">
                 <div class="row">
                     {{ $title := .Title }}
                     {{ $sectionPages := where $.Site.RegularPages "Type" "entidades-vinculadas" }}
@@ -209,6 +209,18 @@
                                     </a>
                                 </div>
                             {{ end }}
+                    {{ end }}
+                    {{ if not (eq .Parent.Title .FirstSection.Title) }}
+                        <div class="col-lg-4 col-xl-3 mr-card-hover">
+                            <a href="{{ .Parent.Permalink }}" class="card card-img" {{ if isset .Parent.Params "external_link" }}target="_blank"{{ end }}>
+                                <div class="box_icon">
+                                    <div class="img" style="background-image: url({{ if isset .Parent.Params "img" }}{{ .Parent.Params.img | absURL }}{{ else }}{{ .Parent.Params.section_img | absURL }}{{ end }});"></div>
+                                </div>
+                                <div class="card-body">
+                                    <p class="card-text card-text-blue">{{ .Parent.Title }} {{ if isset .Params "external_link" }}<i class="fal fa-file-pdf pdf_icon"></i>{{ end }}</p>
+                                </div>
+                            </a>
+                        </div>
                     {{ end }}
                 </div>
             </div>

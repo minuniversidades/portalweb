@@ -145,15 +145,26 @@
             </div>
         </article>
     </section>
-    <section class="mb-120">
-        <article id="section_box_cards_blue">
-            <div class="container container-xl">
+    <section>
+        <article id="section_sub_title">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 subtitle d-flex align-content-center">
+                        <i class="fas fa-newspaper d-none d-lg-inline-block"></i>
+                        <i class="fal fa-newspaper d-block d-lg-none"></i>
+                        <h4>{{ i18n .Parent.Title | upper }}</h4>
+                    </div>
+                </div>
+            </div>
+        </article>
+        <article id="section_box_cards_blue" class="cards_box_custom mb-120">
+            <div class="container container-xl p-0">
                 <div class="row">
                     {{ $title := .Title }}
                     {{ $sectionPages := where $.Site.Pages "Params.organism_cat" "organismos" }}
                         {{ range $sectionPages }}
                                 {{ if and (ge (len $sectionPages) 1) (ne .Title $title) }}
-                                    <div class="col-lg-3">
+                                    <div class="col-lg-4 col-xl-3 mr-card-hover">
                                         <a href="{{ .Permalink }}" class="card card-img">
                                             <div class="box_icon">
                                                 <div class="img" style="background-image: url({{ if isset .Params "img" }}{{ .Params.img | absURL }}{{ else }}{{ .Params.section_img | absURL }}{{ end }});"></div>
@@ -165,6 +176,18 @@
                                     </div>
                                 {{ end }}
                         {{ end }}
+                        {{ if not (eq .Parent.Title .FirstSection.Title) }}
+                        <div class="col-lg-4 col-xl-3 mr-card-hover">
+                            <a href="{{ .Parent.Permalink }}" class="card card-img" {{ if isset .Parent.Params "external_link" }}target="_blank"{{ end }}>
+                                <div class="box_icon">
+                                    <div class="img" style="background-image: url({{ if isset .Parent.Params "img" }}{{ .Parent.Params.img | absURL }}{{ else }}{{ .Parent.Params.section_img | absURL }}{{ end }});"></div>
+                                </div>
+                                <div class="card-body">
+                                    <p class="card-text card-text-blue">{{ .Parent.Title }} {{ if isset .Params "external_link" }}<i class="fal fa-file-pdf pdf_icon"></i>{{ end }}</p>
+                                </div>
+                            </a>
+                        </div>
+                    {{ end }}
                 </div>
             </div>
         </article>
