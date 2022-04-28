@@ -56,7 +56,7 @@ url: "/estadisticas/catalogo-datos/estadisticas-epu/"
                                             <article id="section_link">
                                                 <div class="container-fluid">
                                                     <div class="row">
-                                                        <div class="col-12">
+                                                        <div class="col-12" style="font-weight: normal">
                                                             El personal de las universidades está compuesto
                                                             por personal docente e investigador, personal de
                                                             administración y servicios, personal empleado
@@ -98,7 +98,7 @@ url: "/estadisticas/catalogo-datos/estadisticas-epu/"
                                             <article id="section_link">
                                                 <div class="container-fluid">
                                                     <div class="row">
-                                                        <div class="col-12">
+                                                        <div class="col-12" style="font-weight: normal">
                                                             Personal docente, siendo la investigación un
                                                             derecho y un deber del mismo de acuerdo con los
                                                             fines generales de la universidad y dentro de
@@ -167,7 +167,7 @@ url: "/estadisticas/catalogo-datos/estadisticas-epu/"
                                             <article id="section_link">
                                                 <div class="container-fluid">
                                                     <div class="row">
-                                                        <div class="col-12">
+                                                        <div class="col-12" style="font-weight: normal">
                                                             Personal que desempeña funciones de gestión
                                                             técnica, económica y administrativa, así como el
                                                             apoyo, asesoramiento y asistencia en el
@@ -219,7 +219,7 @@ url: "/estadisticas/catalogo-datos/estadisticas-epu/"
                                             <article id="section_link">
                                                 <div class="container-fluid">
                                                     <div class="row">
-                                                        <div class="col-12">
+                                                        <div class="col-12" style="font-weight: normal">
                                                             Investigador de convocatorias públicas
                                                             competitivas, del artículo 83 de la LOMLOU y
                                                             cualquier otro investigador contratado por la
@@ -256,7 +256,7 @@ url: "/estadisticas/catalogo-datos/estadisticas-epu/"
                                             <article id="section_link">
                                                 <div class="container-fluid">
                                                     <div class="row">
-                                                        <div class="col-12">
+                                                        <div class="col-12" style="font-weight: normal">
                                                             Personal que participa en actividades
                                                             relacionadas con la investigación. Se compone
                                                             de: investigadores (docentes con tareas
