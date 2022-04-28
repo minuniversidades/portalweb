@@ -1,0 +1,21 @@
+---
+title: "Actualidad"
+date: 2020-06-18T14:20:22+01:00
+has_media: false
+news_desc: "La ministra de Educación y Formación Profesional, Isabel Celaá, y el ministro de Universidades, Manuel Castells, han presidido hoy la reunión del Observatorio de Becas y Ayudas al Estudio y Rendimiento Académico en la que se ha presentado el borrador del Real Decreto de Umbrales que establece el régimen de becas para el curso 2020-2021 y que recoge un incremento del 22% en la inversión en estas ayudas, la mayor de la última década."
+news_title: " Los ministerios de Educación y Formación Profesional y Universidades presentan el borrador del Real Decreto de Umbrales ante el Observatorio de Becas y Ayudas al Estudio"
+
+news_date: 2020-06-18T14:20:22+01:00
+---
+<ul>
+<li><b>El Observatorio celebra su tercera reunión en los últimos dos años después de un periodo de siete años sin ser convocado</b></li>
+<li><b>El Real Decreto de Umbrales establece el régimen de becas y ayudas al estudio para el próximo curso, que incluye las reformas del sistema presentadas por el Gobierno el pasado mes de mayo</b></li>
+<li><b>La inversión para la convocatoria 2020-2021 ascenderá a 1.900 millones de euros, un 22% más que la anterior, lo que supone el mayor incremento de la última década</b></li>
+</ul>
+<p>La ministra de Educación y Formación Profesional, Isabel Celaá, y el ministro de Universidades, Manuel Castells, han presidido hoy la reunión del Observatorio de Becas y Ayudas al Estudio y Rendimiento Académico en la que se ha presentado el borrador del Real Decreto de Umbrales que establece el régimen de becas para el curso 2020-2021 y que recoge un incremento del 22% en la inversión en estas ayudas, la mayor de la última década.</p>
+<p>El borrador del Real Decreto de Umbrales ha llegado hoy al Observatorio de Becas tras su paso por los órganos consultivos previos. El documento recoge las medidas anunciadas el pasado mes de mayo para la reforma del Sistema Estatal de Becas con el fin de asegurar la igualdad de oportunidades para todos los estudiantes con independencia de su situación socioeconómica.</p>
+<p>Esta reforma es uno de los objetivos principales del Gobierno en materia educativa ya que las becas y ayudas al estudio habían perdido su carácter de derecho subjetivo debido a las reformas y recortes introducidos en 2012. La convocatoria del próximo curso contempla además un aumento de la inversión del 22% respecto al año anterior (386 millones de euros) hasta alcanzar los 1.900 millones de presupuesto.</p>
+<p>“Las becas y ayudas al estudio son una herramienta esencial para garantizar el acceso a la educación de todos los estudiantes con independencia de su situación socioeconómica”, ha señalado Isabel Celaá. “La reforma del sistema, no solo a través de un incremento en la inversión sino haciendo que llegue a aquellos que más lo necesitan, forma parte del compromiso de este Gobierno con la educación”, ha añadido.</p>
+<p>Los cambios presentados hoy en el Observatorio de Becas suponen que estas ayudas pasen de nuevo a depender de criterios de renta y no del mérito académico. Se basan en cuatro puntos fundamentales: la reforma de los requisitos académicos, la elevación del umbral 1 de cuantía de la renta hasta casi equipararlo al umbral de la pobreza, la elevación de la cuantía fija en 100 euros y la inclusión del alumnado con Trastorno del Espectro Autista (TEA) en las ayudas para estudiantes con necesidades específicas de apoyo educativo (NEAEs).</p>
+<p>Además, el pasado 29 de mayo, el Gobierno anunció que el alumnado al que se le haya denegado beca universitaria y reciba el Ingreso Mínimo Vital no deberá pagar la matrícula del curso 2020/2021. Se ha aprobado esta medida para aquellos estudiantes que no hayan alcanzado los requisitos para recibir becas, pero sí para ser personas beneficiarias del Ingreso Mínimo Vital. Las becas se calculan en función del ejercicio fiscal del año anterior, por lo que existe la posibilidad de que algunos hogares se hayan empobrecido por causa de la crisis del coronavirus.</p>
+<p>El objetivo de ambos ministerios es que el Real Decreto sea aprobado a mediados del mes de julio lo que permitiría adelantar la apertura de la convocatoria de becas del próximo curso y en consecuencia adelantar también los pagos de estas ayudas.</p>

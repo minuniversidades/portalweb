@@ -1,0 +1,20 @@
+---
+title: "Actualidad"   
+date: 2021-02-15T14:20:22+01:00
+has_media: false
+news_desc: "La Conferencia General de Política Universitaria, con presencia de todas las CCAA y presidida por el ministro de Universidades, Manuel Castells, y con la asistencia del Secretario General de Universidades, José Manuel Pingarrón; y la Directora de Gabinete del ministro, Marta Cruells, ha trabajado durante la jornada de hoy las diversas medidas que se han tomado desde las universidades en cada CCAA., como son la adaptación de los indicadores de COVID-19 por parte de las universidades."
+news_title: "El Ministerio de Universidades informa en la Conferencia General de Política Universitaria del plan legislativo de 2021"
+
+news_date: 2021-02-15T14:20:22+01:00
+---
+<ul>
+<li><b>El Ministerio de Universidades desarrollará a lo largo de este 2021 un ambicioso plan legislativo</b></li>
+<li><b>Se ha hecho balance, además, de el recién terminado periodo de exámenes en las universidades españolas</b></li>
+</ul>
+<p>&nbsp;La Conferencia General de Política Universitaria, con presencia de todas las CCAA y presidida por el ministro de Universidades, Manuel Castells, y con la asistencia del Secretario General de Universidades, José Manuel Pingarrón; y la Directora de Gabinete del ministro, Marta Cruells, ha trabajado durante la jornada de hoy las diversas medidas que se han tomado desde las universidades en cada CCAA., como son la adaptación de los indicadores de COVID-19 por parte de las universidades. El objetivo ha sido, de nuevo, asegurar una buena coordinación de cara al próximo trimestre del curso y garantizar que se están tomando todas las medidas adecuadas.</p>
+<p><b>Un proyecto legislativo para 2021</b></p>
+<p>También se ha informado por parte del Ministerio de Universidades de las líneas generales del plan legislativo del mismo de cara a este año 2021. Así, se han dado traslado de los diferentes decretos y reformas en marcha que van desde el ya anunciado Real Decreto de Creación de Universidades hasta el futuro proyecto de la Ley Orgánica del Sistema Universitario. ésta, se realizará a través de una investigación participativa con grupos de discusión, entrevistas en profundidad y debates para identificar posiciones y propuestas de transformación desde la comunidad universitaria.</p>
+<p>Los bloques estratégicos de la esta nueva ley que se han identificado y con los que está trabajando el Ministerio de Universidades son Gobernanza y estructura universitaria, Investigación y transferencia, Estudiantado, Financiación universitaria y Docencia. En cuanto a plazos, todo el mencionado proceso se desarrollará a lo largo de 2021.</p>
+<p><b>Balance sobre la convocatoria de exámenes</b></p>
+<p>El propio Ministro de Universidades, Manuel Castells, ha hecho balance en presencia de todas las CCAA de la reciente convocatoria de exámenes que se ha producido en las universidades españolas.</p>
+<p>En primer lugar, recordando la división de competencias en la propia gestión operativa de los mismos, que recae en las propias universidades, así como de la implementación y toma de decisiones en el plano sanitario que tienen lugar en la comisión interterritorial de sanidad en la que participan el Ministerio de Sanidad, el Ministerio de Política Territorial y Función Pública, así como las propias Comunidades Autónomas. En segundo lugar, haciendo énfasis en la responsabilidad que tiene el propio Ministerio de Universidades como el resto de agentes de la comunidad universitaria de escuchar las diferentes sensibilidades de estudiantes, profesorado y PAS. Por último, el ministro ha querido señalar la importancia de hacer uso de las herramientas que han producido universidades y Comunidades Autónomas como son los propios protocolos de contención y prevención de contagios así como la llamada presencialidad adaptada de cara a la docencia.</p>

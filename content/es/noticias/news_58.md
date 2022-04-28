@@ -1,0 +1,22 @@
+---
+title: "Actualidad"   
+date: 2021-02-25T14:20:22+01:00
+has_media: false
+news_desc: "Esta mañana el ministro Manuel Castells acompañado del Subdirector General de Actividad Universitaria Investigadora, Manuel González Bedia, y el Subsecretario de Universidades, Luis Cerdán, han presentado ante los medios de comunicación un ambicioso plan de digitalización para el sistema universitario español."
+news_title: "El Ministerio de Universidades presenta un ambicioso plan de digitalización para el sistema universitario"
+
+news_date: 2021-02-25T14:20:22+01:00
+---
+<ul>
+<li><b>UniDigital, que es como se ha denominado el proyecto, tiene como objetivos la innovación, la transformación y la modernización de las universidades desde el ámbito digital.</b></li>
+<li><b>142,85 millones de euros conformarán un plan que se ejecutará durante los próximos años y sentará las bases del sistema universitario del futuro.</b></li>
+</ul>
+<p>Esta mañana el ministro Manuel Castells acompañado del Subdirector General de Actividad Universitaria Investigadora, Manuel González Bedia, y el Subsecretario de Universidades, Luis Cerdán, han presentado ante los medios de comunicación un ambicioso plan de digitalización para el sistema universitario español.</p>
+<p>Este proyecto, desarrollado por el Ministerio de Universidades y que cuenta con fondos europeos, tendrá un presupuesto de 142,85 millones de euros. Sus objetivos fundamentales son, en primer lugar, disponer de recursos técnicos, materiales y humanos adecuados que permitan modernizar el sistema universitario español, mejorando significativamente la relación entre el mundo digital y el ámbito académico.</p>
+<p>En segundo lugar, estimular la innovación y transformación digital desde la universidad. Es prioridad del Ministerio de Universidades facilitar que las universidades puedan convertirse en actores centrales en los procesos de transformación digital que se están produciendo en nuestras sociedades.</p>
+<p>Asimismo, este plan busca desarrollar proyectos estratégicos en el ámbito de la innovación educativa poniendo en marcha un conjunto seleccionado de proyectos de carácter estratégico -en el ámbito de la formación digital- que funcionen como prototipos, y que operen en niveles interuniversitarios.</p>
+<p><b>Líneas estratégicas del plan</b></p>
+<p>El plan, denominado como<span>&nbsp;</span><em>Unidigital</em><span>&nbsp;</span>cuenta con cuatro modalidades estratégicas, siendo una de ellas en colaboración con el Ministerio de Asuntos Económicos y Transformación Digital. Las líneas en los que se divide el plan son: proyectos de infraestructuras y servicios TIC, proyectos de desarrollo de software, medidas de apoyo, ayudas e incentivos a la digitalización y la docencia y un cuarto bloque de medidas estratégicas y de coordinación.</p>
+<p>Entre los diferentes ámbitos de actuación de estas líneas se encuentran el apostar por recursos y servicios TIC con un carácter coordinado y centralizado para el conjunto del sistema, fomentar la innovación y la transformación digital haciendo que las propias universidades sean actores centrales en esos procesos, eliminar déficits en el ámbito de la digitalización y propuestas de digitalización alineadas con los planes para la España despoblada, respectivamente.</p>
+<p>Entre algunos de los principales proyectos del mismo se encuentran el desarrollo de infraestructuras de almacenamiento, seguridad y grabación de cursos, entornos de aprendizaje digital y repositorios de código abierto, espacios de interacción y aprendizaje interuniversitario, fortalecimiento del software libre en las universidades, proyectos de formación y medidas de reducción de la brecha digital.</p>
+<p>La implementación de este plan se llevará a cabo a lo largo de los años 2021, 2022 y 2023 siempre en colaboración directa con las universidades, las cuales serán el sujeto principal en este ambicioso proceso. Con todo este paquete el Ministerio de Universidades quiere empezar la consolidación de, en primer lugar, un refuerzo necesario en lo que tiene que ver con las capacidades de las universidades en este periodo de pandemia que vive nuestra sociedad y, en segundo lugar, una apuesta firme por la modernización, la calidad y el futuro de nuestro sistema universitario.</p>

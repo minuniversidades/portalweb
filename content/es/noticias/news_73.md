@@ -1,0 +1,19 @@
+---
+title: "Actualidad"
+date: 2020-10-27T14:20:22+01:00
+has_media: false
+news_desc: "El Consejo de Ministros ha aprobado este martes, 27 de octubre, a propuesta del Ministerio de Universidades, un acuerdo por el que se autoriza la convocatoria de tramitación anticipada de ayudas para Formación del Profesorado Universitario correspondiente al año 2020 (FPU2020), integrada en el Subprograma de Formación en I+D+i y en el Subprograma de Movilidad del Programa Estatal de Promoción del Talento y su Empleabilidad en I+D+i, en el marco del Plan Estatal de Investigación Científica y Técnica y de Innovación 2017-2020, por importe de 79.329.825,20 euros."
+news_title: "El Gobierno aprueba la convocatoria de 850 ayudas del programa de Formación del Profesorado Universitario (FPU) con un presupuesto de casi 80 millones de euros"
+
+news_date: 2020-10-27T14:20:22+01:00
+---
+<ul>
+<li><b>El Consejo de Ministros ha aprobado hoy, a propuesta del Ministerio de Universidades, la convocatoria de 850 ayudas del programa de Formación del Profesorado Universitario (FPU) con el objetivo de aumentar y rejuvenecer la capacidad docente e investigadora del sistema universitario público y facilitar la futura incorporación de los beneficiarios y beneficiarias.</b></li>
+<li><b>La duración de las ayudas se extiende por un período de 4 años, que puede ampliarse hasta 6 años en el caso de las personas con discapacidad.</b></li>
+</ul>
+<p>El Consejo de Ministros ha aprobado este martes, 27 de octubre, a propuesta del Ministerio de Universidades, un acuerdo por el que se autoriza la convocatoria de tramitación anticipada de ayudas para Formación del Profesorado Universitario correspondiente al año 2020 (FPU2020), integrada en el Subprograma de Formación en I+D+i y en el Subprograma de Movilidad del Programa Estatal de Promoción del Talento y su Empleabilidad en I+D+i, en el marco del Plan Estatal de Investigación Científica y Técnica y de Innovación 2017-2020, por importe de 79.329.825,20 euros.</p>
+<p>Esta actuación de la Secretaría General de Universidades permitirá la contratación de 850 investigadores e investigadoras durante cuatro años. Estas ayudas pueden ser complementadas con financiación adicional con cargo a los presupuestos de los centros de adscripción contratantes. La convocatoria de ayudas de la Secretaria General de Universidades se encuadra en el Programa Estatal de Promoción del Talento y su Empleabilidad y tiene por objetivo la formación investigadora en programas de doctorado para la consecución del título de Doctor o Doctora y la adquisición de competencias docentes universitarias en cualquier área del conocimiento científico, facilitando así la futura incorporación de las personas beneficiarias al sistema español de educación superior y de investigación científica.</p>
+<p>Las ayudas, que se convocarán en régimen de concurrencia competitiva, tendrán una duración de 4 años, salvo en el caso de discapacidad del beneficiario, en cuyo caso tendrán una duración máxima de 6 años. Existe una reserva de plazas para personas con una discapacidad igual o superior al 33% (17 plazas del total, equivalente a un 2%).</p>
+<p>Si la obtención del título de doctor tiene lugar con antelación al inicio de la última anualidad de la ayuda, se autorizará la continuidad de la ayuda FPU para la contratación, durante el período de orientación posdoctoral de un año de duración, de los investigadores recién doctorados.</p>
+<p><b>Ampliación de plazos</b></p>
+<p>Por otra parte, el Consejo de Ministros ha aprobado también la ampliación de los plazos de las actuaciones recogidas en la subvención a la línea de "Diálogo Asociación de Amistad Hispano-Francesa", que se han visto afetados por la COVID-19. Se trata de actuaciones de interés público para la incentivación de estudios de grado y postgrado en España.</p>

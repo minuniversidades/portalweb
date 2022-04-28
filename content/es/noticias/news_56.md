@@ -1,0 +1,15 @@
+---
+title: "Actualidad"   
+date: 2021-03-11T14:20:22+01:00
+has_media: false
+img: "./imagesews/ConvBrechaSalarial_436X436.jpg"
+news_desc: "Este convenio busca impulsar un estudio sobre la realidad de las retribuciones del personal docente e investigador de las universidades. El objetivo último es crear una herramienta de análisis al servicio de las universidades para que conozcan su situación en relación con la brecha salarial y puedan articular acciones encaminadas a eliminarla."
+news_title: "El Ministerio de Universidades, CRUE Universidades Españolas y ANECA acuerdan la elaboración de una investigación sobre brecha salarial con perspectiva de género."
+
+news_date: 2021-03-11T14:20:22+01:00
+---
+<p>Esta mañana, el ministro Manuel Castells, acompañado del presidente de Crue Universidades Españolas, José Carlos Gómez Villamandos, y Mercedes Siles, directora de la Agencia Nacional de Evaluación de la Calidad y Acreditación, han firmado el convenio para la elaboración conjunta de un estudio sobre las retribuciones del personal docente investigador con perspectiva de género.</p>
+<p>Una de las prioridades en el trabajo que realiza el Ministerio de Universidades tiene que ver con transversalizar la perspectiva de género. Así, las desigualdades en materia salarial son uno de los principales objetivos sobre los que actuar. Actualmente sabemos que las mujeres no superan el 25% del cuerpo de catedráticos/as, que tampoco superan el 41% del cuerpo de titulares y que las dificultades que encuentran en la carrera académica son variadas y que estas pueden afectar la brecha salarial. Es tarea de toda la comunidad universitaria detectar y actuar sobre desigualdades de este tipo para eliminarlas.</p>
+<p>En ese contexto es en el que surge este convenio que tiene como objetivo la colaboración de forma conjunta para impulsar un estudio sobre la realidad de las retribuciones del personal docente e investigador de las universidades desde una perspectiva de género. La colaboración entre el Ministerio de Universidades, Crue Universidades Españolas, a través de su Delegación para Políticas de Igualdad, y ANECA permitirá conocer el alcance de la brecha salarial existente entre mujeres y hombres en una muestra significativa de universidades públicas españolas y ayudar a eliminarla. El fin último del mismo es el de crear una herramienta de análisis al servicio de las universidades para que conozcan su situación en relación con la brecha salarial y puedan articular acciones encaminadas a eliminarla.</p>
+<p>Así, se han seleccionado las variables necesarias para recoger datos por sexo sobre las retribuciones salariales del personal docente e investigador de las universidades. También se cuenta con un equipo de personas expertas para la realización del análisis retributivo con perspectiva de género de los datos obtenidos, que serán anonimizados.</p>
+<p>El proceso de diseño y de recogida de datos se ha venido haciendo hasta finales de febrero 2021 y la realización del estudio se completará entre febrero y abril de 2021, previendo la publicación y difusión final del informe entre abril y diciembre de 2021.</p>

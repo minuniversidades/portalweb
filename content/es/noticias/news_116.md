@@ -1,0 +1,19 @@
+---
+title: "Actualidad"
+date: 2020-03-20T14:20:22+01:00
+has_media: false
+news_desc: '“Conectad@s: la universidad en casa” nace con el objetivo de servir de apoyo a docentes, estudiantado y a la sociedad en general en materias de educación online. Se trata de una iniciativa orientada a asesorar y poner a disposición recursos al conjunto de universidades del estado para afrontar de la manera más efectiva el actual cierre del espacio educativo presencial por el coronavirus'
+news_title: "El Ministerio de Universidades y Crue lanzan una plataforma para apoyar la transición de las enseñanzas presenciales a las enseñanzas online en las universidades del estado español"
+
+news_date: 2020-03-20T14:20:22+01:00
+---
+<ul>
+<li><b>El portal web es un proyecto del Ministerio de Universidades y Crue Universidades Españolas</b></li>
+<li><b>Ha sido diseñado por la UNED (Universidad Nacional de Educación a Distancia) y la UOC (Universitat Oberta de Catalunya), junto con la contribución de todas las universidades españolas</b></li>
+<li><b>El portal “Conectad@s: la universidad en casa” es una plataforma con contenidos útiles para la formación online: módulos didácticos, contenidos de orientación metodológica, plataformas tecnológicas y software, así como asesoramiento psicológico</b></li>
+</ul>
+<p>“<a title=" &quot;Ir a 'Conectados: la universidad en casa', en ventana nueva&quot;" href="https://www.uned.es/universidad/inicio/uned_uoc_solidaria.html" target="_blank" rel="noopener">Conectad@s: la universidad en casa</a>” nace con el objetivo de servir de apoyo a docentes, estudiantado y a la sociedad en general en materias de educación online. Se trata de una iniciativa orientada a asesorar y poner a disposición recursos al conjunto de universidades del estado para afrontar de la manera más efectiva el actual cierre del espacio educativo presencial por el coronavirus.</p>
+<p>El portal es un proyecto del Ministerio de Universidades y<span>&nbsp;</span><a title="&quot;Ir a 'Crue Universidades Españolas', en ventana nueva&quot;" href="http://www.crue.org/SitePages/Inicio.aspx" target="_blank" rel="noopener">Crue Universidades Españolas</a>. Está diseñado por la<span>&nbsp;</span><a title="&quot;Ir a 'UNED', en ventana nueva&quot;" href="https://www.universidades.gob.es/portal/site/universidades/menuitem.43f867cc076c14d185cacc2c026041a0/%22Ir%20a%20'Crue%20Universidades%20Espa%C3%B1olas',%20en%20ventana%20nueva%22" target="_blank" rel="noopener">UNED</a><span>&nbsp;</span>y la<span>&nbsp;</span><a title=" &quot;Ir a 'UOC', en ventana nueva&quot;" href="https://www.uoc.edu/portal/es/index.html" target="_blank" rel="noopener">UOC</a>, junto con la contribución de todas las universidades españolas. El portal web recoge un extenso abanico de recursos de orientación y formación para el profesorado sobre metodología de formación en línea, útil para el diseño y desarrollo de cursos no presenciales. En el portal se ofrece al personal investigador, docente, pero también al estudiantado, un amplio repertorio de materiales digitales y contenidos en abierto de distintas áreas de conocimiento.</p>
+<p>Además, tendrá entre sus contenidos una serie de conferencias, consejos, materiales de divulgación y atención personalizada para el cuidado psicológico de quienes lo requieran en estas circunstancias tan excepcionales por el estado de alarma en el que nos encontramos ahora mismo.</p>
+<p>Con esta medida de solidaridad, responsabilidad social y colaboración ciudadana, el Ministerio de Universidades y Crue ponen a disposición de quienes deban incorporarse rápidamente al sistema de formación en línea debido a la crisis del coronavirus los recursos necesarios para tal fin.</p>
+<p>Todos los recursos de la plataforma #LaUniversidadEnCasa son gratuitos y están enfocados tanto a la comunidad universitaria española como a instituciones de enseñanza. Este portal se irá actualizando en lo sucesivo con dicho objetivo.</p>

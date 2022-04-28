@@ -1,0 +1,24 @@
+---
+title: "Actualidad"   
+date: 2021-05-14T14:20:22+01:00
+has_media: false
+news_desc: "El Ministerio de Universidades y la UNED, presentan un proyecto piloto en el Centro Asociado de la UNED en Teruel para buscar una solución a los problemas que se enfrenta la España despoblada desde el ámbito universitario."
+news_title: "El Ministerio de Universidades y la UNED presentan un proyecto piloto en Teruel para hacer frente a la España despoblada"
+
+news_date: 2021-05-14T14:20:22+01:00
+---
+<ul>
+<li><b>El Ministerio de Universidades y la UNED, presentan un proyecto piloto en el Centro Asociado de la UNED en Teruel para buscar una solución a los problemas que se enfrenta la España despoblada desde el ámbito universitario.</b></li>
+</ul>
+<p>El rector de la UNED,<span>&nbsp;</span><a href="http://portal.uned.es/portal/page?_pageid=93,28450288&amp;_dad=portal&amp;_schema=PORTAL">Ricardo Mairal Usón</a>, y el ministro de Universidades,<span>&nbsp;</span><a href="https://www.lamoncloa.gob.es/gobierno/Paginas/130120-manuelcastellsoliv.aspx">Manuel Castells Oliván</a>, presentan “La UNED y el territorio: la universidad ante el reto de la despoblación”, que busca servir como proyecto piloto para promover la retención y captación de talento en el ámbito universitario y fortalecer oportunidades de emprendimiento económico, laboral y social que contribuyan a mejorar las capacidades de la sociedad turolense para afrontar los desafíos de la globalización y de la revolución tecnológica que definen la España y el mundo actuales.</p>
+<p>Asimismo, el Ministerio de Universidades trabaja coordinadamente con la Vicepresidencia de Transición Ecológica y del Reto Demográfico, y sus propuestas se incardinan en el Plan de Medidas ante el Reto Demográfico que, como se ha hecho público, contará con una inversión superior a 10.000 millones de euros y cuya finalidad es luchar contra la despoblación y garantizar la cohesión social y territorial actual y futura.</p>
+<p>Esta cooperación en esta empresa se concretará, asimismo, en un grupo de trabajo en el que participan el Ministerio de Universidades, la Vicepresidencia de Transición Ecológica y del Reto Demográfico y la Conferencia de Rectores de las Universidades Españolas, y que tiene un carácter eminentemente operativo y propositivo. Sus objetivos son el revalorizar las acciones que ya vienen desarrollando las universidades (formativas y de investigación y transferencia) para luchar contra el despoblamiento y en favor del reequilibrio territorial, así como en difundir las diversas experiencias potenciando su carácter demostrativo y que pueda ser aplicable en otros territorios del país.</p>
+<p>Las tres principales líneas de actuación de “La UNED y el territorio” serán las siguientes:</p>
+<p>La creación de aulas universitarias de la UNED en el territorio provincial, el desarrollo de estructuras para la investigación en determinadas áreas prioritarias y la creación de un Centro de Orientación y Empleo (COIE) dirigido al emprendimiento y a la realización de prácticas.</p>
+<p>El Proyecto<span>&nbsp;</span><b><em>La UNED y el territorio: la Universidad ante el reto de la despoblación</em></b>, en Teruel se concreta en cuatro ejes prioritarios:</p>
+<ul>
+<li>La creación del Aula de la UNED e Alcañiz para favorecer una formación más dinámica y adaptativa de población en estos territorios. Será dependiente del Centro asociado de la UNED de Teruel. En esta Aula se impartirán el curso de acceso a la universidad para mayores de 25 y 45 años, estudios de Grado y actividades de extensión universitaria. Cuenta con el apoyo del Ayuntamiento de Alcañiz, la Diputación Provincial de Teruel, el Gobierno de Aragón y la propia UNED.</li>
+<li>La creación del Instituto de Investigación en Humanidades y Patrimonio Histórico en la localidad de Alcañiz, que desarrollará labores de investigación, divulgación científica y transferencia del conocimiento hacia las sociedades locales y el tejido productivo e institucional.</li>
+<li>La puesta en marcha de la Cátedra UNED “Drones y aviación comercial”, inicialmente financiada por la UNED, y que desarrollará actividades relacionadas con los drones y la aviación comercial en todos sus ámbitos (desarrollo, ingeniería, utilidades, formación de personal, etc.). Será dirigida por un profesor de la Escuela Técnica Superior de Ingenieros Industriales de la UNED.</li>
+<li>La creación de un Centro de Orientación y Empleo (COIE) en el Centro Asociado de Teruel. Este Centro será el paso previo a la puesta en marcha de un Centro de Emprendimiento por parte del Vicerrectorado de Estudiantes y Emprendimiento. Está previsto que tanto el COIE como el Centro de Emprendimiento se integren con el tejido empresarial de la provincia, aporten consejo empresarial (formación específica, seguimiento de los proyectos&hellip;), pongan en marcha cursos sobre la creación de microempresas, emprendimiento, orientación y capacitación.</li>
+</ul>

@@ -1,0 +1,34 @@
+---
+title: "Actualidad"
+date: 2021-09-07T14:20:22+01:00
+has_media: false
+news_desc: "El Consejo de Ministros ha aprobado hoy la Ley de Convivencia Universitaria que establece las bases para dotar a las universidades públicas del conjunto del estado de un marco común para la resolución de conflictos con un enfoque democrático."
+news_title: "El Gobierno aprueba la nueva Ley de Convivencia Universitaria propuesta por el Ministerio de Universidades"
+news_date: 2021-09-07T14:20:22+01:00
+---
+<ul>
+<li><b>El Consejo de Ministros ha aprobado hoy la Ley de Convivencia Universitaria que establece las bases para dotar a las universidades públicas del conjunto del estado de un marco común para la resolución de conflictos con un enfoque democrático.</b></li>
+<li><b>Esta ley sustituye a la anterior norma, anacrónica y preconstitucional, que databa de 1954.&nbsp;</b></li>
+</ul>
+<p>El Consejo de Ministros ha aprobado esta misma mañana a propuesta del Ministerio de Universidades, la Ley de Convivencia Universitaria. Esta nueva norma deroga el Decreto de 8 de septiembre de 1954 por el que se aprueba el Reglamento de Disciplina Académica de los Centros Oficiales de Enseñanza Superior y de Enseñanza Técnica dependientes del Ministerio de Educación Nacional que permanecía vigente respecto del estudiantado, en clara contradicción con los principios democráticos de nuestra sociedad actual.</p>
+<p>La nueva Ley, además de adaptarse plenamente al ordenamiento constitucional vigente, reformula el marco de convivencia universitaria poniendo el acento en el ejercicio de las libertades y los derechos fundamentales, y la convivencia activa y corresponsable entre todas las personas que integran la comunidad universitaria. Y como ley básica para todo el Estado, garantiza la igualdad de derechos y sienta las bases para un posterior desarrollo por las Comunidades Autónomas y las propias universidades.</p>
+<p>Esta Ley de Convivencia Universitaria nace de recoger una amplia demanda que indicaba la necesidad de abordar la derogación de una norma preconstitucional que permanecía vigente.</p>
+<p><b>Un marco adecuado para el ejercicio de derechos y libertades</b></p>
+<p>La Ley de Convivencia pone en el centro de la convivencia la mediación, como vía principal de resolución de conflictos.&nbsp;</p>
+<p>El régimen disciplinario únicamente entrará en juego cuando las partes rechacen acudir al procedimiento de mediación, cuando la conducta sobre la que verse el expediente sancionador esté expresamente excluida de ese procedimiento (como los casos de acoso y violencia de género, el fraude universitario o la destrucción de patrimonio) o cuando las partes no consigan llegar a un acuerdo.</p>
+<p><b>Las normas de convivencia</b></p>
+<p>Las universidades públicas y privadas deberán aprobar Normas de Convivencia que garanticen el respeto a la diversidad y la tolerancia, la igualdad y la inclusión de los colectivos vulnerables; la libertad de expresión, el derecho de reunión y asociación, la libertad de enseñanza y la libertad de cátedra; la eliminación de toda forma de violencia, discriminación y/o acoso; la transparencia en el desarrollo de la actividad académica; la utilización y conservación de los bienes y recursos de la universidad de acuerdo con su función de servicio público; el respeto de los espacios comunes, etc.</p>
+<p>Las universidades públicas y privadas incluirán en dichas Normas medidas de prevención y respuesta frente a los casos de violencia, discriminación, y/o acoso, que serán de aplicación al estudiantado, al personal docente e investigador y al personal de administración y servicios, cualquiera que sea el instrumento jurídico de vinculación con la universidad.</p>
+<p><b>La Comisión de Convivencia</b></p>
+<p>Las universidades crearán una Comisión de Convivencia, integrada de manera paritaria por representantes del estudiantado, del personal docente e investigador, y del personal de administración y servicios, elegidos por el Claustro a propuesta de cada uno de los sectores, garantizando el principio de composición equilibrada entre mujeres y hombres. Los integrantes del equipo rectoral no podrán formar parte de dicha Comisión.</p>
+<p>Esta Comisión será la encargada de canalizar las iniciativas y propuestas para mejorar la convivencia en la universidad, promover la utilización del mecanismo de mediación y, en aquellos casos en que resulte procedente, tramitar el procedimiento de mediación como alternativa al régimen sancionador.</p>
+<p>La Comisión promoverá la utilización del<span>&nbsp;</span><em>mecanismo de mediación</em>&nbsp; y podrá realizar sesiones informativas para comunicar a las personas involucradas en un conflicto, su disponibilidad y alcance.</p>
+<p>La Comisión será informada, previo consentimiento de las personas involucradas, sobre el curso de un procedimiento disciplinario (para dar mayor transparencia y garantías en el procedimiento).</p>
+<p><b>Alcance de la Ley de Convivencia Universitaria</b></p>
+<p>Esta Ley será de aplicación para las universidades públicas del sistema universitario español y también a los centros públicos adscritos; y, como modificación al anteproyecto de ley, las universidades privadas, y sus centros privados adscritos, también desarrollarán sus Normas de Convivencia con base en los principios contenidos en ella.</p>
+<p>Lo dispuesto por esta Ley será de aplicación a la comunidad universitaria, integrada por el estudiantado, pero también al personal docente e investigador y el personal de administración y servicios de las universidades públicas, y de sus centros públicos adscritos, sin perjuicio de la sujeción, en su caso, al régimen disciplinario que les corresponda.</p>
+<p>Esta Ley instaura un nuevo marco para la convivencia universitaria, en consonancia con los principios democráticos, y el ejercicio pleno de los derechos, y que trasciende un enfoque meramente punitivo para promover una convivencia activa basada en la tolerancia, el pluralismo, el respeto a la diversidad, la corresponsabilidad, y la resolución pacífica de los conflictos.</p>
+<p><b>Una ley dialogada con todos los actores</b></p>
+<p>La Ley de Convivencia Universitaria ha sido contrastada a lo largo de todo el proceso de elaboración con los principales actores de la comunidad universitaria: Comunidades Autónomas, Universidades y estudiantado (CRUE, CGPU y estudiantado (CEUNE y CREUP)); y este contraste ha permitido concretar algunas conductas en el catálogo de faltas, y ampliar la gradación de las sanciones para dar mayores garantías al estudiantado. Se incluye, asimismo, la posibilidad de aplicar medidas sustitutivas de la sanción - de carácter educativo o recuperador-&nbsp; en el caso de las faltas graves.</p>
+<p>Más información:</p>
+<p><a href="mailto:prensa@universidades.gob.es">prensa@universidades.gob.es</a></p>

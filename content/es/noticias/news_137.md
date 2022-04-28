@@ -1,0 +1,24 @@
+---
+title: "Actualidad"
+date: 2018-12-11T14:20:22+01:00
+has_media: true
+img: "./images/news/181211-Patronato_436X436.jpg"
+news_desc: "El Patronato de la Universidad Internacional Menéndez Pelayo (UIMP) -a cuyos miembros ha saludado el ministro de Ciencia, Innovación y Universidades, Pedro Duque, antes de iniciar su reunión-, ha propuesto hoy, por unanimidad, a María Luz Morán Calvo-Sotelo, catedrática de sociología de la Universidad Complutense de Madrid (UCM) como nueva rectora."
+news_title: "El Patronato de la UIMP propone por unanimidad como rectora a María Luz Morán Calvo-Sotelo"
+
+news_date: 2018-12-11T14:20:22+01:00
+---
+<ul>
+<li><b>Es la primera mujer en dirigir el Rectorado en la historia de la Universidad Internacional Menéndez Pelayo</b></li>
+</ul>
+<ul>
+<li><b>Morán es experta conocedora del sistema universitario y tiene seis sexenios de investigación, los máximos que se pueden obtener en la carrera académica</b></li>
+</ul>
+<p><span lang="ES-TRAD">El Patronato de la Universidad Internacional Menéndez Pelayo (UIMP) -a cuyos miembros ha saludado el ministro de Ciencia, Innovación y Universidades, Pedro Duque, antes de iniciar su reunión-, ha propuesto hoy, por unanimidad, a María Luz Morán Calvo-Sotelo, catedrática de sociología de la Universidad Complutense de Madrid (UCM) como nueva rectora.</span></p>
+<p><span lang="ES-TRAD">Los patronos, según está regulado en los estatutos de la Universidad, son los únicos con competencia para elegir rector y, tras la renuncia de Emilio Lora-Tamayo han valorado los numerosos méritos y el brillante expediente académico y científico de la profesora Morán como los adecuados para pilotar la institución durante los próximos cuatro años.</span></p>
+<p><span lang="ES-TRAD">En consecuencia, han propuesto a su presidenta, la secretaria de Estado de Universidades e I+D+i, ángeles Heras, el nombre de María Luz Morán Calvo-Sotelo como la mejor candidata posible para ocupar el cargo de rectora. En los próximos días, el ministro de Ciencia, Innovación y Universidades llevará la propuesta de nombramiento al Consejo de Ministros.</span></p>
+<p><b><span lang="ES-TRAD">Brillantez académica</span></b></p>
+<p><span lang="ES-TRAD">Nacida en Buenos Aires (1957), la nueva rectora es doctora en Ciencias Políticas y Sociología por la UCM y catedrática de esa Universidad en el Departamento de Sociología Aplicada de la Facultad de Ciencias Políticas y Sociología.</span><span>&nbsp;</span>Experta en programación y gestión académica ha sido, asimismo, vicedecana de Investigación y Tercer Ciclo de la Facultad de Ciencias Políticas y Sociología y vicerrectora de Postgrado y Formación Continua de la UCM.</p>
+<p>La nueva rectora de la UIMP tiene acreditados seis sexenios de investigación, los máximos que se pueden obtener en la carrera científica. A lo largo de su trayectoria académica, María Luz Morán ha realizado actividad docente e investigadora de excelencia, nacional e internacionalmente reconocida. Ha realizado estancias de investigación en la Universidad de Harvard (Cambridge, Ma., Estados Unidos), en el Instituto Universitario Europeo (Florencia, Italia), L&rsquo;école des Hautes études en Sciences Sociales, París (Francia) y en distintos países de América Latina<span lang="ES-TRAD">.</span></p>
+<p><span lang="ES-TRAD">Ha impartido distintas asignaturas de licenciatura y grado, entre las que destacan Sociología Política y Conflictos Sociales y Violencia Colectiva, además de asignaturas de máster y doctorado. Sus publicaciones e investigaciones tratan sobre elites políticas, cultura política, ciudadanía y juventud. Ha publicado ocho libros, treinta y tres capítulos de libros y treinta artículos científicos en revistas indexadas.<span>&nbsp;</span></span>Posee también experiencia en actividades de evaluación universitaria, realizadas en Madrid, Cataluña, Castilla y León y País Vasco.Actualmente es miembro del Comité de Ciencias Sociales del Programa de Acreditación del Personal Docente e Investigador de UNIBASQ.</p>
+<p>Habla cuatro idiomas: inglés, francés, italiano y portugués; fue subdirectora general del Banco de Datos y de Publicaciones del Centro de Investigaciones Sociológicas y ha sido miembro del comité de redacción de distintas revistas académicas, entre ellas “Política y Sociedad”, de la que fue primero subdirectora y luego directora hasta el pasado año. Actualmente,<span>&nbsp;</span><span lang="ES-TRAD">se encuentra dirigiendo el siguiente proyecto de investigación del Programa Estatal de Investigación, Desarrollo e Innovación Orientada a los Retos de la Sociedad:<span>&nbsp;</span></span>“Discursos y representaciones sobre seguridad y su impacto en la cultura política en España”.</p>

@@ -1,0 +1,16 @@
+---
+title: "Actualidad"
+date: 2019-02-26T14:20:22+01:00
+has_media: true
+img: "./images/news/190226-SEUDI_436X436.jpg"
+news_desc: "La secretaria de Estado de Universidades e I+D+I, Ángeles Heras, y el secretario general de Universidades, José Manuel Pingarrón, se han reunido hoy con los miembros de la Comisión Permanente del Consejo de Estudiantes Universitarios del Estado (CEUNE) para informarles del contenido de las conversaciones con el Ministerio de Trabajo, Migraciones y Seguridad Social en relación a las prácticas universitarias y recabar sus opiniones."
+news_title: "Los estudiantes universitarios valoran las actuaciones del Ministerio en relación a las prácticas"
+
+news_date: 2019-02-26T14:20:22+01:00
+---
+<p>La secretaria de Estado de Universidades e I+D+I, ángeles Heras, y el secretario general de Universidades, José Manuel Pingarrón, se han reunido hoy con los miembros de la Comisión Permanente del Consejo de Estudiantes Universitarios del Estado (CEUNE) para informarles del contenido de las conversaciones con el Ministerio de Trabajo, Migraciones y Seguridad Social en relación a las prácticas universitarias y recabar sus opiniones.</p>
+<p>Los representantes de los estudiantes universitarios españoles han acogido positivamente las actuaciones del Ministerio de Ciencia, Innovación y Universidades para garantizar y mejorar los derechos de los alumnos durante la realización de las prácticas curriculares externas, como el derecho a realizar prácticas de calidad, tal como se contempla en sus correspondientes planes de estudio, y asegurar y mejorar la cobertura de los estudiantes en prácticas de manera que, en caso de contingencias profesionales, puedan quedar cubiertas por el régimen de la Seguridad Social.</p>
+<p>Asimismo, la secretaria de Estado se ha comprometido a informar de las decisiones que se vayan adoptando para el desarrollo reglamentario de la Disposición Adicional Quinta -referida a la obligatoriedad de incorporar al régimen general de la Seguridad Social a los estudiantes que realizan sus prácticas académicas externas- del Real Decreto Ley para la revalorización de las pensiones públicas y otras medidas urgentes en materia social, laboral y de empleo.</p>
+<p>Con el desarrollo de esta medida, el Gobierno persigue mejorar las prácticas académicas sin alterar su desarrollo formativo y, al mismo tiempo, reforzar el sistema de protección social de los estudiantes. Al incorporarse al régimen general de la Seguridad Social, las prácticas externas mejoran, además, en transparencia para las empresas y en eficiencia para el sistema educativo y la Administración General del Estado.</p>
+<p>Posteriormente, se ha celebrado otra reunión con la Comisión Delegada de la Conferencia General de Política Universitaria, en la que se ha dado traslado de las conversaciones y las actuaciones para el desarrollo reglamentario de las prácticas universitarias llevadas a cabo hasta ahora con el Ministerio de Trabajo, Migraciones y Seguridad Social y con la Conferencia de Rectores de las Universidades Españolas (CRUE).</p>
+<p>En esta reunión se ha tratado también el establecimiento de fechas del período de matriculación en las universidades públicas para el próximo curso académico 2019-2020.</p>
