@@ -15,16 +15,20 @@ Asimismo, le corresponde la programación, coordinación y gestión de los progr
 
 Dependen de la Secretaría General de Universidades las siguientes unidades con nivel orgánico de Subdirección General:
 
-+ La Subdirección General de Formación del Profesorado Universitario y    Programación.
-+ La Subdirección General de Títulos y Ordenación, Seguimiento y Gestión de las Enseñanzas Universitarias.
-+ La Subdirección General de Atención al Estudiante y Relaciones Institucionales.
-+ La Subdirección General de Actividad Universitaria Investigadora.
+<ol>
+    <li>La Subdirección General de Formación del Profesorado Universitario y Programación.</li>
+    <li>La Subdirección General de Títulos y Ordenación, Seguimiento y Gestión de las Enseñanzas Universitarias.</li>
+    <li>La Subdirección General de Atención al Estudiante y Relaciones Institucionales.</li>
+    <li>La Subdirección General de Actividad Universitaria Investigadora.</li>
+</ol>
 
 Se adscriben al Ministerio de Universidades, a través de la Secretaría General de Universidades:
 
-+ El organismo autónomo Universidad Internacional Menéndez Pelayo (UIMP).
-+ El organismo autónomo Agencia Nacional de Evaluación de la Calidad y la Acreditación (ANECA).
-+ El organismo autónomo Servicio Español para la Internacionalización de la Educación (SEPIE).
+<ol>
+    <li>El organismo autónomo Universidad Internacional Menéndez Pelayo (UIMP).</li>
+    <li>El organismo autónomo Agencia Nacional de Evaluación de la Calidad y la Acreditación (ANECA).</li>
+    <li>El organismo autónomo Servicio Español para la Internacionalización de la Educación (SEPIE).</li>
+</ol>
 
 La Universidad Nacional de Educación a Distancia se relaciona administrativamente con el Ministerio de Universidades a través de la Secretaría General de Universidades.  
 

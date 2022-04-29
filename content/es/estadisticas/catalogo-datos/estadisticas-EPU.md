@@ -61,8 +61,8 @@ url: "/estadisticas/catalogo-datos/estadisticas-epu/"
                                                             por personal docente e investigador, personal de
                                                             administración y servicios, personal empleado
                                                             investigador y personal técnico de apoyo a la
-                                                            investigación.
-                                                            <b>Información relacionada
+                                                            investigación.<br>
+                                                            <b>Información relacionada</b>
                                                             <ul>
                                                                 <li><a href="http://estadisticas.mecd.gob.es/EducaDynPx/educabase/index.htm?type=pcaxis&path=/Universitaria/Personal/EPU19/PU&file=pcaxis&l=s0"
                                                                         target="_blank">Personal de
