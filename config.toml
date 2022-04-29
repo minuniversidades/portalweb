@@ -94,6 +94,13 @@ navigationNewWindow = true
     url = "/medidas-estrategicas/brexit"
     parent = "Medidas_Estrategicas"
     weight = 8
+[[menu.main]]
+    identifier = "Estudio Abandono Universitario"
+    name = "Estudio Abandono Universitario"
+    # url = "https://planderecuperacion.gob.es/"
+    url = "https://www.universidades.gob.es/portal/site/universidades/menuitem.a9621cf716a24d251662c810026041a0/?vgnextoid=717936dc7c29f710VgnVCM1000001d04140aRCRD"
+    parent = "Medidas_Estrategicas"
+    weight = 9
   [[menu.main]]
     identifier = "Tu_Administracion"
     name = "Tu Administración"
