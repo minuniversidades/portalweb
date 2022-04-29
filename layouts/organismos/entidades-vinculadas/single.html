@@ -159,14 +159,14 @@
         </article>
 <!-- <article id="section_box_cards_blue"> -->
         <article id="section_box_cards_blue" class="cards_box_custom mb-120">
-            <div class="container container-xl">
+            <div class="container container-xl p-0">
                 <div class="row">
                     {{ $title := .Title }}
                     {{ $sectionPages := where $.Site.Pages "Params.organism_cat" "organismos" }}
                         {{ range $sectionPages }}
                                 {{ if and (ge (len $sectionPages) 1) (ne .Title $title) }}
 <!--    <div class="col-lg-4 col-xl-3 mr-card-hover"> -->
-                                    <div class="col-lg-3">
+                                    <div class="col-lg-4 col-xl-3 mr-card-hover">
                                         <a href="{{ .Permalink }}" class="card card-img">
                                             <div class="box_icon">
                                                 <div class="img" style="background-image: url({{ if isset .Params "img" }}{{ .Params.img | absURL }}{{ else }}{{ .Params.section_img | absURL }}{{ end }});"></div>
