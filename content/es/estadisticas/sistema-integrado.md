@@ -47,15 +47,15 @@ weight: 5
                                                     <div class="row">
                                                         <div class="col-12">
                             El SIIU está dividido en diferentes áreas y en cada una de ellas se dispone de variables e indicadores que permiten realizar un análisis exhaustivo de las diversas dimensiones del sistema universitario.<br><br>
-                            La información disponible es la siguiente:
-                            <ol>
-                                <li><b>Área auxiliar.</b> Las universidades, públicas y privadas, con sus centros, unidades y estudios impartidos. </li> 
-                                <li><b>Área académica.</b>  Los estudiantes con sus características curriculares, sociales y demográficas. Los procesos de PAU y preinscripción. </li>
-                                <li><b>Área de recursos humanos.</b> El personal docente e investigador (PDI), personal Investigador (PI) y el personal de administración y servicios (PAS) con sus características profesionales, sociales y demográficas. </li>
-                                <li><b>Área económica.</b> Las cuentas anuales de las universidades: sus liquidaciones presupuestarias y los indicadores financieros. </li> 
-                                <li><b>Área de becas y ayudas al estudio.  Las becas concedidas por el Estado, las comunidades autónomas y las universidades, así como información curricular y sociodemográfica de sus beneficiarios. </b>  </li>
-                                <li><b>Área de inserción laboral.</b> La entrada y el mantenimiento de los egresados universitarios en el mercado del trabajo. </li>
-                            </ol>
+                            La información disponible es la siguiente: <br><br>
+                            <ul>
+                                <li class="mb-3"><b>Área auxiliar.</b> Las universidades, públicas y privadas, con sus centros, unidades y estudios impartidos. </li> 
+                                <li class="mb-3"><b>Área académica.</b>  Los estudiantes con sus características curriculares, sociales y demográficas. Los procesos de PAU y preinscripción. </li>
+                                <li class="mb-3"><b>Área de recursos humanos.</b> El personal docente e investigador (PDI), personal Investigador (PI) y el personal de administración y servicios (PAS) con sus características profesionales, sociales y demográficas. </li>
+                                <li class="mb-3"><b>Área económica.</b> Las cuentas anuales de las universidades: sus liquidaciones presupuestarias y los indicadores financieros. </li> 
+                                <li class="mb-3"><b>Área de becas y ayudas al estudio.  Las becas concedidas por el Estado, las comunidades autónomas y las universidades, así como información curricular y sociodemográfica de sus beneficiarios. </b>  </li>
+                                <li class="mb-3"><b>Área de inserción laboral.</b> La entrada y el mantenimiento de los egresados universitarios en el mercado del trabajo. </li>
+                            </ul>
                                                         </div>
                                                     </div>
                                                 </div>
