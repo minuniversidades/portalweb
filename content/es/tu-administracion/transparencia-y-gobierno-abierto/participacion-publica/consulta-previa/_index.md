@@ -81,7 +81,7 @@ weight: 1
 							</a>
 					</div>
 					<div class="col-12 public_info_label">
-							<a class="card" href="https://www.educacionyfp.gob.es/servicios-al-ciudadano/informacion-publica/consulta-publica-previa/abiertos/2021/prd-umbrales-renta-2022-2023.html" target="_blank">
+							<a class="card" href="https://www.educacionyfp.gob.es/servicios-al-ciudadano/informacion-publica/audiencia-informacion-publica/cerrados/2021/prd-umbrales-renta-2022-23.html" target="_blank">
                             <div class="card-body">
                                 <h5 class="card-title">Proyecto de Real decreto por el que se establece los umbrales de renta y patrimonio familiar y las cuantías de las becas y ayudas al estudio para el curso 2022-2023
 								</h5>
