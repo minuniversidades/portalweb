@@ -54,10 +54,36 @@ url: "/estadisticas/catalogo-datos/indicadores-rendimiento/"
 <br>
 Últimos datos publicados curso 2019-2020 <br>
 Fecha de publicación: 05-10-2021<br><br>
-<ul>
-<li><a href="http://estadisticas.mecd.gob.es/EducaDynPx/educabase/index.htm?type=pcaxis&path=/Universitaria/Indicadores/2021/Grado&file=pcaxis&l=s0" target="_blank">GRADO <i class="fas fa-external-link-alt"></i></a></li>
-<li><a href="http://estadisticas.mecd.gob.es/EducaDynPx/educabase/index.htm?type=pcaxis&path=/Universitaria/Indicadores/2021/Master&file=pcaxis&l=s0" target="_blank">MÁSTER  <i class="fas fa-external-link-alt"></i></a></li>
-</ul>
+<!--cartas -->  
+<section>
+        <article id="section_box_cards_blue" class="cards_box_custom mb-120">
+            <div class="container container-xl">
+                <div class="row">
+                    <div class="col-lg-4 col-xl-3 mr-card-hover"> <!-- la primera carta -->
+                        <a href="http://estadisticas.mecd.gob.es/EducaDynPx/educabase/index.htm?type=pcaxis&path=/Universitaria/Indicadores/2021/Grado&file=pcaxis&l=s0" class="card card-img " target="_blank">
+                            <div class="box_icon">
+                                <div class="img" style="background-image: url('{{<siteurl>}}images/Grupo_621.png');"></div>
+                            </div>
+                            <div class="card-body">
+                                <p class="card-text card-text-blue">GRADO <i class="icon fas fa-external-link-alt"></i></p>
+                            </div>
+                        </a>
+                    </div> <!-- el final de la primera carta -->
+                    <div class="col-lg-4 col-xl-3 mr-card-hover"> <!-- la segubda carta -->
+                        <a href="http://estadisticas.mecd.gob.es/EducaDynPx/educabase/index.htm?type=pcaxis&path=/Universitaria/Indicadores/2021/Master&file=pcaxis&l=s0" class="card card-img " target="_blank">
+                            <div class="box_icon">
+                                <div class="img" style="background-image: url('{{<siteurl>}}images/Grupo_622.png');"></div>
+                            </div>
+                            <div class="card-body">
+                                <p class="card-text card-text-blue">MASTER <i class="icon fas fa-external-link-alt"></i></p>
+                            </div>
+                        </a>
+                    </div> <!-- el final de la segunda carta -->
+				</div>
+			</div>
+        </div>
+    </article>
+</section>
 <br><br>	
 <section>
         <article>
