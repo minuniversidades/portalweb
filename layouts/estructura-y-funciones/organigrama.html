@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang={{ if .Site.IsMultiLingual }}{{.Language}}{{end}}>
+  {{ partial "header-parts/head.html" . }}
+  <body>
+    {{ partial "header.html" . }}
+    <section>
+        <article id="header_interno">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-lg-12 box">
+                        <div class="img img_expanded" style="background: url({{ .Params.section_img | absURL }});"></div>
+                        <h2>{{ .Title }}</h2>
+                    </div>
+                </div>
+            </div>
+        </article>
+    </section>
+    {{ .Scratch.Set "breadcrumbClass" "" }}
+    {{ partial "includes/breadcrumb.html" . }}
+    {{ if len .Content }}
+        <section>
+            <article id="content_text">
+                <div class="container container-xl">
+                    <div class="row">
+                        <div class="col-lg-12 box">
+                            {{ .Content }}
+                        </div>
+                    </div>
+                </div>
+            </article>
+        </section>
+    {{ end }}
+    <section>
+        <article class="organigrama">
+            <div class="container cnt_special_spacing_org">
+                <div class="row">
+                    <div class="col-lg-10 offset-lg-1">
+                        <div class="box_ejemplo">
+                            <div class="rectangle">
+                                <div class="level-1 level-1-top-right">
+                                    <a href="#" class="btn_floting_top"> <i class="far fa-calendar-check"></i></i></a>
+                                    <div class="circle blue">
+                                        <img src={{"./images/escudo_es.svg" | absURL}} alt="logo" class="img-fluid">
+                                        <h3>Joan Subirats Humet</h3>
+                                        <h6>Ministro de Universidades</h6>
+                                        <a href="#" class="plus"> 
+                                            <i class="icon far fa-plus-circle"></i>
+                                            <i class="hover_icon fas fa-plus-circle"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="rectangle rectangle_int">
+                                <div class="level-2-interno">
+                                    <div class="circle blue">
+                                        <img src={{"./images/escudo_es.svg" | absURL}} alt="logo" class="img-fluid">
+                                        <h6 class="title_min">Marta ………………………</h6>
+                                        <h5>Gabinete Técnico</h5>
+                                    </div>
+                                </div>    
+                            </div>
+                        </div>
+                        <ol class="level-2-wrapper">
+                          <li>
+                            <div class="level-2">
+                                <div class="box_ejemplo">
+                                    <div class="rectangle">
+                                        <div class="level-1 level-1-left">
+                                            <div class="circle green">
+                                                <img src={{"./images/escudo_es.svg" | absURL}} alt="logo" class="img-fluid">
+                                                <h3>José Manuel Pingarrón C.</h3>
+                                                <h6>Secretaría General de Universidades</h6>
+                                                <a href="#" class="plus"> 
+                                                    <i class="icon far fa-plus-circle"></i>
+                                                    <i class="hover_icon fas fa-plus-circle"></i>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="rectangle rectangle_int_left">
+                                        <div class="level-2-interno">
+                                            <div class="circle green">
+                                                <img src={{"./images/escudo_es.svg" | absURL}} alt="logo" class="img-fluid">
+                                                <h6 class="title_min">Alejandro Albillo​</h6>
+                                                <h6>Gabinete técnico</h6>
+                                            </div>
+                                        </div>    
+                                    </div>
+                                </div>
+                            </div>
+                          </li>
+                          <div class="img" style="background: url('./images/escudo_es.svg');"></div>
+                          <li>
+                            <div class="level-2">
+                                <div class="box_ejemplo">
+                                    <div class="rectangle">
+                                        <div class="level-1 level-1-top-right">
+                                            <div class="circle purple">
+                                                <img src={{"./images/escudo_es.svg" | absURL}} alt="logo" class="img-fluid">
+                                                <h3>Markus González Beilfuss</h3>
+                                                <h6>Subsecretario de Universidades</h6>
+                                                <a href="#" class="plus"> 
+                                                    <i class="icon far fa-plus-circle"></i>
+                                                    <i class="hover_icon fas fa-plus-circle"></i>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="rectangle rectangle_int">
+                                        <div class="level-2-interno">
+                                            <div class="circle purple">
+                                                <img src={{"./images/escudo_es.svg" | absURL}} alt="logo" class="img-fluid">
+                                                <h6 class="title_min">Alicia Lozano Merayo​</h6>
+                                                <h5>Gabinete Técnico</h5>
+                                            </div>
+                                        </div>    
+                                    </div>
+                                </div>
+                            </div>
+                          </li>
+                        </ol>
+                    </div>
+                    <div class="col-lg-12 box_3 sp">
+                        <ol class="level-3-wrapper wrapper-right">
+                            <li>
+                                <div class="level-3 green rectangle_interno dashed_separador_top m_h_100">
+                                    <p>O.A. Universidad Internacional Menéndez Pelayo(UIMP)</p>
+                                    <a href="#" class="btn_floting_botton"> <i class="icon fas fa-external-link-alt"></i></a>
+                                </div>
+                                <div class="level-3 green rectangle_interno dashed_separador m_h_100">
+                                    <p>O.A. Agencia Nacional de Evaluación de la Calidad y Acreditación (ANECA)</p>
+                                    <a href="#" class="btn_floting_botton"> <i class="icon fas fa-external-link-alt"></i></a>
+                                </div>
+                                <div class="level-3 green rectangle_interno dashed_separador m_h_100">
+                                    <p>O.A. Servicio Español para la Internacionalización de la Educación (SEPIE)</p>
+                                    <a href="#" class="btn_floting_botton"> <i class="icon fas fa-external-link-alt"></i></a>
+                                </div>
+                                <div class="level-3 green rectangle_interno  m_h_100">
+                                    <p>Colegio de España en Paris </p>
+                                    <a href="#" class="btn_floting_botton"> <i class="icon fas fa-external-link-alt"></i></a>
+                                </div>
+                              </li>
+                              <li>
+                                  <div class="level-3 green rectangle_interno">
+                                      <p>Subdirección General de Formación del Profesorado Universitario y Programación</p>
+                                      <p class="name">Lourdes Almodóvar Ruiz</p>
+                                      <p>Subdirección General de Seguimiento y Gestión de las Enseñanzas Universitarias </p>
+                                      <p class="name">M. Valle Pérez Barbachano</p>
+                                      <p>Subdirección General de Atención al Estudiante y Relaciones Institucionales </p>
+                                      <p class="name">Margarita Lezcano-Mújica Núñez</p>
+                                      <p>Subdirección General de Actividad Universitaria Investigadora </p>
+                                      <p class="name">Manuel Gonzalez Bedía</p>
+                                  </div>
+                              </li>
+                          </ol>
+                          <ol class="level-3-wrapper wrapper-left justify-content-end">
+                              <li class="box_1">
+                                <div class="box_cards_vertical">
+                                    
+                                    <div class="level-3 purple rectangle_interno">
+                                        <p>Vice-secretaría General Técnica</p>
+                                        <p class="name">Carmen Burguillo Burgos</p>
+                                        <p>Vice-secretaría General Técnica</p>
+                                        <p class="name">Carmen Burguillo Burgos</p>
+                                        <p>Subdirección General de Recursos y Relaciones con los Tribunales </p>
+                                        <p class="name">Patricia de la Cruz Ibáñez</p>
+                                    </div>
+                                </div>
+                              </li>
+                            <li class="box_2">
+                              <div class="level-3 purple rectangle_interno">
+                                  <p>Subdirección General de Gestión Económica, Oficina Presupuestaria y Asuntos Generales </p>
+                                  <p class="name">Lidia Díaz Santamaría​</p>
+                                  <p>Subdirección General de Personal e Inspección de Servicios </p>
+                                  <p class="name">M. Isabel Rodriguez Gregorio</p>
+                                  <p>División de Tecnologías de la Información y la Comunicación</p>
+                                  <p class="name">Pedro-Jesús Pastor Muñoz</p>
+                              </div>
+                            </li>
+                            <li class="box_3">
+                                <div class="level-3 purple rectangle_interno mh_185">
+                                    <p>Abogacía del Estado en el Departamento</p>
+                                    <p class="name">Ana Belén Sanmartín Ontoria </p>
+                                    <p>Intervención Delegada</p>
+                                    <p class="name">Pedro Cañas Navarro</p>
+                                </div>
+                            </li>
+                          </ol>
+                    </div>
+                </div>
+            </div>
+        </article>
+    </section>
+    <section>
+        <article>
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 buttons_org box_buttons d-flex align-content-center justify-content-center">
+                        <a class="btn btn_outline_blue">DESCARGAR ORGANIGRAMA <i class="fal fa-file-pdf"></i></a>
+                    </div>
+                </div>
+            </div>
+        </article>
+    </section>
+    <section>
+        <article id="leyenda" class="mb-120">
+            <div class="container cnt_special_spacing">
+                <div class="row">
+                    <div class="col-lg-12 card">
+                        <h4>Leyenda</h4>
+                        <div class="box">
+                            <div class="item">
+                                <i class="far fa-calendar-check"></i>
+                                <p>Agenda del Ministro de Universidades</p>
+                            </div>
+                            <div class="item">
+                                <i class="far fa-calendar-check"></i>
+                                <p>Currículum vitae</p>
+                            </div>
+                            <div class="item">
+                                <i class="icon fas fa-external-link-alt"></i>
+                                <p>Link a las páginas correspondientes</p>
+                            </div>
+                            <div class="item">
+                                <p class="icon">....</p>
+                                <p>Línea de adscripción de Organismos Públicos</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </article>
+    </section>
+    <section class="mb-120">
+        <article id="section_sub_title">
+            <!-- <div class="container"> -->
+            <div style="margin: 0 3rem;">
+                <div class="row">
+                    <div class="col-12 subtitle d-flex align-content-center">
+                        <i class="fas fa-newspaper d-none d-lg-inline-block"></i>
+                        <i class="fal fa-newspaper d-block d-lg-none"></i>
+                        <h4>{{ i18n .Parent.Title | upper }}</h4>
+                    </div>
+                </div>
+            </div>
+        </article>
+        <article id="section_box_cards_blue" class="cards_box_custom mb-120">
+            <div class="container container-xl">
+                <div class="row">
+                    {{ $title := .Title }}
+                    {{ $sectionPages := where $.Site.RegularPages "Type" "estructura-y-funciones" }}
+                    {{ range $sectionPages }}
+                            {{ if and (ge (len $sectionPages) 1) (ne .Title $title) }}
+                                <div class="col-lg-4 col-xl-3 mr-card-hover">
+                                    <a href="{{ .Permalink }}" class="card card-img" {{ if isset .Params "external_link" }}target="_blank"{{ end }}>
+                                        <div class="box_icon">
+                                            <div class="img" style="background-image: url({{ if isset .Params "img" }}{{ .Params.img | absURL }}{{ else }}{{ .Params.section_img | absURL }}{{ end }});"></div>
+                                        </div>
+                                        <div class="card-body">
+                                            <p class="card-text card-text-blue">{{ .Title }} {{ if isset .Params "external_link" }}<i class="fal fa-file-pdf pdf_icon"></i>{{ end }}</p>
+                                        </div>
+                                    </a>
+                                </div>
+                            {{ end }}
+                    {{ end }}
+                    {{ if not (eq .Parent.Title .FirstSection.Title) }}
+                        <div class="col-lg-4 col-xl-3 mr-card-hover">
+                            <a href="{{ .Parent.Permalink }}" class="card card-img" {{ if isset .Parent.Params "external_link" }}target="_blank"{{ end }}>
+                                <div class="box_icon">
+                                    <div class="img" style="background-image: url({{ if isset .Parent.Params "img" }}{{ .Parent.Params.img | absURL }}{{ else }}{{ .Parent.Params.section_img | absURL }}{{ end }});"></div>
+                                </div>
+                                <div class="card-body">
+                                    <p class="card-text card-text-blue">{{ .Parent.Title }} {{ if isset .Params "external_link" }}<i class="fal fa-file-pdf pdf_icon"></i>{{ end }}</p>
+                                </div>
+                            </a>
+                        </div>
+                    {{ end }}
+                </div>
+            </div>
+        </article>
+          <!-- MOBILE VERSION WITH SLIDER -->
+        <article id="section_box_cards_blue_slider_img">
+            <div class="container">
+                <div class="row">
+                <div class="col-12">
+                    <div class="swiper" id="slider_cardsBlue">
+                        <div class="swiper-wrapper">
+                            {{ range $sectionPages }}
+                                {{ if and (ge (len $sectionPages) 1) (ne .Title $title) }}
+                                    <div class="swiper-slide">
+                                        <a href="{{ .Permalink }}" class="card card-img">
+                                            <div class="box_icon">
+                                                <div class="img" style="background-image: url({{ .Params.section_img | absURL }});"></div>
+                                            </div>
+                                            <div class="card-body">
+                                                <p class="card-text card-text-blue">{{ .Title }}</p>
+                                            </div>
+                                        </a>
+                                    </div>
+                                {{ end }}
+                            {{ end }}
+                        </div>
+                        <div class="swiper-pagination"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </article>
+    </section>
+    {{ partial "home-page-sections/sponsors-sec.html" . }}
+    {{ partial "footer.html" . }}
+  </body>
+</html>
