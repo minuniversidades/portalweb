@@ -38,12 +38,12 @@
                         <div class="box_ejemplo">
                             <div class="rectangle">
                                 <div class="level-1 level-1-top-right">
-                                    <a href="#" class="btn_floting_top"> <i class="far fa-calendar-check"></i></i></a>
+                                    <a href="{{ with .GetPage "/eventos" }}{{.Permalink}}{{end}}" class="btn_floting_top"> <i class="far fa-calendar-check"></i></i></a>
                                     <div class="circle blue">
                                         <img src={{"./images/escudo_es.svg" | absURL}} alt="logo" class="img-fluid">
                                         <h3>Joan Subirats Humet</h3>
                                         <h6>Ministro de Universidades</h6>
-                                        <a href="#" class="plus"> 
+                                        <a href="{{ with .GetPage "ministerio/estructura-y-funciones/ministro" }}{{.Permalink}}{{end}}" class="plus"> 
                                             <i class="icon far fa-plus-circle"></i>
                                             <i class="hover_icon fas fa-plus-circle"></i>
                                         </a>
@@ -70,7 +70,7 @@
                                                 <img src={{"./images/escudo_es.svg" | absURL}} alt="logo" class="img-fluid">
                                                 <h3>José Manuel Pingarrón C.</h3>
                                                 <h6>Secretaría General de Universidades</h6>
-                                                <a href="#" class="plus"> 
+                                                <a href="{{ with .GetPage "ministerio/estructura-y-funciones/sec-gen-univer" }}{{.Permalink}}{{end}}" class="plus"> 
                                                     <i class="icon far fa-plus-circle"></i>
                                                     <i class="hover_icon fas fa-plus-circle"></i>
                                                 </a>
@@ -99,7 +99,7 @@
                                                 <img src={{"./images/escudo_es.svg" | absURL}} alt="logo" class="img-fluid">
                                                 <h3>Markus González Beilfuss</h3>
                                                 <h6>Subsecretario de Universidades</h6>
-                                                <a href="#" class="plus"> 
+                                                <a href="{{ with .GetPage "ministerio/estructura-y-funciones/sub-sec-univer" }}{{.Permalink}}{{end}}" class="plus"> 
                                                     <i class="icon far fa-plus-circle"></i>
                                                     <i class="hover_icon fas fa-plus-circle"></i>
                                                 </a>
@@ -125,19 +125,19 @@
                             <li>
                                 <div class="level-3 green rectangle_interno dashed_separador_top m_h_100">
                                     <p>O.A. Universidad Internacional Menéndez Pelayo(UIMP)</p>
-                                    <a href="#" class="btn_floting_botton"> <i class="icon fas fa-external-link-alt"></i></a>
+                                    <a href="http://www.uimp.es/" class="btn_floting_botton" target="_blank"> <i class="icon fas fa-external-link-alt"></i></a>
                                 </div>
                                 <div class="level-3 green rectangle_interno dashed_separador m_h_100">
                                     <p>O.A. Agencia Nacional de Evaluación de la Calidad y Acreditación (ANECA)</p>
-                                    <a href="#" class="btn_floting_botton"> <i class="icon fas fa-external-link-alt"></i></a>
+                                    <a href="http://www.aneca.es/" class="btn_floting_botton" target="_blank"> <i class="icon fas fa-external-link-alt"></i></a>
                                 </div>
                                 <div class="level-3 green rectangle_interno dashed_separador m_h_100">
                                     <p>O.A. Servicio Español para la Internacionalización de la Educación (SEPIE)</p>
-                                    <a href="#" class="btn_floting_botton"> <i class="icon fas fa-external-link-alt"></i></a>
+                                    <a href="http://sepie.es/index.html" class="btn_floting_botton" target="_blank"> <i class="icon fas fa-external-link-alt"></i></a>
                                 </div>
                                 <div class="level-3 green rectangle_interno  m_h_100">
                                     <p>Colegio de España en Paris </p>
-                                    <a href="#" class="btn_floting_botton"> <i class="icon fas fa-external-link-alt"></i></a>
+                                    <a href="https://www.colesp.org/index.php/es/" class="btn_floting_botton" target="_blank"> <i class="icon fas fa-external-link-alt"></i></a>
                                 </div>
                               </li>
                               <li>
