@@ -47,7 +47,7 @@ news_date: 2021-04-15T14:20:22+01:00
                                                                 <div class="card-body">
                                                                     <p class="text_body">Resolución de 6 de abril de 2021, de la Secretaría General de Universidades, por la que se aprueban recomendaciones en relación con los criterios y estándares de evaluación para la verificación, modificación, seguimiento y renovación de la acreditación de títulos universitarios oficiales de Grado y de Máster ofertados en modalidades de enseñanzas virtuales e híbridas.</p>
                                                                     <p class="text_file">
-                                                                        <i class="fal fa-file-pdf pdf_icon"></i> (283,633 KB)
+                                                                        <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (283,633 KB)
                                                                     </p>
                                                                 </div>
                                                             </a>

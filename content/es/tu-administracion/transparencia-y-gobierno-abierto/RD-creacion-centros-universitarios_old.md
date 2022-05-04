@@ -56,7 +56,7 @@ struc_dep_pic: ""
 					</div> </a> 
 					<div class="card-body"> 
 						<p class="text_file"><a class="card" href="{{<siteurl>}}/documentos/pdf/20210120_Borrador_RD_creacion_rec_universidades_Texto_final_audiencia.pdf" target="_blank">  
-						<span class="tit">Borrador de proyecto de Real Decreto de creación, reconocimiento y autorización de universidades y centros universitarios, y acreditación institucional de centros universitarios </span></a> <i class="fal fa-file-pdf pdf_icon"></i> (PDF 385.059 KB) 
+						<span class="tit">Borrador de proyecto de Real Decreto de creación, reconocimiento y autorización de universidades y centros universitarios, y acreditación institucional de centros universitarios </span></a> <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (385,059 KB) 
 					</div>
 				</div> 	
 				<div class="download_card"> 
@@ -66,7 +66,7 @@ struc_dep_pic: ""
 					</div> </a> 
 					<div class="card-body"> 
 						<p class="text_file"><a class="card" href="{{<siteurl>}}/documentos/pdf/tu_administracion/20210120_MAIN_RDcreacion_universidades-texto_audiencia.pdf" target="_blank">  
-						<span class="tit">Memoria de análisis de impacto normativo </span></a> <i class="fal fa-file-pdf pdf_icon"></i> (PDF 171.016 KB)
+						<span class="tit">Memoria de análisis de impacto normativo </span></a> <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (171,016 KB)
 					</div>
 				</div>
 			</div> 

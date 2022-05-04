@@ -55,7 +55,7 @@ news_date: 2020-02-05T14:20:22+01:00
                                                                 <div class="card-body">
                                                                     <p class="text_body">La universidad española en cifras 2017/2018</p>
                                                                     <p class="text_file">
-                                                                        <i class="fal fa-file-pdf pdf_icon"></i> (16,126 MB)
+                                                                        <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (16,126 MB)
                                                                     </p>
                                                                 </div>
                                                             </a>
@@ -68,7 +68,7 @@ news_date: 2020-02-05T14:20:22+01:00
                                                                 <div class="card-body">
                                                                     <p class="text_body">Resumen - La universidad española en cifras 2017/2018</p>
                                                                     <p class="text_file">
-                                                                        <i class="fal fa-file-pdf pdf_icon"></i> (21,699 MB)
+                                                                        <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (21,699 MB)
                                                                     </p>
                                                                 </div>
                                                             </a>
@@ -81,7 +81,7 @@ news_date: 2020-02-05T14:20:22+01:00
                                                                 <div class="card-body">
                                                                     <p class="text_body">Presentación - La universidad española en cifras 2017/2018</p>
                                                                     <p class="text_file">
-                                                                        <i class="fal fa-file-pdf pdf_icon"></i> (2,81 MB)
+                                                                        <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (2,81 MB)
                                                                     </p>
                                                                 </div>
                                                             </a>

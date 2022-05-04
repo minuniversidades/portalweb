@@ -91,7 +91,7 @@ struc_dep_pic: ""
 					</div> </a> 
 					<div class="card-body"> 
 						<p class="text_file"><a class="card" href="{{<siteurl>}}documentos/pdf/tu_administracion/participacion-publica/audiencia/APLOSU_20210903_Texto_audiencia.pdf" target="_blank">  
-						<span class="tit">Anteproyecto de Ley Orgánica del sistema universitario </span></a> <i class="fal fa-file-pdf pdf_icon"></i> (PDF 1.053 MB)
+						<span class="tit">Anteproyecto de Ley Orgánica del sistema universitario </span></a> <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (1,053 MB)
 					</div>
 				</div>
 			</div> 

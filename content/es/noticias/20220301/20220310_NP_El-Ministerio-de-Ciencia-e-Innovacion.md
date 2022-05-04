@@ -58,7 +58,7 @@ url: "noticias/20220310_NP_El-Ministerio-de-Ciencia-e-Innovacion/"
                                                                 <div class="card-body">
                                                                     <p class="text_body">Los Ministerios de Ciencia e Innovación y Universidades suspenden relaciones con Rusia y Bielorrusia</p>
                                                                     <p class="text_file">
-                                                                        <i class="fal fa-file-pdf pdf_icon"></i> (667,979 KB)
+                                                                        <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (667,979 KB)
                                                                     </p>
                                                                 </div>
                                                             </a>

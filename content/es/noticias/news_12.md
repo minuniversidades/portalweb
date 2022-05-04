@@ -47,7 +47,7 @@ news_date: 2021-12-21T14:20:20+01:00
                                                                 <div class="card-body">
                                                                     <p class="text_body">Joan Subirats: “La universidad tiene que tener un papel significativo en el proceso de cambio de esta época”</p>
                                                                     <p class="text_file">
-                                                                        <i class="fal fa-file-pdf pdf_icon"></i> (243,922  KB)
+                                                                        <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (243,922  KB)
                                                                     </p>
                                                                 </div>
                                                             </a>

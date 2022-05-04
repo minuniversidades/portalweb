@@ -84,7 +84,7 @@ url: "noticias/20220331_NP_Plan_de_Accion_Universidad_Refugi/"
                                                                 <div class="card-body">
                                                                     <p class="text_body">El Ministerio de Universidades presenta Plan de Accion Universidad-Refugio a personas afectadas por el conflicto de Ucrania</p>
                                                                     <p class="text_file">
-                                                                        <i class="fal fa-file-pdf pdf_icon"></i> (222,253 KB)
+                                                                        <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (222,253 KB)
                                                                     </p>
                                                                 </div>
                                                             </a>
@@ -104,7 +104,7 @@ url: "noticias/20220331_NP_Plan_de_Accion_Universidad_Refugi/"
                                                                     <div class="card-body">
                                                                         <p class="text_body">El Ministerio de Universidades presenta Plan de Accion Universidad-Refugio a personas afectadas por el conflicto de Ucrania</p>
                                                                         <p class="text_file">
-                                                                            <i class="fal fa-file-pdf pdf_icon"></i> (222,253 KB)
+                                                                            <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (222,253 KB)
                                                                         </p>
                                                                     </div>
                                                                 </a>

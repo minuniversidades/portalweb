@@ -66,7 +66,7 @@ news_date: 2022-02-22T14:20:22+01:00
                                                                 <div class="card-body">
                                                                     <p class="text_body">Adelanto de Becas y Ayudas</p>
                                                                     <p class="text_file">
-                                                                        <i class="fal fa-file-pdf pdf_icon"></i> (655,418 KB)
+                                                                        <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (655,418 KB)
                                                                     </p>
                                                                 </div>
                                                             </a>
@@ -79,7 +79,7 @@ news_date: 2022-02-22T14:20:22+01:00
                                                                 <div class="card-body">
                                                                     <p class="text_body">Real Decreto 154/2022, de 22 de febrero</p>
                                                                     <p class="text_file">
-                                                                        <i class="fal fa-file-pdf pdf_icon"></i> (336,391 KB)
+                                                                        <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (336,391 KB)
                                                                     </p>
                                                                 </div>
                                                             </a>

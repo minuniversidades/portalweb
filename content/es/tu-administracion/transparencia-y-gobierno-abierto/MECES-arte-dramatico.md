@@ -85,7 +85,7 @@ struc_dep_pic: ""
 					</div> </a> 
 					<div class="card-body"> 
 						<p class="text_file"><a class="card" href="{{<siteurl>}}/documentos/pdf/tu_administracion/pdf-no-reglametario/BOE_B_2021_4078.pdf" target="_blank"> 
-						<span class="tit">Acuerdo de información pública (BOE)</span></a> <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (166.979 KB)
+						<span class="tit">Acuerdo de información pública (BOE)</span></a> <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (166,979 KB)
 					</div>
 				</div>
 			</div> 

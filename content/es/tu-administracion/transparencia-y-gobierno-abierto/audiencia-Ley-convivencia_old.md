@@ -64,7 +64,7 @@ struc_dep_pic: ""
 					</div> </a> 
 					<div class="card-body"> 
 						<p class="text_file"><a class="card" href="{{<siteurl>}}/documentos/pdf/tu_administracion/APLConvivenciaUniversitaria.pdf" target="_blank">  
-						<span class="tit">Anteproyecto de Ley de Convivencia Universitaria</span></a> <i class="fal fa-file-pdf pdf_icon"></i> (PDF 430.993 KB)
+						<span class="tit">Anteproyecto de Ley de Convivencia Universitaria</span></a> <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (430,993 KB)
 					</div>
 				</div> 	
 				<div class="download_card"> 
@@ -74,7 +74,7 @@ struc_dep_pic: ""
 					</div> </a> 
 					<div class="card-body"> 
 						<p class="text_file"><a class="card" href="{{<siteurl>}}/documentos/pdf/tu_administracion/MAINLeyConvivenciaUniversitaria.pdf" target="_blank">  
-						<span class="tit">Memoria del Análisis de Impacto Normativo </span></a> <i class="fal fa-file-pdf pdf_icon"></i> (PDF 400.96 KB)
+						<span class="tit">Memoria del Análisis de Impacto Normativo </span></a> <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (400,96 KB)
 					</div>
 				</div>
 			</div> 

@@ -63,7 +63,7 @@ struc_dep_pic: ""
 					</div> </a> 
 					<div class="card-body"> 
 						<p class="text_file"><a class="card" href="{{<siteurl>}}documentos/pdf/tu_administracion/Proyecto_RD_Derogacion_Reglamento_Disciplinario.pdf"target="_blank">
-						<span class="tit">Borrador de proyecto Real Decreto por el que se deroga el Reglamento Disciplinario </span></a> <i class="fal fa-file-pdf pdf_icon"></i> (190.853 KB)
+						<span class="tit">Borrador de proyecto Real Decreto por el que se deroga el Reglamento Disciplinario </span></a> <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (190,853 KB)
 					</div>
 				</div> 	
 				<div class="download_card"> 

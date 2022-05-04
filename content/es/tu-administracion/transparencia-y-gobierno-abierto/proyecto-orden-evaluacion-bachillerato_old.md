@@ -89,7 +89,7 @@ struc_dep_pic: ""
 					</div> </a> 
 					<div class="card-body"> 
 						<p class="text_file"><a class="card" href="{{<siteurl>}}/documentos/pdf/tu_administracion/211209_MAIN_Orden_EBAU_2022_MU_y_MEFP.pdf" target="_blank">  
-						<span class="tit">Memoria del Análisis de Impacto Normativo </span></a> <i class="fal fa-file-pdf pdf_icon"></i> (PDF 231.851 KB)
+						<span class="tit">Memoria del Análisis de Impacto Normativo </span></a> <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (231.851 KB)
 					</div>
 				</div>
 			</div> 

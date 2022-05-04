@@ -47,7 +47,7 @@ news_date: 2020-07-07T14:20:22+01:00
                                                                 <div class="card-body">
                                                                     <p class="text_body">200707_La univ Menendez Pelayo presenta su programa de cursos</p>
                                                                     <p class="text_file">
-                                                                        <i class="fal fa-file-pdf pdf_icon"></i> (46,505 KB)
+                                                                        <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (46,505 KB)
                                                                     </p>
                                                                 </div>
                                                             </a>

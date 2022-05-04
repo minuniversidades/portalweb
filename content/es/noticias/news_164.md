@@ -45,7 +45,7 @@ url: "noticias/20220405_NP_contratación_indefinida_en_el_Sistema_Público_de_Ci
                                                                 <div class="card-body">
                                                                     <p class="text_body">Real Decreto de Contratación Indefinida en Ciencia</p>
                                                                     <p class="text_file">
-                                                                        <i class="fal fa-file-pdf pdf_icon"></i> (218,729 KB)
+                                                                        <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (218,729 KB)
                                                                     </p>
                                                                 </div>
                                                             </a>
@@ -65,7 +65,7 @@ url: "noticias/20220405_NP_contratación_indefinida_en_el_Sistema_Público_de_Ci
                                                                     <div class="card-body">
                                                                         <p class="text_body">Real Decreto de Contratación Indefinida en Ciencia</p>
                                                                         <p class="text_file">
-                                                                            <i class="fal fa-file-pdf pdf_icon"></i> (218,729 KB)
+                                                                            <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (218,729 KB)
                                                                         </p>
                                                                     </div>
                                                                 </a>

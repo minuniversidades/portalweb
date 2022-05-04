@@ -43,7 +43,7 @@ news_date: 2022-02-02T14:20:22+01:00
                                                                 <div class="card-body">
                                                                     <p class="text_body">20220202_NP_nombramiento_Markus</p>
                                                                     <p class="text_file">
-                                                                        <i class="fal fa-file-pdf pdf_icon"></i> (236,12 KB)
+                                                                        <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (236,12 KB)
                                                                     </p>
                                                                 </div>
                                                             </a>
