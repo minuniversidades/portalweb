@@ -27,8 +27,8 @@ weight: 4
                                                                 A través de este servicio se pueden solicitar los títulos de enfermero especialista establecidos en el Real Decreto 450/2005. También permite la consulta posterior del estado de la tramitación de su expediente tras la cumplimentación de la solicitud y de la presentación de la misma en un registro oficial.  <br><br>
 								Se trata de un procedimiento dirigido a los Ayudantes Técnicos Sanitarios/ Diplomados/ Graduados en Enfermería que desean acceder a alguna de las especialidades aprobadas en el <a href="http://www.boe.es/diario_boe/txt.php?id=BOE-A-2005-7354" target="_blank">Real Decreto 450/2005, de 22 de abril, sobre especialidades de Enfermería <i class="fas fa-external-link-alt"></i></a> y que, además de superar una prueba objetiva, previamente acrediten un ejercicio profesional en el campo específico de la especialidad solicitada en alguna de las situaciones descritas en la Disposición transitoria segunda del citado real decreto.  <br><br>
 								<ul>
-									<li><a href="http://www.mecd.gob.es/servicios-al-ciudadano-mecd/dms/mecd/servicios-al-ciudadano-mecd/catalogo/general/educacion/050860/cuidados/050860-cuidados/NOTA-IMPORTANTE.</a><i class="fas fa-external-link-alt"></i>" target="_blank">NOTA IMPORTANTE <i class="fas fa-external-link-alt"></i></a></li>
-									<li> <a href="http://www.mecd.gob.es/servicios-al-ciudadano-mecd/dms/mecd/servicios-al-ciudadano-mecd/catalogo/general/educacion/050860/cuidados/050860-cuidados/Preguntas-Frecuentes-Cuidados.</a><i class="fas fa-external-link-alt"></i>" target="_blank"> Preguntas frecuentes - Enfermería de Cuidados Médico-Quirúrgicos <i class="fas fa-external-link-alt"></i></a></li>
+									<li><a href="http://www.mecd.gob.es/servicios-al-ciudadano-mecd/dms/mecd/servicios-al-ciudadano-mecd/catalogo/general/educacion/050860/cuidados/050860-cuidados/NOTA-IMPORTANTE.word" target="_blank">NOTA IMPORTANTE <i class="fas fa-external-link-alt"></i></a></li>
+									<li> <a href="http://www.mecd.gob.es/servicios-al-ciudadano-mecd/dms/mecd/servicios-al-ciudadano-mecd/catalogo/general/educacion/050860/cuidados/050860-cuidados/Preguntas-Frecuentes-Cuidados.word" target="_blank"> Preguntas frecuentes - Enfermería de Cuidados Médico-Quirúrgicos <i class="fas fa-external-link-alt"></i></a></li>
 								</ul>
 								<b>Destinatarios</b><br><br>
 								Ayudantes Técnicos Sanitarios / Diplomados/ Graduados en Enfermería que cumplan los requisitos descritos a continuación.  <br><br>
@@ -81,23 +81,23 @@ weight: 4
 		<div class="col-lg-12 cards_download_cnt">  
 			<div class="row"> 
 				<div class="download_card"> 
-					<a class="card" href="{{<siteurl>}}/documentos/</a><i class="fas fa-external-link-alt"></i>/sistema_universitario/gestion_titulos/otros_procedimientos/especialidad/NOTA-IMPORTANTE.</a><i class="fas fa-external-link-alt"></i>" target="_blank"> 
+					<a class="card" href="{{<siteurl>}}/documentos/word/sistema_universitario/gestion_titulos/otros_procedimientos/especialidad/NOTA-IMPORTANTE.doc" target="_blank"> 
 					<div class="card-header"> 
 						   <i class="fal fa-download"></i> 
 					</div> </a> 
 					<div class="card-body"> 
-						<p class="text_file"><a class="card" href="{{<siteurl>}}documentos/</a><i class="fas fa-external-link-alt"></i>/sistema_universitario/gestion_titulos/otros_procedimientos/especialidad/NOTA-IMPORTANTE.</a><i class="fas fa-external-link-alt"></i>" target="_blank">  
-						<span class="tit">NOTA IMPORTANTE</span></a> <i class="fal fa-file-</a><i class="fas fa-external-link-alt"></i> </a><i class="fas fa-external-link-alt"></i>_icon"></i> (</a><i class="fas fa-external-link-alt"></i> 71.499 KB)
+						<p class="text_file"><a class="card" href="{{<siteurl>}}documentos/word/sistema_universitario/gestion_titulos/otros_procedimientos/especialidad/NOTA-IMPORTANTE.doc" target="_blank">  
+						<span class="tit">NOTA IMPORTANTE</span></a> <i class="fal fa-file-word text-primary"></i> DOC (71,499 KB)
 					</div>
 				</div> 	
 				<div class="download_card"> 
-					<a class="card" href="{{<siteurl>}}/documentos/</a><i class="fas fa-external-link-alt"></i>/sistema_universitario/gestion_titulos/otros_procedimientos/especialidad/Preguntas_Frecuentes_Cuidados.</a><i class="fas fa-external-link-alt"></i>" target="_blank"> 
+					<a class="card" href="{{<siteurl>}}/documentos/word/sistema_universitario/gestion_titulos/otros_procedimientos/especialidad/Preguntas_Frecuentes_Cuidados.doc" target="_blank"> 
 					<div class="card-header"> 
 						   <i class="fal fa-download"></i> 
 					</div> </a> 
 					<div class="card-body"> 
-						<p class="text_file"><a class="card" href="{{<siteurl>}}documentos/</a><i class="fas fa-external-link-alt"></i>/sistema_universitario/gestion_titulos/otros_procedimientos/especialidad/Preguntas_Frecuentes_Cuidados.</a><i class="fas fa-external-link-alt"></i>" target="_blank">  
-						<span class="tit">Preguntas frecuentes - Enfermería de Cuidados Médico-Quirúrgicos</span></a> <i class="fal fa-file-</a><i class="fas fa-external-link-alt"></i> </a><i class="fas fa-external-link-alt"></i>_icon"></i> (</a><i class="fas fa-external-link-alt"></i> 143.309 KB)
+						<p class="text_file"><a class="card" href="{{<siteurl>}}documentos/word/sistema_universitario/gestion_titulos/otros_procedimientos/especialidad/Preguntas_Frecuentes_Cuidados.doc" target="_blank">  
+						<span class="tit">Preguntas frecuentes - Enfermería de Cuidados Médico-Quirúrgicos</span></a> <i class="fal fa-file-word text-primary"></i> DOC (143,309 KB)
 					</div>
 				</div>
 			</div> 
@@ -168,23 +168,23 @@ weight: 4
 		<div class="col-lg-12 cards_download_cnt">  
 			<div class="row"> 
 				<div class="download_card"> 
-					<a class="card" href="{{<siteurl>}}/documentos/</a><i class="fas fa-external-link-alt"></i>/sistema_universitario/gestion_titulos/otros_procedimientos/especialidad/2015-modelo-instancia-Word.doc" target="_blank"> 
+					<a class="card" href="{{<siteurl>}}/documentos/sistema_universitario/gestion_titulos/otros_procedimientos/especialidad/2015-modelo-instancia-Word.doc" target="_blank"> 
 					<div class="card-header"> 
 						   <i class="fal fa-download"></i> 
 					</div> </a> 
 					<div class="card-body"> 
-						<p class="text_file"><a class="card" href="{{<siteurl>}}documentos/</a><i class="fas fa-external-link-alt"></i>/sistema_universitario/gestion_titulos/otros_procedimientos/especialidad/2015-modelo-instancia-Word.doc" target="_blank">  
-						<span class="tit">Solicitud acceso excepcional título de enfermero especialista</span></a> <i class="fal fa-file-</a><i class="fas fa-external-link-alt"></i> </a><i class="fas fa-external-link-alt"></i>_icon"></i> (doc 51.5 KB)
+						<p class="text_file"><a class="card" href="{{<siteurl>}}/documentos/sistema_universitario/gestion_titulos/otros_procedimientos/especialidad/2015-modelo-instancia-Word.doc" target="_blank">  
+						<span class="tit">Solicitud acceso excepcional título de enfermero especialista</span></a> <i class="fal fa-file-word text-primary"></i> DOC (51,5 KB)
 					</div>
 				</div> 	
 				<div class="download_card"> 
-					<a class="card" href="{{<siteurl>}}/documentos/</a><i class="fas fa-external-link-alt"></i>/sistema_universitario/gestion_titulos/otros_procedimientos/especialidad/2015-modelo-instancia-</a><i class="fas fa-external-link-alt"></i>.</a><i class="fas fa-external-link-alt"></i>" target="_blank"> 
+					<a class="card" href="{{<siteurl>}}/documentos/sistema_universitario/gestion_titulos/otros_procedimientos/especialidad/2015-modelo-instancia-word.docx" target="_blank"> 
 					<div class="card-header"> 
 						   <i class="fal fa-download"></i> 
 					</div> </a> 
 					<div class="card-body"> 
-						<p class="text_file"><a class="card" href="{{<siteurl>}}documentos/</a><i class="fas fa-external-link-alt"></i>/sistema_universitario/gestion_titulos/otros_procedimientos/especialidad/2015-modelo-instancia-</a><i class="fas fa-external-link-alt"></i>.</a><i class="fas fa-external-link-alt"></i>" target="_blank">  
-						<span class="tit">Solicitud acceso excepcional título de enfermero especialista</span></a> <i class="fal fa-file-</a><i class="fas fa-external-link-alt"></i> </a><i class="fas fa-external-link-alt"></i>_icon"></i> (</a><i class="fas fa-external-link-alt"></i> 107.037 KB)
+						<p class="text_file"><a class="card" href="{{<siteurl>}}documentos/word/sistema_universitario/gestion_titulos/otros_procedimientos/especialidad/2015-modelo-instancia-word.docx" target="_blank">  
+						<span class="tit">Solicitud acceso excepcional título de enfermero especialista</span></a> <i class="fal fa-file-word text-primary"></i> DOC (107,037 KB)
 					</div>
 				</div>
 			</div> 
@@ -240,13 +240,13 @@ weight: 4
 		<div class="col-lg-12 cards_download_cnt">  
 			<div class="row"> 
 				<div class="download_card"> 
-					<a class="card" href="{{<siteurl>}}/documentos/</a><i class="fas fa-external-link-alt"></i>/sistema_universitario/gestion_titulos/otros_procedimientos/especialidad/2015-cumplimentacion-tasas-via-excepcional.</a><i class="fas fa-external-link-alt"></i>" target="_blank"> 
+					<a class="card" href="{{<siteurl>}}/documentos/word/sistema_universitario/gestion_titulos/otros_procedimientos/especialidad/2015-cumplimentacion-tasas-via-excepcional.doc" target="_blank"> 
 					<div class="card-header"> 
 						   <i class="fal fa-download"></i> 
 					</div> </a> 
 					<div class="card-body"> 
-						<p class="text_file"><a class="card" href="{{<siteurl>}}documentos/</a><i class="fas fa-external-link-alt"></i>/sistema_universitario/gestion_titulos/otros_procedimientos/especialidad/2015-cumplimentacion-tasas-via-excepcional.</a><i class="fas fa-external-link-alt"></i>" target="_blank">  
-						<span class="tit">Cumplimentación formulario de abono de tasas</span></a> <i class="fal fa-file-</a><i class="fas fa-external-link-alt"></i> </a><i class="fas fa-external-link-alt"></i>_icon"></i> (</a><i class="fas fa-external-link-alt"></i> 134.016 KB)
+						<p class="text_file"><a class="card" href="{{<siteurl>}}documentos/word/sistema_universitario/gestion_titulos/otros_procedimientos/especialidad/2015-cumplimentacion-tasas-via-excepcional.doc" target="_blank">  
+						<span class="tit">Cumplimentación formulario de abono de tasas</span></a> <i class="fal fa-file-word text-primary"></i> DOC (134,016 KB)
 					</div>
 				</div> 	
 			</div> 

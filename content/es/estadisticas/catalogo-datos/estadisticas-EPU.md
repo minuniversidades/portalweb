@@ -231,7 +231,7 @@ url: "/estadisticas/catalogo-datos/estadisticas-epu/"
                                                                         target="_blank">Personal empleado
                                                                         investigador total (PEI Total) <i
                                                                             class="fas fa-external-link-alt"></i></a>
-                                                                    (xls 1.144 MB)</li>
+                                                                    (1,144 MB)</li>
                                                             </ul>
                                                         </div>
                                                     </div>
@@ -333,27 +333,27 @@ url: "/estadisticas/catalogo-datos/estadisticas-epu/"
                                                     <div class="col-lg-12 cards_download_cnt">
                                                         <div class="row jcc_mobile">
                                                             <div class="download_card">
-                                                                <a class="card" href="{{<siteurl>}}documentos/pdf/estadisticas/NOTA_EPU_20-21.pdf" target="_blank">
+                                                                <a class="card" href="{{<siteurl>}}documentos/PDF/estadisticas/NOTA_EPU_20-21.pdf" target="_blank">
                                                                     <div class="card-header">
                                                                         <i class="fal fa-download"></i>
                                                                     </div>
                                                                     <div class="card-body">
                                                                         <p class="text_body">Nota de principales resultados</p>
                                                                         <p class="text_file">
-                                                                            <i class="fal fa-file-pdf pdf_icon"></i> (287,759 KB)
+                                                                            <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (287,759 KB)
                                                                         </p>
                                                                     </div>
                                                                 </a>
                                                             </div>
 															<div class="download_card">
-                                                                <a class="card" href="{{<siteurl>}}documentos/pdf/estadisticas/MetodologIaEPU20.pdf" target="_blank">
+                                                                <a class="card" href="{{<siteurl>}}documentos/PDF/estadisticas/MetodologIaEPU20.pdf" target="_blank">
                                                                     <div class="card-header">
                                                                         <i class="fal fa-download"></i>
                                                                     </div>
                                                                     <div class="card-body">
                                                                         <p class="text_body">Metodología EPU 2020</p>
                                                                         <p class="text_file">
-                                                                            <i class="fal fa-file-pdf pdf_icon"></i> (482,465 KB)
+                                                                            <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (482,465 KB)
                                                                         </p>
                                                                     </div>
                                                                 </a>
@@ -366,29 +366,27 @@ url: "/estadisticas/catalogo-datos/estadisticas-epu/"
                                                           <div class="swiper-wrapper">
                                                             <div class="swiper-slide">
                                                                 <div class="download_card">
-                                                                    <a class="card" href="{{<siteurl>}}documentos/pdf/estadisticas/NOTA_EPU_20-21.pdf" target="_blank">
+                                                                    <a class="card" href="{{<siteurl>}}documentos/PDF/estadisticas/NOTA_EPU_20-21.pdf" target="_blank">
                                                                         <div class="card-header">
                                                                             <i class="fal fa-download"></i>
                                                                         </div>
                                                                         <div class="card-body">
                                                                             <p class="text_body">Nota de principlaes resultados</p>
                                                                             <p class="text_file">
-                                                                                <i class="fal fa-file-pdf pdf_icon"></i> 
-                                                                                 (287,759 KB)
+                                                                                <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (287,759 KB)
                                                                             </p>
                                                                         </div>
                                                                     </a>
                                                                 </div>
 																<div class="download_card">
-                                                                    <a class="card" href="{{<siteurl>}}documentos/pdf/estadisticas/NOTA_EPU_20-21.pdf" target="_blank">
+                                                                    <a class="card" href="{{<siteurl>}}documentos/PDF/estadisticas/NOTA_EPU_20-21.pdf" target="_blank">
                                                                         <div class="card-header">
                                                                             <i class="fal fa-download"></i>
                                                                         </div>
                                                                         <div class="card-body">
                                                                             <p class="text_body">Metodología EPU 2020</p>
                                                                             <p class="text_file">
-                                                                                <i class="fal fa-file-pdf pdf_icon"></i> 
-                                                                                 (482,465 KB)
+                                                                                <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (482,465 KB)
                                                                             </p>
                                                                         </div>
                                                                     </a>

@@ -17,7 +17,7 @@ url: "/estadisticas/catalogo-datos/estadisticas-becas/"
                                     </div>                                
                                 </div>
                                 <div class="col-12 box_buttons">
-                                    <a href="{{<siteurl>}}/documentos/pdf/estadisticas/InfografiaBecas.pdf" type="button" class="btn btn_outline_blue" target="_blank">
+                                    <a href="{{<siteurl>}}/documentos/PDF/estadisticas/InfografiaBecas.pdf" type="button" class="btn btn_outline_blue" target="_blank">
                                         ACCESO A LA INFOGRAFÍA 
                                         <i class="icon far fa-images"></i>
                                         <i class="hover_icon far fa-images"></i>
@@ -137,40 +137,40 @@ url: "/estadisticas/catalogo-datos/estadisticas-becas/"
                                                     <div class="col-lg-12 cards_download_cnt">
                                                         <div class="row jcc_mobile">
                                                             <div class="download_card">
-                                                                <a class="card" href="{{<siteurl>}}documentos/pdf/estadisticas/Nota-Estadistica-de-Becas-2021.pdf" target="_blank">
+                                                                <a class="card" href="{{<siteurl>}}documentos/PDF/estadisticas/Nota-Estadistica-de-Becas-2021.pdf" target="_blank">
                                                                     <div class="card-header">
                                                                         <i class="fal fa-download"></i>
                                                                     </div>
                                                                     <div class="card-body">
                                                                         <p class="text_body">Principales resultados</p>
                                                                         <p class="text_file">
-                                                                            <i class="fal fa-file-pdf pdf_icon"></i> (257,527 KB)
+                                                                            <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (257,527 KB)
                                                                         </p>
                                                                     </div>
                                                                 </a>
                                                             </div>
 															<div class="download_card">
-                                                                <a class="card" href="{{<siteurl>}}documentos/pdf/estadisticas/metodologia-estadistica-Becas.pdf" target="_blank">
+                                                                <a class="card" href="{{<siteurl>}}documentos/PDF/estadisticas/metodologia-estadistica-Becas.pdf" target="_blank">
                                                                     <div class="card-header">
                                                                         <i class="fal fa-download"></i>
                                                                     </div>
                                                                     <div class="card-body">
                                                                         <p class="text_body">Metodología</p>
                                                                         <p class="text_file">
-                                                                            <i class="fal fa-file-pdf pdf_icon"></i> (232,243 KB)
+                                                                            <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (232,243 KB)
                                                                         </p>
                                                                     </div>
                                                                 </a>
                                                             </div>
 															<div class="download_card">
-                                                                <a class="card" href="{{<siteurl>}}documentos/pdf/estadisticas/metodologia-estadistica-Becas.pdf" target="_blank">
+                                                                <a class="card" href="{{<siteurl>}}documentos/PDF/estadisticas/metodologia-estadistica-Becas.pdf" target="_blank">
                                                                     <div class="card-header">
                                                                         <i class="fal fa-download"></i>
                                                                     </div>
                                                                     <div class="card-body">
                                                                         <p class="text_body">Infografía becas y ayudas al estudio 2019-2020</p>
                                                                         <p class="text_file">
-                                                                            <i class="fal fa-file-pdf pdf_icon"></i> (114,087 KB)
+                                                                            <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (114,087 KB)
                                                                         </p>
                                                                     </div>
                                                                 </a>
@@ -183,7 +183,7 @@ url: "/estadisticas/catalogo-datos/estadisticas-becas/"
                                                                     <div class="card-body">
                                                                         <p class="text_body">Listado de convocatorias</p>
                                                                         <p class="text_file">
-                                                                            <i class="fas fa-file-excel text-success"></i> (154,247 KB)
+                                                                        <i class="far fa-file-excel text-success"></i> XLS (154,247 KB)
                                                                         </p>
                                                                     </div>
                                                                 </a>
@@ -196,43 +196,40 @@ url: "/estadisticas/catalogo-datos/estadisticas-becas/"
                                                           <div class="swiper-wrapper">
                                                             <div class="swiper-slide">
                                                                 <div class="download_card">
-                                                                    <a class="card" href="{{{<siteurl>}}documentos/pdf/estadisticas/Nota-Estadistica-de-Becas-2021.pdf" target="_blank">
+                                                                    <a class="card" href="{{{<siteurl>}}documentos/PDF/estadisticas/Nota-Estadistica-de-Becas-2021.pdf" target="_blank">
                                                                         <div class="card-header">
                                                                             <i class="fal fa-download"></i>
                                                                         </div>
                                                                         <div class="card-body">
                                                                             <p class="text_body">Principales resultados</p>
                                                                             <p class="text_file">
-                                                                                <i class="fal fa-file-pdf pdf_icon"></i> 
-                                                                                 (257,527 KB)
+                                                                                <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (257,527 KB)
                                                                             </p>
                                                                         </div>
                                                                     </a>
                                                                 </div>
 																 <div class="download_card">
-                                                                    <a class="card" href="{{<siteurl>}}documentos/pdf/estadisticas/METODOLOGEEU.pdf" target="_blank">
+                                                                    <a class="card" href="{{<siteurl>}}documentos/PDF/estadisticas/METODOLOGEEU.pdf" target="_blank">
                                                                         <div class="card-header">
                                                                             <i class="fal fa-download"></i>
                                                                         </div>
                                                                         <div class="card-body">
                                                                             <p class="text_body">Metodología</p>
                                                                             <p class="text_file">
-                                                                                <i class="fal fa-file-pdf pdf_icon"></i> 
-                                                                                 (232,243 KB)
+                                                                                <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (232,243 KB)
                                                                             </p>
                                                                         </div>
                                                                     </a>
                                                                 </div>
 																<div class="download_card">
-                                                                    <a class="card" href="{{<siteurl>}}documentos/pdf/estadisticas/InfografiaBecas.pdf" target="_blank">
+                                                                    <a class="card" href="{{<siteurl>}}documentos/PDF/estadisticas/InfografiaBecas.pdf" target="_blank">
                                                                         <div class="card-header">
                                                                             <i class="fal fa-download"></i>
                                                                         </div>
                                                                         <div class="card-body">
                                                                             <p class="text_body">Infografía becas y ayudas al estudio 2019-2020</p>
                                                                             <p class="text_file">
-                                                                                <i class="fal fa-file-pdf pdf_icon"></i> 
-                                                                                 (114,087 KB)
+                                                                                <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (114,087 KB)
                                                                             </p>
                                                                         </div>
                                                                     </a>
@@ -245,8 +242,7 @@ url: "/estadisticas/catalogo-datos/estadisticas-becas/"
                                                                         <div class="card-body">
                                                                             <p class="text_body">Listado de convocatorias</p>
                                                                             <p class="text_file">
-                                                                                <i class="fal fa-file-pdf pdf_icon"></i> 
-                                                                                 (154,247 KB)
+                                                                                <i class="far fa-file-excel text-success"></i> XLS (154,247 KB)
                                                                             </p>
                                                                         </div>
                                                                     </a>

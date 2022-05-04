@@ -58,7 +58,7 @@ Fecha de publicación: 22 de junio de 2021
                                 <div class="img" style="background-image: url('{{<siteurl>}}images/Grupo_621.png');"></div>
                             </div>
                             <div class="card-body">
-                                <p class="card-text card-text-blue">Movilidad de estudiantes internacionales <i class="icon fas fa-external-link-alt"></i></p>
+                                <p class="card-text card-text-blue">Movilidad de estudiantes internacionales <i class="fas fa-external-link-alt"></i></p>
                             </div>
                         </a>
                     </div> <!-- el final de la primera carta -->
@@ -68,7 +68,7 @@ Fecha de publicación: 22 de junio de 2021
                                 <div class="img" style="background-image: url('{{<siteurl>}}images/Grupo_622.png');"></div>
                             </div>
                             <div class="card-body">
-                                <p class="card-text card-text-blue">Estudiantes y profesores extranjeros <i class="icon fas fa-external-link-alt"></i></p>
+                                <p class="card-text card-text-blue">Estudiantes y profesores extranjeros <i class="fas fa-external-link-alt"></i></p>
                             </div>
                         </a>
                     </div> <!-- el final de la segunda carta -->
@@ -159,28 +159,27 @@ Fecha de publicación: 22 de junio de 2021
                                                     <div class="col-lg-12 cards_download_cnt">
                                                         <div class="row jcc_mobile">
                                                             <div class="download_card">
-                                                                <a class="card" href="{{<siteurl>}}documentos/pdf/estadisticas/Principales_resultados_1920.pdf" target="_blank">
+                                                                <a class="card" href="{{<siteurl>}}documentos/PDF/estadisticas/Principales_resultados_1920.pdf" target="_blank">
                                                                     <div class="card-header">
                                                                         <i class="fal fa-download"></i>
                                                                     </div>
                                                                     <div class="card-body">
                                                                         <p class="text_body">Principales resultados</p>
                                                                         <p class="text_file">
-                                                                            <i class="fal fa-file-pdf pdf_icon"></i>
-                                                                            (581,571 KB)
+                                                                            <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (581,571 KB)
                                                                         </p>
                                                                     </div>
                                                                 </a>
                                                             </div>
                                                             <div class="download_card">
-                                                                <a class="card" href="{{<siteurl>}}documentos/pdf/estadisticas/PpalesResulEEU.pdf" target="_blank">
+                                                                <a class="card" href="{{<siteurl>}}documentos/PDF/estadisticas/PpalesResulEEU.pdf" target="_blank">
                                                                     <div class="card-header">
                                                                         <i class="fal fa-download"></i>
                                                                     </div>
                                                                     <div class="card-body">
                                                                         <p class="text_body">Metodología</p>
                                                                         <p class="text_file">
-                                                                            <i class="fal fa-file-pdf pdf_icon"></i> (167,979 KB)
+                                                                            <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (167,979 KB)
                                                                         </p>
                                                                     </div>
                                                                 </a>
@@ -193,15 +192,14 @@ Fecha de publicación: 22 de junio de 2021
                                                           <div class="swiper-wrapper">
                                                             <div class="swiper-slide">
                                                                 <div class="download_card">
-                                                                    <a class="card" href="{{<siteurl>}}documentos/pdf/estadisticas/Principales_resultados_1920.pdf" target="_blank">
+                                                                    <a class="card" href="{{<siteurl>}}documentos/PDF/estadisticas/Principales_resultados_1920.pdf" target="_blank">
                                                                         <div class="card-header">
                                                                             <i class="fal fa-download"></i>
                                                                         </div>
                                                                         <div class="card-body">
                                                                             <p class="text_body">Principales resultados</p>
                                                                             <p class="text_file">
-                                                                                <i class="fal fa-file-pdf pdf_icon"></i> 
-                                                                                 (581,571 KB)
+                                                                                <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (581,571 KB)
                                                                             </p>
                                                                         </div>
                                                                     </a>
@@ -209,15 +207,14 @@ Fecha de publicación: 22 de junio de 2021
                                                             </div>
                                                             <div class="swiper-slide">
                                                                 <div class="download_card">
-                                                                    <a class="card" href="{{<siteurl>}}documentos/pdf/estadisticas/PpalesResulEEU.pdf" target="_blank">
+                                                                    <a class="card" href="{{<siteurl>}}documentos/PDF/estadisticas/PpalesResulEEU.pdf" target="_blank">
                                                                         <div class="card-header">
                                                                             <i class="fal fa-download"></i>
                                                                         </div>
                                                                         <div class="card-body">
                                                                             <p class="text_body">Metodología</p>
                                                                             <p class="text_file">
-                                                                                <i class="fal fa-file-pdf pdf_icon"></i> 
-                                                                                 (167,979 KB)
+                                                                                <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (167,979 KB)
                                                                             </p>
                                                                         </div>
                                                                     </a>

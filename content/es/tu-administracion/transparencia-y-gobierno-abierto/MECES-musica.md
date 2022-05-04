@@ -54,7 +54,7 @@ struc_dep_pic: ""
 					</div> </a> 
 					<div class="card-body"> 
 						<p class="text_file"><a class="card" href="{{<siteurl>}}/documentos/pdf/tu_administracion/Acuerdo_inicio_Musica.pdf" target="_blank">  
-						<span class="tit">Acuerdo de inicio </span></a> <i class="fal fa-file-pdf pdf_icon"></i>(PDF 317,427 KB)
+						<span class="tit">Acuerdo de inicio </span></a> <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (317,427 KB)
 					</div>
 				</div> 	
 				<div class="download_card"> 
@@ -64,7 +64,7 @@ struc_dep_pic: ""
 					</div> </a> 
 					<div class="card-body"> 
 						<p class="text_file"><a class="card" href="{{<siteurl>}}/documentos/pdf/tu_administracion/200903_IC-EEAA-ANECA_Titulo_Superior_Musica_Firmado.pdf" target="_blank">  
-						<span class="tit">Informe ANECA </span></a> <i class="fal fa-file-pdf pdf_icon"></i>(PDF 5,422 MB)
+						<span class="tit">Informe ANECA </span></a> <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (5,422 MB)
 					</div>
 				</div>
 				<div class="download_card"> 
@@ -74,7 +74,7 @@ struc_dep_pic: ""
 					</div> </a> 
 					<div class="card-body"> 
 						<p class="text_file"><a class="card" href="{{<siteurl>}}/documentos/pdf/tu_administracion/Informe_CU_Musica.pdf" target="_blank">  
-						<span class="tit">Informe del Consejo de Universidades </span></a> <i class="fal fa-file-pdf pdf_icon"></i>(PDF 163,022 KB)
+						<span class="tit">Informe del Consejo de Universidades </span></a> <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (163,022 KB)
 					</div>
 				</div>
 				<div class="download_card"> 
@@ -84,7 +84,7 @@ struc_dep_pic: ""
 					</div> </a> 
 					<div class="card-body"> 
 						<p class="text_file"><a class="card" href="{{<siteurl>}}/documentos/pdf/tu_administracion/BOE_B_2021_3693.pdf" target="_blank">  
-						<span class="tit">Acuerdo de información pública (BOE)</span></a> <i class="fal fa-file-pdf pdf_icon"></i> (PDF 166,456 KB)
+						<span class="tit">Acuerdo de información pública (BOE)</span></a> <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (166,456 KB)
 					</div>
 				</div>
 			</div> 

@@ -24,7 +24,7 @@ weight: 2
 											</div>                                
 										</div>
 										<div class="col-12 box_buttons">
-											<a href="{{<siteurl>}}documentos/pdf/estadisticas/Datos_y_Cifras_2020-21.pdf" target="_blank" class="btn btn_outline_blue">
+											<a href="{{<siteurl>}}documentos/PDF/estadisticas/Datos_y_Cifras_2020-21.pdf" target="_blank" class="btn btn_outline_blue">
 												ACCESO A LA INFOGRAFÍA 
 												<i class="icon far fa-images"></i>
 												<i class="hover_icon far fa-images"></i>
@@ -43,7 +43,7 @@ weight: 2
 											</div>                                
 										</div>
 										<div class="col-12 box_buttons">
-											<a href="{{<siteurl>}}documentos/pdf/estadisticas/INFORME_INSERCION_2013_14.pdf" target="_blank" class="btn btn_outline_blue">
+											<a href="{{<siteurl>}}documentos/PDF/estadisticas/INFORME_INSERCION_2013_14.pdf" target="_blank" class="btn btn_outline_blue">
 												ACCESO A LA INFOGRAFÍA 
 												<i class="icon far fa-images"></i>
 												<i class="hover_icon far fa-images"></i>
@@ -62,7 +62,7 @@ weight: 2
 											</div>                                
 										</div>
 										<div class="col-12 box_buttons">
-											<a href="{{<siteurl>}}documentos/pdf/estadisticas/Informe_Datos_Cifras_Sistema_Universitario_Espanol_2019-2020.pdf" class="btn btn_outline_blue" target="_blank">
+											<a href="{{<siteurl>}}documentos/PDF/estadisticas/Informe_Datos_Cifras_Sistema_Universitario_Espanol_2019-2020.pdf" class="btn btn_outline_blue" target="_blank">
 												ACCESO A LA INFOGRAFÍA 
 												<i class="icon far fa-images"></i>
 												<i class="hover_icon far fa-images"></i>
@@ -74,14 +74,14 @@ weight: 2
 							<div class="col-lg-5 info_prev_card"> <!-- la cuarta carta  -->
 								<div class="card">
 									<div class="card-body">
-										<h5 class="card-title">Informe de inserción laboral de los egresados universitarios (PDF 3,31 MB)</h5>
+										<h5 class="card-title">Informe de inserción laboral de los egresados universitarios (pdf 3,31 MB)</h5>
 										<div class="content">
 											<div>
 												<p class="text">FFecha de publicación: 6 de abril de 2021 (revisada a 14 de mayo de 2021)</p>
 											</div>                                
 										</div>
 										<div class="col-12 box_buttons">
-											<a href="{{<siteurl>}}documentos/pdf/estadisticas/INFORME_INSERCION_2013_14.pdf" target="_blank" class="btn btn_outline_blue">
+											<a href="{{<siteurl>}}documentos/PDF/estadisticas/INFORME_INSERCION_2013_14.pdf" target="_blank" class="btn btn_outline_blue">
 												ACCESO A LA INFOGRAFÍA 
 												<i class="icon far fa-images"></i>
 												<i class="hover_icon far fa-images"></i>
@@ -93,14 +93,14 @@ weight: 2
 							<div class="col-lg-5 info_prev_card"> <!-- la quinta carta  -->
 								<div class="card">
 									<div class="card-body">
-										<h5 class="card-title">Informe de inserción laboral de los egresados universitarios (PDF 3,31 MB)</h5>
+										<h5 class="card-title">Informe de inserción laboral de los egresados universitarios (pdf 3,31 MB)</h5>
 										<div class="content">
 											<div>
 												<p class="text">Fecha de publicación: 6 de abril de 2021 (revisada a 14 de mayo de 2021)</p>
 											</div>                                
 										</div>
 										<div class="col-12 box_buttons">
-											<a href="{{<siteurl>}}documentos/pdf/estadisticas/INFORME_INSERCION_2013_14.pdf" target="_blank" class="btn btn_outline_blue">
+											<a href="{{<siteurl>}}documentos/PDF/estadisticas/INFORME_INSERCION_2013_14.pdf" target="_blank" class="btn btn_outline_blue">
 												ACCESO A LA INFOGRAFÍA 
 												<i class="icon far fa-images"></i>
 												<i class="hover_icon far fa-images"></i>
@@ -119,7 +119,7 @@ weight: 2
 											</div>                                
 										</div>
 										<div class="col-12 box_buttons">
-											<a href="{{<siteurl>}}documentos/pdf/estadisticas/Informe_Datos_Cifras_Sistema_Universitario_Espanol_2019-2020.pdf" target="_blank" class="btn btn_outline_blue">
+											<a href="{{<siteurl>}}documentos/PDF/estadisticas/Informe_Datos_Cifras_Sistema_Universitario_Espanol_2019-2020.pdf" target="_blank" class="btn btn_outline_blue">
 												ACCESO A LA INFOGRAFÍA 
 												<i class="icon far fa-images"></i>
 												<i class="hover_icon far fa-images"></i>
@@ -140,7 +140,7 @@ weight: 2
 											</div>                                
 										</div>
 										<div class="col-12 box_buttons">
-											<a href="{{<siteurl>}}documentos/pdf/estadisticas/INFORME_INSERCION_2013_14.pdf" target="_blank" class="btn btn_outline_blue">
+											<a href="{{<siteurl>}}documentos/PDF/estadisticas/INFORME_INSERCION_2013_14.pdf" target="_blank" class="btn btn_outline_blue">
 												ACCESO A LA INFOGRAFÍA 
 												<i class="icon far fa-images"></i>
 												<i class="hover_icon far fa-images"></i>
@@ -160,7 +160,7 @@ weight: 2
 											</div>                                 
 										</div>
 										<div class="col-12 box_buttons">
-											<a href="{{<siteurl>}}documentos/pdf/estadisticas/datos-y-cifras-sue-2018-19.pdf" target="_blank" class="btn btn_outline_blue">
+											<a href="{{<siteurl>}}documentos/PDF/estadisticas/datos-y-cifras-sue-2018-19.pdf" target="_blank" class="btn btn_outline_blue">
 												ACCESO A LA INFOGRAFÍA
 												<i class="icon far fa-images"></i>
 												<i class="hover_icon far fa-images"></i>
@@ -172,10 +172,10 @@ weight: 2
 							<div class="col-lg-5 info_prev_card"> <!-- la octava carta -->
 								<div class="card">
 									<div class="card-body">
-										<h5 class="card-title">Informe extranjeros en el Sistema Universitarios Español (XLS 143.958 KB)</h5>
+										<h5 class="card-title">Informe extranjeros en el Sistema Universitarios Español (xls 143.958 KB)</h5>
 										<div class="content">
 											<div>
-												<p class="text">Últimos datos publicados: curso 2016-2017 (XLS 143.958 KB)
+												<p class="text">Últimos datos publicados: curso 2016-2017 (xls 143.958 KB)
 												</p>
 											</div>                                 
 										</div>
@@ -200,7 +200,7 @@ weight: 2
 											</div>                                 
 										</div>
 										<div class="col-12 box_buttons">
-											<a href="{{<siteurl>}}documentos/pdf/estadisticas/insercion-laboral-egresados-universitarios-.pdf" target="_blank" class="btn btn_outline_blue">
+											<a href="{{<siteurl>}}documentos/PDF/estadisticas/insercion-laboral-egresados-universitarios-.pdf" target="_blank" class="btn btn_outline_blue">
 												ACCESO A LA INFOGRAFÍA
 												<i class="icon far fa-images"></i>
 												<i class="hover_icon far fa-images"></i>

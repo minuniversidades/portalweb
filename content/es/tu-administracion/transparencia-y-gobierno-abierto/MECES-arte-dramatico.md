@@ -49,43 +49,43 @@ struc_dep_pic: ""
 								<div class="col-lg-12 cards_download_cnt">  
 			<div class="row"> 
 				<div class="download_card"> 
-					<a class="card" href="{{<siteurl>}}documentos/pdf/tu_administracion/pdf-no-reglametario/Acuerdo_de_inicio_Arte_Dramatico.pdf" target="_blank">
+					<a class="card" href="{{<siteurl>}}/documentos/pdf/tu_administracion/pdf-no-reglametario/Acuerdo_de_inicio_Arte_Dramatico.pdf" target="_blank"> 
 					<div class="card-header"> 
 						   <i class="fal fa-download"></i> 
-					</div></a> 
+					</div> </a> 
 					<div class="card-body"> 
-						<p class="text_file"><a class="card" href="{{<siteurl>}}/documentos/pdf/tu_administracion/pdf-no-reglametario/Acuerdo_de_inicio_Arte_Dramatico.pdf" target="_blank">  
-						<span class="tit">Acuerdo de inicio </span></a> <i class="fal fa-file-pdf pdf_icon"></i>(PDF 320,083 KB)
+						<p class="text_file"><a class="card" href="{{<siteurl>}}/documentos/pdf/tu_administracion/pdf-no-reglametario/Acuerdo_de_inicio_Arte_Dramatico.pdf" target="_blank"> 
+						<span class="tit">Acuerdo de inicio </span></a> <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (320,083 KB)
 					</div>
 				</div> 	
 				<div class="download_card"> 
-					<a class="card" href="{{<siteurl>}}documentos/pdf/tu_administracion/pdf-no-reglametario/200903_IC_EEAA_ANECA_Titulo_Superior_Arte_Dramatico_Firmado.pdf" target="_blank"> 
+					<a class="card" href="{{<siteurl>}}/documentos/pdf/tu_administracion/pdf-no-reglametario/200903_IC_EEAA_ANECA_Titulo_Superior_Arte_Dramatico_Firmado.pdf" target="_blank"> 
 					<div class="card-header"> 
 						   <i class="fal fa-download"></i> 
 					</div> </a> 
 					<div class="card-body"> 
-						<p class="text_file"><a class="card" href="{{<siteurl>}}documentos/pdf/tu_administracion/pdf-no-reglametario/200903_IC_EEAA_ANECA_Titulo_Superior_Arte_Dramatico_Firmado.pdf" target="_blank">  
-						<span class="tit">Informe ANECA </span></a> <i class="fal fa-file-pdf pdf_icon"></i>(PDF 1,378 MB)
+						<p class="text_file"><a class="card" href="{{<siteurl>}}/documentos/pdf/tu_administracion/pdf-no-reglametario/200903_IC_EEAA_ANECA_Titulo_Superior_Arte_Dramatico_Firmado.pdf" target="_blank"> 
+						<span class="tit">Informe ANECA </span></a> <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (1,378 MB)
 					</div>
 				</div>
 				<div class="download_card"> 
-					<a class="card" href="{{<siteurl>}}documentos/pdf/tu_administracion/pdf-no-reglametario/Informe_CU_Arte_Dramatico_firmado.pdf" target="_blank"> 
+					<a class="card" href="{{<siteurl>}}/documentos/pdf/tu_administracion/pdf-no-reglametario/Informe_CU_Arte_Dramatico_firmado.pdf" target="_blank"> 
 					<div class="card-header"> 
 						   <i class="fal fa-download"></i> 
 					</div> </a> 
 					<div class="card-body"> 
-						<p class="text_file"><a class="card" href="{{<siteurl>}}documentos/pdf/tu_administracion/pdf-no-reglametario/Informe_CU_Arte_Dramatico_firmado.pdf" target="_blank">  
-						<span class="tit">Informe del Consejo de Universidades </span></a> <i class="fal fa-file-pdf_icon"></i>(PDF 163,586 KB)
+						<p class="text_file"><a class="card" href="{{<siteurl>}}/documentos/pdf/tu_administracion/pdf-no-reglametario/Informe_CU_Arte_Dramatico_firmado.pdf" target="_blank"> 
+						<span class="tit">Informe del Consejo de Universidades </span></a> <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (163,586 KB)
 					</div>
 				</div>
 				<div class="download_card"> 
-					<a class="card" href="{{<siteurl>}}documentos/pdf/tu_administracion/pdf-no-reglametario/BOE_B_2021_4078.pdf" target="_blank"> 
+					<a class="card" href="{{<siteurl>}}/documentos/pdf/tu_administracion/pdf-no-reglametario/BOE_B_2021_4078.pdf" target="_blank"> 
 					<div class="card-header"> 
 						   <i class="fal fa-download"></i> 
 					</div> </a> 
 					<div class="card-body"> 
-						<p class="text_file"><a class="card" href="{{<siteurl>}}documentos/pdf/tu_administracion/pdf-no-reglametario/BOE_B_2021_4078.pdf" target="_blank">  
-						<span class="tit">Acuerdo de información pública (BOE)</span></a> <i class="fal fa-file-pdf pdf_icon"></i> (PDF 166.979 KB)
+						<p class="text_file"><a class="card" href="{{<siteurl>}}/documentos/pdf/tu_administracion/pdf-no-reglametario/BOE_B_2021_4078.pdf" target="_blank"> 
+						<span class="tit">Acuerdo de información pública (BOE)</span></a> <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (166.979 KB)
 					</div>
 				</div>
 			</div> 

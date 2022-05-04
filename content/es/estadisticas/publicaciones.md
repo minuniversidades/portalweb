@@ -34,6 +34,6 @@ Publicación 2019-2020<br><br>
 Fecha de publicación: 4 de julio de 2019<br><br>
 </li>
 <li><a href="{{<siteurl>}}documentos/</a><i class="fas fa-external-link-alt"></i>/estadisticas/datos-y-cifras-sue-2018-19.</a><i class="fas fa-external-link-alt"></i>" target="_blank">Datos y cifras del Sistema Universitario Español</a>(</a><i class="fas fa-external-link-alt"></i> 5,283 MB) <i class="fas fa-external-link-alt"></i> <br>Publicación 2018-2019<br><br></li>
-<li><a href="{{<siteurl>}}documentos/</a><i class="fas fa-external-link-alt"></i>/estadisticas/informe-extranjeros-2016.xlsx" target="_blank">Informe extranjeros en el Sistema Universitarios Español</a>(XLS 143,958 KB) <i class="fas fa-external-link-alt"></i><br>Últimos datos publicados: curso 2016-2017<br><br></li>
+<li><a href="{{<siteurl>}}documentos/</a><i class="fas fa-external-link-alt"></i>/estadisticas/informe-extranjeros-2016.xlsx" target="_blank">Informe extranjeros en el Sistema Universitarios Español</a>(xls 143,958 KB) <i class="fas fa-external-link-alt"></i><br>Últimos datos publicados: curso 2016-2017<br><br></li>
 <li><a href="https://www.universidades.gob.es/stfls/universidades/Estadisticas/ficheros/Informes_Infografias/insercion-laboral-egresados-universitarios-.</a><i class="fas fa-external-link-alt"></i>" target="_blank">Informe de inserción laboral de los egresados universitarios </a>(</a><i class="fas fa-external-link-alt"></i> 938,506 KB) <i class="fas fa-external-link-alt"></i><br>Últimos datos publicados: curso 2009-10 (análisis hasta 2014)<br><br></li>
 </ul>

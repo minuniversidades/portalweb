@@ -324,14 +324,14 @@ struc_dep_pic: ""
                     <div class="col-lg-12 cards_download_cnt">
                         <div class="row">
                             <div class="download_card"> <!-- el primer boton de descarga -->
-                                <a class="card" href="{{<siteurl>}}/documentos/pdf/estadisticas/Datos_y_Cifras_2020-21.pdf" target="_blank">
+                                <a class="card" href="{{<siteurl>}}/documentos/PDF/estadisticas/Datos_y_Cifras_2020-21.pdf" target="_blank">
                                     <div class="card-header">
                                         <i class="fal fa-download"></i>
                                     </div>
                                     <div class="card-body">
                                         <p class="text_body">Informe Datos y cifras del Sistema Universitario Español 2020-2021 </p>
                                         <p class="text_file">
-                                            <i class="fal fa-file-pdf pdf_icon"></i>  (pdf 16,033 MB)
+                                            <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (16,033 MB)
                                         </p>
                                     </div>
                                 </a>
@@ -344,7 +344,7 @@ struc_dep_pic: ""
                                     <div class="card-body">
                                         <p class="text_body"> Informe de Inserción laboral de los egresados universitarios. Curso 2013-14 (análisis hasta 2018) </p>
                                         <p class="text_file">
-                                            <i class="fal fa-file-pdf pdf_icon"></i>  (pdf 3,31 MB)
+                                            <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (3,31 MB)
                                         </p>
                                     </div>
                                 </a>
@@ -357,15 +357,14 @@ struc_dep_pic: ""
                         <div class="swiper-wrapper">
                             <div class="swiper-slide">
                                 <div class="download_card"> <!-- el primer boton de descarga -->
-                                    <a class="card" href="{{<siteurl>}}/documentos/pdf/estadisticas/Datos_y_Cifras_2020-21.pdf" target="_blank">
+                                    <a class="card" href="{{<siteurl>}}/documentos/PDF/estadisticas/Datos_y_Cifras_2020-21.pdf" target="_blank">
                                         <div class="card-header">
                                             <i class="fal fa-download"></i>
                                         </div>
                                         <div class="card-body">
                                             <p class="text_body">Informe Datos y cifras del Sistema Universitario Español 2020-2021</p>
                                             <p class="text_file">
-                                                <i class="fal fa-file-pdf pdf_icon"></i> 
-                                                (pdf 16,033 MB)
+                                                <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (16,033 MB)
                                             </p>
                                         </div>
                                     </a>
@@ -378,8 +377,7 @@ struc_dep_pic: ""
                                         <div class="card-body">
                                             <p class="text_body">Informe de Inserción laboral de los egresados universitarios. Curso 2013-14 (análisis hasta 2018)</p>
                                             <p class="text_file">
-                                                <i class="fal fa-file-pdf pdf_icon"></i> 
-                                                (pdf 3,31 MB)
+                                                <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (3,31 MB)
                                             </p>
                                         </div>
                                     </a>
