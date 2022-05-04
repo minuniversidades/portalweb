@@ -1,7 +1,7 @@
 ---
 title: "Organigrama"
 type: estructura-y-funciones
-section_img: "./images/ORGANIG.png"
+section_img: "./images/businessman-3105871_1920.jpeg"
 layout: "organigrama"
 weight: 4
 ---
