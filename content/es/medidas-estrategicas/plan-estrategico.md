@@ -40,8 +40,7 @@ Con este plan se persiguen los siguientes objetivos:
                                                                 <div class="card-body">
                                                                     <p class="text_body">Plan Estratégico de Subvenciones 2021</p>
                                                                     <p class="text_file">
-                                                                        <i class="fal fa-file-pdf pdf_icon text-danger"></i>
-                                                                        (pdf 1,404 MB)
+                                                                        <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (1,404 MB)
                                                                     </p>
                                                                 </div>
                                                             </a>
