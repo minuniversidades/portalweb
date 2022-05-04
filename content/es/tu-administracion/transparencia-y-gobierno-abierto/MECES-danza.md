@@ -54,7 +54,7 @@ struc_dep_pic: ""
 					</div> </a> 
 					<div class="card-body"> 
 						<p class="text_file"><a class="card" href="{{<siteurl>}}documentos/pdf/tu_administracion/pdf-no-reglametario/tu_administracion/Acuerdo_inicio_Danza_Firmado.pdf" target="_blank">  
-						<span class="tit">Acuerdo de inicio </span></a> <i class="fal fa-file-pdf pdf_icon"></i>(PDF 317,966 KB)
+						<span class="tit">Acuerdo de inicio </span></a> <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (317,966 KB)
 					</div>
 				</div> 	
 				<div class="download_card"> 
@@ -64,7 +64,7 @@ struc_dep_pic: ""
 					</div> </a> 
 					<div class="card-body"> 
 						<p class="text_file"><a class="card" href="{{<siteurl>}}documentos/pdf/tu_administracion/pdf-no-reglametario/200903_IC-EEAA-ANECA_Titulo_Superior_Danza_Firmado.pdf" target="_blank">  
-						<span class="tit">Informe ANECA </span></a> <i class="fal fa-file-pdf pdf_icon"></i>(PDF 1,099 MB)
+						<span class="tit">Informe ANECA </span></a> <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (1,099 MB)
 					</div>
 				</div>
 				<div class="download_card"> 
@@ -74,7 +74,7 @@ struc_dep_pic: ""
 					</div> </a> 
 					<div class="card-body"> 
 						<p class="text_file"><a class="card" href="{{<siteurl>}}documentos/pdf/tu_administracion/pdf-no-reglametario/Informe_CU_Danza_firmado.pdf" target="_blank">  
-						<span class="tit">Informe del Consejo de Universidades </span></a> <i class="fal fa-file-pdf pdf_icon"></i>(PDF 162,383 KB)
+						<span class="tit">Informe del Consejo de Universidades </span></a> <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (162,383 KB)
 					</div>
 				</div>
 				<div class="download_card"> 
@@ -84,7 +84,7 @@ struc_dep_pic: ""
 					</div> </a> 
 					<div class="card-body"> 
 						<p class="text_file"><a class="card" href="{{<siteurl>}}documentos/pdf/tu_administracion/pdf-no-reglametario/BOE_B_2021_4080.pdf" target="_blank">  
-						<span class="tit">Acuerdo de información pública (BOE)</span></a> <i class="fal fa-file-pdf pdf_icon"></i> (PDF 166,975 KB)
+						<span class="tit">Acuerdo de información pública (BOE)</span></a> <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (166,975 KB)
 					</div>
 				</div>
 			</div> 

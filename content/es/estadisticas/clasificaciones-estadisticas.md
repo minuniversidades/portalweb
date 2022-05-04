@@ -23,8 +23,8 @@ struc_dep_pic: ""
                                                     <div class="row">
                                                         <div class="col-12">
                                                             <ul>
-                                <li><a href="{{<siteurl>}}documentos/excel/estadisticas/Clasificaciones-Universidades-2020.xlsx" target="_blank">Universidades españolas, por tipo, presencialidad y ubicación. 2020 <i class="fas fa-external-link-alt"></i></a> (xls 20,917 KB)
-                                <li><a href="{{<siteurl>}}documentos/excel/estadisticas/clasificaciones-centros-unidades-2020.xlsx" target="_blank">Centros / Unidades impartiendo titulaciones, por ubicación, modalidad y tipo. 2020 <i class="fas fa-external-link-alt"></i></a> (xls 136,64 KB)
+                                <li><a href="{{<siteurl>}}documentos/excel/estadisticas/Clasificaciones-Universidades-2020.xlsx" target="_blank">Universidades españolas, por tipo, presencialidad y ubicación. 2020 <i class="fas fa-external-link-alt"></i></a> <i class="far fa-file-excel text-success"></i> XLS (20,917 KB)
+                                <li><a href="{{<siteurl>}}documentos/excel/estadisticas/clasificaciones-centros-unidades-2020.xlsx" target="_blank">Centros / Unidades impartiendo titulaciones, por ubicación, modalidad y tipo. 2020 <i class="fas fa-external-link-alt"></i></a> <i class="far fa-file-excel text-success"></i> XLS (136,64 KB)
                             </ul>
                                                         </div>
                                                     </div>
@@ -46,11 +46,11 @@ struc_dep_pic: ""
                                                     <div class="row">
                                                         <div class="col-12">
                             <ul>
-                                <li><a href="{{<siteurl>}}documentos/excel/estadisticas/Titulaciones_uni_espanolas_x_uni-centr-presen_idio-2020.xlsx" target="_blank">Titulaciones en universidades españolas, por unidad/centro, presencialidad e idioma extranjero. 2020 <i class="fas fa-external-link-alt"></i></a>  (xls 735,945 KB)  
-                                <li><a href="{{<siteurl>}}documentos/excel/estadisticas/Titulaciones_rama_ISCED13_ambito_estudio_campo_estudio.2020.xlsx" target="_blank">Titulaciones según rama, ISCED 2013, ámbito de estudio y campo de estudio. 2020  <i class="fas fa-external-link-alt"></i></a>  (xls 1,249 MB) 
-                                <li><a href="https://www.universidades.gob.es/stfls/MICINN/Universidades/Ficheros/Estadisticas/Titulaciones_rama_ISCED_1999_ambito_campo_estudio_2013_2.xlsx" target="_blank">Titulaciones según rama, ISCED 1999, ámbito de estudio y campo de estudio. 2013  <i class="fas fa-external-link-alt"></i></a> (xls 894,67 KB) 
-                                <li><a href="https://www.universidades.gob.es/stfls/MICINN/Universidades/Ficheros/Estadisticas/clasificaciones-tablas-rama-ambito-campo-2019.xlsx" target="_blank">Tablas de rama, ámbito y campo  <i class="fas fa-external-link-alt"></i></a> (xls 17,647 KB) 
-                                <li><a href="https://www.universidades.gob.es/stfls/MICINN/Universidades/Ficheros/Estadisticas/cambiosambitoramatitulacionesciclogrado.xlsx" target="_blank">Tabla de titulaciones con cambio de rama/ámbito <i class="fas fa-external-link-alt"></i></a> (xls 40,116 KB) 
+                                <li><a href="{{<siteurl>}}documentos/excel/estadisticas/Titulaciones_uni_espanolas_x_uni-centr-presen_idio-2020.xlsx" target="_blank">Titulaciones en universidades españolas, por unidad/centro, presencialidad e idioma extranjero. 2020 <i class="fas fa-external-link-alt"></i></a>  <i class="far fa-file-excel text-success"></i> XLS (735,945 KB)  
+                                <li><a href="{{<siteurl>}}documentos/excel/estadisticas/Titulaciones_rama_ISCED13_ambito_estudio_campo_estudio.2020.xlsx" target="_blank">Titulaciones según rama, ISCED 2013, ámbito de estudio y campo de estudio. 2020  <i class="fas fa-external-link-alt"></i></a>  <i class="far fa-file-excel text-success"></i> XLS (1,249 MB) 
+                                <li><a href="https://www.universidades.gob.es/stfls/MICINN/Universidades/Ficheros/Estadisticas/Titulaciones_rama_ISCED_1999_ambito_campo_estudio_2013_2.xlsx" target="_blank">Titulaciones según rama, ISCED 1999, ámbito de estudio y campo de estudio. 2013  <i class="fas fa-external-link-alt"></i></a> <i class="far fa-file-excel text-success"></i> XLS (894,67 KB) 
+                                <li><a href="https://www.universidades.gob.es/stfls/MICINN/Universidades/Ficheros/Estadisticas/clasificaciones-tablas-rama-ambito-campo-2019.xlsx" target="_blank">Tablas de rama, ámbito y campo  <i class="fas fa-external-link-alt"></i></a> <i class="far fa-file-excel text-success"></i> XLS (17,647 KB) 
+                                <li><a href="https://www.universidades.gob.es/stfls/MICINN/Universidades/Ficheros/Estadisticas/cambiosambitoramatitulacionesciclogrado.xlsx" target="_blank">Tabla de titulaciones con cambio de rama/ámbito <i class="fas fa-external-link-alt"></i></a> <i class="far fa-file-excel text-success"></i> XLS (40,116 KB) 
                             </ul>
                                                         </div>
                                                     </div>
@@ -72,7 +72,7 @@ struc_dep_pic: ""
                                                     <div class="row">
                                                         <div class="col-12">
                                                             <ul>
-                            <li><a href="https://www.universidades.gob.es/stfls/MICINN/Universidades/Ficheros/Estadisticas/clasificaciones-paises-regiones-zona-2019.xlsx" target="_blank">Tabla de países, regiones y zonas geográficas <i class="fas fa-external-link-alt"></i></a> (xls 104,819 KB)
+                            <li><a href="https://www.universidades.gob.es/stfls/MICINN/Universidades/Ficheros/Estadisticas/clasificaciones-paises-regiones-zona-2019.xlsx" target="_blank">Tabla de países, regiones y zonas geográficas <i class="fas fa-external-link-alt"></i></a> <i class="far fa-file-excel text-success"></i> XLS (104,819 KB)
                             </ul>
                             </div>
                                                     </div>
@@ -94,7 +94,7 @@ struc_dep_pic: ""
                                                     <div class="row">
                                                         <div class="col-12">
                                                             <ul>
-                            <li><a href="https://www.universidades.gob.es/stfls/MICINN/Universidades/Ficheros/Estadisticas/clasificaciones-areas-de-conocimiento.xlsx" target="_blank">Tabla de áreas de conocimiento del profesorado<i class="fas fa-external-link-alt"></i></a>  (xls 16,417 KB)
+                            <li><a href="https://www.universidades.gob.es/stfls/MICINN/Universidades/Ficheros/Estadisticas/clasificaciones-areas-de-conocimiento.xlsx" target="_blank">Tabla de áreas de conocimiento del profesorado<i class="fas fa-external-link-alt"></i></a>  <i class="far fa-file-excel text-success"></i> XLS (16,417 KB)
                             </ul>	
                                                 </div>
                                             </div>

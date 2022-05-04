@@ -49,7 +49,7 @@ weight: 1
                                     <div class="accordion-item">
                                         <h2 class="accordion-header" id="panelsStayOpen-headingTwo">
                                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseTwo" aria-expanded="false">
-                                                Modelo e información de la solicitud
+                                                Modelo de solicitud de devolución de ingresos indebidos
                                             </button>
                                         </h2>
                                         <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingTwo">

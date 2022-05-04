@@ -94,7 +94,7 @@ Conforme a lo dispuesto en dicha norma, <b>los títulos de especialista en Cienc
 					<div class="card-body">
 						<p class="text_body">Real Decreto 450/2005</p>
 						<p class="text_file">
-							<i style="color:#cc0000" class="fal fa-file-pdf pdf_icon"></i>  (170,159 KB)
+							<i style="color:#cc0000" class="fal fa-file-pdf pdf_icon"></i>  (pdf 170,159 KB)
 						</p>
 					</div>
 				</div> 		

@@ -4,41 +4,47 @@ type: estadisticas
 section_img: "./images/Becas_ayudas_al_Estudio.jpeg"
 struc_dep_pic: "" 
 url: "/estadisticas/catalogo-datos/estadisticas-estudiantes/"   
----             
+--- 
+ <section> 
+        <article>
+            <div class="container container-xl p-0">            
 <div class="row">
-                    <div class="col-lg-4 info_prev_card">
-                        <div class="card">
-                            <div class="card-body">
-                                <h5 class="card-title">Número de estudiantes en las Universidades Españolas.</h5>
-                                <div class="content">
-                                    <div class="text">
-                                        <p class="text">Últimos datos publicados: curso 2020-2021* (Avance)</p>
-                                        <p class="text">Dato provisional: Últimos datos publicados: curso 2020-2021</p>
-                                    </div>                                
-                                </div>
-                                <div class="col-12 box_buttons">
-                                    <a href="https://public.tableau.com/views/Academica20_EEU/InfografiaEEU?%3AVizHome=no&%3Aembed=true#7" class="btn btn_outline_blue" target="_blank">
-                                        ACCESO A LA INFOGRAFÍA 
-                                        <i class="icon far fa-images"></i>
-                                        <i class="hover_icon icon far fa-images"></i>
-                                    </a>
-                                </div>
+    <div class="col-lg-4 info_prev_card">
+        <div class="card">
+            <div class="card-body">
+                            <h5 class="card-title">Número de estudiantes en las Universidades Españolas.</h5>
+                            <div class="content">
+                                <div class="text">
+                                    <p class="text">Últimos datos publicados: curso 2020-2021* (Avance)</p>
+                                    <p class="text">Dato provisional: Últimos datos publicados: curso 2020-2021</p>
+                                </div>                                
                             </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-8 card_img card_img_ip">
-						<div class="card_content_img">
-							<div class="img img-fluid" style="background: url('{{<siteurl>}}/images/estadisticas/InfografiaEEU.png');"></div>
-						</div>
-                    </div>
-                </div>
-<br><br>
+                            <div class="col-12 box_buttons">
+                                <a href="https://public.tableau.com/views/Academica20_EEU/InfografiaEEU?%3AVizHome=no&%3Aembed=true#7" class="btn btn_outline_blue" target="_blank">
+                                    ACCESO A LA INFOGRAFÍA 
+                                    <i class="icon far fa-images"></i>
+                                    <i class="hover_icon icon far fa-images"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="col-lg-8 card_img card_img_ip">
+	<div class="card_content_img">
+                        <div class="img img-fluid" style="background: url('{{<siteurl>}}/images/estadisticas/InfografiaEEU.png');"></div>
+		</div>
+    </div>
+</div>
+<br><br>  
 *Dato provisional
 
 Últimos datos publicados: curso 2020-2021<br>
 Fecha de publicación: 9 de junio de 2021
 
 Última revisión 17/09/2021. Corregidos datos de Máster de la Universidad de Granada (curso 2019-2020).<br><br>
+</div>
+</article>
+</section>
  <section> 
         <article>
             <div class="container container-xl p-0">
@@ -128,8 +134,8 @@ Datos por titulación
 <div class="row">
 <div class="col-12">
 <ul>
-<li><a href="https://www.universidades.gob.es/stfls/universidades/Estadisticas/ficheros/MatriculadosEEU.xlsx" target="_blank">Matriculados <i class="fas fa-external-link-alt"></i></a> (xls 1.144 MB)</li>
-<li><a href="https://www.universidades.gob.es/stfls/universidades/Estadisticas/ficheros/EgresadosEEU.xlsx" target="_blank">Egresados <i class="fas fa-external-link-alt"></i></a> (xls 827.351 KB) </li>
+<li><a href="https://www.universidades.gob.es/stfls/universidades/Estadisticas/ficheros/MatriculadosEEU.xlsx" target="_blank">Matriculados <i class="fas fa-external-link-alt"></i></a> <i class="far fa-file-excel text-success"></i> XLS (1,144 MB)</li>
+<li><a href="https://www.universidades.gob.es/stfls/universidades/Estadisticas/ficheros/EgresadosEEU.xlsx" target="_blank">Egresados <i class="fas fa-external-link-alt"></i></a> <i class="far fa-file-excel text-success"></i> XLS (827,351 KB) </li>
 </ul>
 </div>
 </div>
@@ -166,9 +172,8 @@ Series de matriculados y egresados desde el curso 1985-1986
 </div>
 </div>
 </div>
-            </div>
-        </article>
-    </section>
+</article>
+</section>
 <section>
         <article>
             <div class="container">
@@ -222,7 +227,7 @@ Series de matriculados y egresados desde el curso 1985-1986
                                                                     <div class="card-body">
                                                                         <p class="text_body">Principales resultados</p>
                                                                         <p class="text_file">
-                                                                            <i class="fal fa-file-pdf pdf_icon"></i> (475,23KB)
+                                                                            <i class="fal fa-file-pdf pdf_icon"></i> PDF (475,23KB)
                                                                         </p>
                                                                     </div>
                                                                 </a>
@@ -235,7 +240,7 @@ Series de matriculados y egresados desde el curso 1985-1986
                                                                     <div class="card-body">
                                                                         <p class="text_body">Metodología</p>
                                                                         <p class="text_file">
-                                                                            <i class="fal fa-file-pdf pdf_icon"></i> (261,379 KB)
+                                                                            <i class="fal fa-file-pdf pdf_icon"></i> PDF (261,379 KB)
                                                                         </p>
                                                                     </div>
                                                                 </a>

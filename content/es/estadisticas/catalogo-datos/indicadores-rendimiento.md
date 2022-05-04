@@ -105,14 +105,14 @@ Fecha de publicación: 05-10-2021<br><br>
                                                     <div class="col-lg-12 cards_download_cnt">
                                                         <div class="row jcc_mobile">
                                                             <div class="download_card">
-                                                                <a class="card" href="{{<siteurl>}}documentos/pdf/estadisticas/metodologia-estadistica-indicadores-rendimiento-2020.pdf" target="_blank">
+                                                                <a class="card" href="{{<siteurl>}}documentos/PDF/estadisticas/metodologia-estadistica-indicadores-rendimiento-2020.pdf" target="_blank">
                                                                     <div class="card-header">
                                                                         <i class="fal fa-download"></i>
                                                                     </div>
                                                                     <div class="card-body">
                                                                         <p class="text_body">Metodología</p>
                                                                         <p class="text_file">
-                                                                            <i class="fal fa-file-pdf pdf_icon"></i> (432,706 KB)
+                                                                            <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (432,706 KB)
                                                                         </p>
                                                                     </div>
                                                                 </a>
@@ -125,15 +125,14 @@ Fecha de publicación: 05-10-2021<br><br>
                                                           <div class="swiper-wrapper">
                                                             <div class="swiper-slide">
                                                                 <div class="download_card">
-                                                                    <a class="card" href="{{<siteurl>}}documentos/pdf/estadisticas/metodologia-estadistica-indicadores-rendimiento-2020.pdf" target="_blank">
+                                                                    <a class="card" href="{{<siteurl>}}documentos/PDF/estadisticas/metodologia-estadistica-indicadores-rendimiento-2020.pdf" target="_blank">
                                                                         <div class="card-header">
                                                                             <i class="fal fa-download"></i>
                                                                         </div>
                                                                         <div class="card-body">
                                                                             <p class="text_body">Metodología</p>
                                                                             <p class="text_file">
-                                                                                <i class="fal fa-file-pdf pdf_icon"></i> 
-                                                                                 (432,706 KB)
+                                                                                <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (432,706 KB)
                                                                             </p>
                                                                         </div>
                                                                     </a>

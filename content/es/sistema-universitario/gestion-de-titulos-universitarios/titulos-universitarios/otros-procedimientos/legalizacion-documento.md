@@ -185,7 +185,7 @@ La legalización de documentos académicos universitarios oficiales originales q
  										<ul><li>Alta Inspección de Educación</li>
  										<li>C/ Calvo Sotelo, 25 - 1ª planta, 39002 Santander</li>
 										<li><a href="mailto:area_educacion.cantabria@correo.gob.es">area_educacion.cantabria@correo.gob.es <i class="fas fa-external-link-alt"></i> </a></li>
- 										<li>  Teléfono: 94 299 90 30<li>
+ 										<li>  Teléfono: 94 299 90 30</li>
 										</ul>
 									</li>
 									<li>  Delegación del Gobierno en <b>Castilla y León</b>:
@@ -245,7 +245,7 @@ La legalización de documentos académicos universitarios oficiales originales q
 									</li>
 									<li> Delegación del Gobierno en <b>Navarra</b>:
  										<ul>
-										<li>Alta Inspección de Educación<li> 
+										<li>Alta Inspección de Educación</li> 
 										<li>Plaza de las Merindades s/n (entrada por Paulino Caballero, 19), 31071 Pamplona</li>
  										<li><a href="mailto:ainspeccion.navarra@correo.gob.es">ainspeccion.navarra@correo.gob.es <i class="fas fa-external-link-alt"></i></a></li>
  										<li>Teléfono: 94 897 93 60-65-62</li>
@@ -388,7 +388,7 @@ La legalización de documentos académicos universitarios oficiales originales q
 					</div> </a> 
 					<div class="card-body"> 
 						<p class="text_file"><a class="card" href="{{<siteurl>}}/documentos/PDF/sistema_universitario/gestion_titulos/otros_procedimientos/2018-legalizaciones-solicitud.pdf" target="_blank">  
-						<span class="tit">Formulario solicitud reconocimiento de firmas</span></a><i style="color:#cc0000" class="fal fa-file-pdf pdf_icon"></i> (151,43 KB)
+						<span class="tit">Formulario solicitud reconocimiento de firmas</span></a><i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (151,43 KB)
 					</div>
 				</div> 		
 			</div> 

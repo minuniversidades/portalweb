@@ -42,7 +42,7 @@ En esta página puede encontrar un catálogo de los servicios y procedimientos d
                                                         <div class="row">
                                                             <div class="col-12">
                                                                <a href="{{<siteurl>}}/documentos/PDF/ConsultasOnLineB.pdf" target="_blank">Consulta On-Line de Títulos</a>
-                                                               <i class="fas fa-external-link-alt"></i> (<i style="color:#cc0000" class="fal fa-file-pdf pdf_icon"></i> 289,617 KB)
+                                                               <i class="fas fa-external-link-alt"></i> <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (289,617 KB)
                                                             </div>
                                                         </div>
                                                     </div>
@@ -63,7 +63,7 @@ En esta página puede encontrar un catálogo de los servicios y procedimientos d
                                                         <div class="row">
                                                         <div class="col-12">
                                                                <a href="{{<siteurl>}}/documentos/PDF/MecesyOtrasB.pdf" target="_blank">Correspondencia de MECES y otras</a>
-                                                               <i class="fas fa-external-link-alt"></i> (<i style="color:#cc0000" class="fal fa-file-pdf pdf_icon"></i> 260,828 KB)
+                                                               <i class="fas fa-external-link-alt"></i> <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (260,828 KB)
                                                             </div>
                                                         </div>
                                                     </div>
@@ -84,7 +84,7 @@ En esta página puede encontrar un catálogo de los servicios y procedimientos d
                                                         <div class="row">
                                                          <div class="col-12">
                                                                <a href="{{<siteurl>}}/documentos/PDF/ColegiosProfesionalesAccesoRNTUOB.pdf" target="_blank">Solicitudes de acceso a consulta (RNTUO) para Colegios Profesionales</a>
-                                                               <i class="fas fa-external-link-alt"></i> (<i style="color:#cc0000" class="fal fa-file-pdf pdf_icon"></i> 475.384 KB)
+                                                               <i class="fas fa-external-link-alt"></i> <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (475.384 KB)
                                                             </div>
                                                         </div>
                                                         </div>
@@ -92,7 +92,6 @@ En esta página puede encontrar un catálogo de los servicios y procedimientos d
                                                 </article>
                                             </div>
                                         </div>
-									</div>
 									<div class="accordion-item">
                                         <h2 class="accordion-header" id="panelsStayOpen-headingFive">
                                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseFive" aria-expanded="false">
@@ -107,13 +106,13 @@ En esta página puede encontrar un catálogo de los servicios y procedimientos d
                                                             <div class="col-12">
                                                                 - <a href="{{<siteurl>}}tu-administracion/informacion-y-atencion-al-ciudadano/">Información y Atención a la Ciudadanía<a><br>
 																- <a href="{{<siteurl>}}sistema-universitario/gestion-de-titulos-universitarios/">Para más información</a>
-                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </article>
                                             </div>
                                         </div>
-                                    </article>
-                                </div>
-                            </div>
-                        </div>         
+                                    </div>         
                     </div>
                 </div>
             </div>

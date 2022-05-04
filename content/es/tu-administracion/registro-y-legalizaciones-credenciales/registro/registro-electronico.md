@@ -2,7 +2,7 @@
 title: "Registro Electrónico"
 type: "registro"
 layout: "registro/single"
-section_img: "./images/registro-electronico.jpeg"
+section_img: "./images/equidad_de_genero.jpeg"
 img: "./images/thumbnail.jpg"
 weight: 1
 ---

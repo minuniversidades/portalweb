@@ -118,9 +118,9 @@ url: "/estadisticas/catalogo-datos/estadisticas-precios-publicos/"
                                                         <div class="row">
                                                             <div class="col-12">
                                                                 <ul>
-																	<li><a href="https://www.universidades.gob.es/stfls/MICINN/Universidades/Ficheros/Estadisticas/Estadistica_Precios_Publicos_Universitarios.xlsx" target="_blank">Estadística de Precios Públicos Universitarios <i class="fas fa-external-link-alt"></i></a>(xls 204.428 KB)  </li>
-																	<li><a href="https://www.universidades.gob.es/stfls/MICINN/Universidades/Ficheros/Estadisticas/Precios_Publicos_Grado_experimentalidad.xlsx" target="_blank">Precios Públicos de Grado por experimentalidad y CC.AA <i class="fas fa-external-link-alt"></i></a> (xls 189.955 KB)  </li>
-																	<li><a href="https://www.universidades.gob.es/stfls/MICINN/Universidades/Ficheros/Estadisticas/Precios_Publicos_Master_experimentalidad.xlsx" target="_blank">Precios Públicos de Máster por experimentalidad y CC.AA <i class="fas fa-external-link-alt"></i></a> (xls 357.409 KB) </li>
+																	<li><a href="https://www.universidades.gob.es/stfls/MICINN/Universidades/Ficheros/Estadisticas/Estadistica_Precios_Publicos_Universitarios.xlsx" target="_blank">Estadística de Precios Públicos Universitarios <i class="fas fa-external-link-alt"></i></a> <i class="far fa-file-excel text-success"></i> XLS (204,428 KB)  </li>
+																	<li><a href="https://www.universidades.gob.es/stfls/MICINN/Universidades/Ficheros/Estadisticas/Precios_Publicos_Grado_experimentalidad.xlsx" target="_blank">Precios Públicos de Grado por experimentalidad y CC.AA <i class="fas fa-external-link-alt"></i></a> <i class="far fa-file-excel text-success"></i> XLS (189,955 KB)  </li>
+																	<li><a href="https://www.universidades.gob.es/stfls/MICINN/Universidades/Ficheros/Estadisticas/Precios_Publicos_Master_experimentalidad.xlsx" target="_blank">Precios Públicos de Máster por experimentalidad y CC.AA <i class="fas fa-external-link-alt"></i></a> <i class="far fa-file-excel text-success"></i> XLS (357,409 KB) </li>
 																</ul>
 															</div>
                                                         </div>
@@ -153,27 +153,27 @@ url: "/estadisticas/catalogo-datos/estadisticas-precios-publicos/"
                                                     <div class="col-lg-12 cards_download_cnt">
                                                         <div class="row jcc_mobile">
                                                             <div class="download_card">
-                                                                <a class="card" href="{{<siteurl>}}documentos/pdf/estadisticas/Metodologia_2021_2022.pdf" target="_blank">
+                                                                <a class="card" href="{{<siteurl>}}documentos/PDF/estadisticas/Metodologia_2021_2022.pdf" target="_blank">
                                                                     <div class="card-header">
                                                                         <i class="fal fa-download"></i>
                                                                     </div>
                                                                     <div class="card-body">
                                                                         <p class="text_body">Metodología</p>
                                                                         <p class="text_file">
-                                                                            <i class="fal fa-file-pdf pdf_icon"></i> (275,352 KB)
+                                                                            <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (275,352 KB)
                                                                         </p>
                                                                     </div>
                                                                 </a>
                                                             </div>
 															<div class="download_card">
-                                                                <a class="card" href="{{<siteurl>}}documentos/pdf/estadisticas/Nota_2021_2022.pdf" target="_blank">
+                                                                <a class="card" href="{{<siteurl>}}documentos/PDF/estadisticas/Nota_2021_2022.pdf" target="_blank">
                                                                     <div class="card-header">
                                                                         <i class="fal fa-download"></i>
                                                                     </div>
                                                                     <div class="card-body">
                                                                         <p class="text_body">Principales resultados</p>
                                                                         <p class="text_file">
-                                                                            <i class="fal fa-file-pdf pdf_icon"></i> (959,727 KB)
+                                                                            <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (959,727 KB)
                                                                         </p>
                                                                     </div>
                                                                 </a>
@@ -186,29 +186,27 @@ url: "/estadisticas/catalogo-datos/estadisticas-precios-publicos/"
                                                           <div class="swiper-wrapper">
                                                             <div class="swiper-slide">
                                                                 <div class="download_card">
-                                                                    <a class="card" href="{{<siteurl>}}documentos/pdf/estadisticas/Metodologia_2021_2022.pdf" target="_blank">
+                                                                    <a class="card" href="{{<siteurl>}}documentos/PDF/estadisticas/Metodologia_2021_2022.pdf" target="_blank">
                                                                         <div class="card-header">
                                                                             <i class="fal fa-download"></i>
                                                                         </div>
                                                                         <div class="card-body">
                                                                             <p class="text_body">Metodología</p>
                                                                             <p class="text_file">
-                                                                                <i class="fal fa-file-pdf pdf_icon"></i> 
-                                                                                 (275,352 KB)
+                                                                                <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (275,352 KB)
                                                                             </p>
                                                                         </div>
                                                                     </a>
                                                                 </div>
 																<div class="download_card">
-                                                                    <a class="card" href="{{<siteurl>}}documentos/pdf/estadisticas/Nota_2021_2022.pdf" target="_blank">
+                                                                    <a class="card" href="{{<siteurl>}}documentos/PDF/estadisticas/Nota_2021_2022.pdf" target="_blank">
                                                                         <div class="card-header">
                                                                             <i class="fal fa-download"></i>
                                                                         </div>
                                                                         <div class="card-body">
                                                                             <p class="text_body">Principales resultados</p>
                                                                             <p class="text_file">
-                                                                                <i class="fal fa-file-pdf pdf_icon"></i> 
-                                                                                 (959,727 KB)
+                                                                                <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (959,727 KB)
                                                                             </p>
                                                                         </div>
                                                                     </a>

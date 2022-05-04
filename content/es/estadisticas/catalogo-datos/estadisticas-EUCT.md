@@ -19,7 +19,7 @@ url: "/estadisticas/catalogo-datos/estadisticas-euct/"
                                     </div>                                
                                 </div>
                                 <div class="col-12 box_buttons">
-                                    <a href="{{<siteurl>}}/documentos/pdf/estadisticas/Mapa_UNIVERSIDADES_2020.pdf" type="button" class="btn btn_outline_blue" target="_blank">
+                                    <a href="{{<siteurl>}}/documentos/PDF/estadisticas/Mapa_UNIVERSIDADES_2020.pdf" type="button" class="btn btn_outline_blue" target="_blank">
                                         ACCESO A LA INFOGRAFÍA 
                                         <i class="icon far fa-images"></i>
                                         <i class="hover_icon far fa-images"></i>
@@ -185,27 +185,27 @@ Fecha de publicación: 23 de marzo de 2021
                                                     <div class="col-lg-12 cards_download_cnt">
                                                         <div class="row jcc_mobile">
                                                             <div class="download_card">
-                                                                <a class="card" href="{{<siteurl>}}documentos/pdf/estadisticas/PrincipalesResultadosEUCT.pdf" target="_blank">
+                                                                <a class="card" href="{{<siteurl>}}documentos/PDF/estadisticas/PrincipalesResultadosEUCT.pdf" target="_blank">
                                                                     <div class="card-header">
                                                                         <i class="fal fa-download"></i>
                                                                     </div>
                                                                     <div class="card-body">
                                                                         <p class="text_body">Principales resultados</p>
                                                                         <p class="text_file">
-                                                                            <i class="fal fa-file-pdf pdf_icon"></i> (706,29 KB)
+                                                                            <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (706,29 KB)
                                                                         </p>
                                                                     </div>
                                                                 </a>
                                                             </div>
 															<div class="download_card">
-                                                                <a class="card" href="{{<siteurl>}}documentos/pdf/estadisticas/Metodologia.pdf" target="_blank">
+                                                                <a class="card" href="{{<siteurl>}}documentos/PDF/estadisticas/Metodologia.pdf" target="_blank">
                                                                     <div class="card-header">
                                                                         <i class="fal fa-download"></i>
                                                                     </div>
                                                                     <div class="card-body">
                                                                         <p class="text_body">Metodología</p>
                                                                         <p class="text_file">
-                                                                            <i class="fal fa-file-pdf pdf_icon"></i> (435,474 KB)
+                                                                            <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (435,474 KB)
                                                                         </p>
                                                                     </div>
                                                                 </a>
@@ -218,7 +218,7 @@ Fecha de publicación: 23 de marzo de 2021
                                                                     <div class="card-body">
                                                                         <p class="text_body">Preinscripción por titulación</p>
                                                                         <p class="text_file">
-                                                                            <i class="fas fa-file-excel text-success"></i> (3,384 MB)
+                                                                            <i class="far fa-file-excel text-success"></i> XLS (3,384 MB)
                                                                         </p>
                                                                     </div>
                                                                 </a>
@@ -231,29 +231,27 @@ Fecha de publicación: 23 de marzo de 2021
                                                           <div class="swiper-wrapper">
                                                             <div class="swiper-slide">
                                                                 <div class="download_card">
-                                                                    <a class="card" href="{{<siteurl>}}documentos/pdf/estadisticas/PrincipalesResultadosEUCT.pdf" target="_blank">
+                                                                    <a class="card" href="{{<siteurl>}}documentos/PDF/estadisticas/PrincipalesResultadosEUCT.pdf" target="_blank">
                                                                         <div class="card-header">
                                                                             <i class="fal fa-download"></i>
                                                                         </div>
                                                                         <div class="card-body">
                                                                             <p class="text_body">Principales resultados</p>
                                                                             <p class="text_file">
-                                                                                <i class="fal fa-file-pdf pdf_icon"></i> 
-                                                                                 (706,29 KB)
+                                                                                <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (706,29 KB)
                                                                             </p>
                                                                         </div>
                                                                     </a>
                                                                 </div>
 																<div class="download_card">
-                                                                    <a class="card" href="{{<siteurl>}}documentos/pdf/estadisticas/Metodologia.pdf" target="_blank">
+                                                                    <a class="card" href="{{<siteurl>}}documentos/PDF/estadisticas/Metodologia.pdf" target="_blank">
                                                                         <div class="card-header">
                                                                             <i class="fal fa-download"></i>
                                                                         </div>
                                                                         <div class="card-body">
                                                                             <p class="text_body">Metodología</p>
                                                                             <p class="text_file">
-                                                                                <i class="fal fa-file-pdf pdf_icon"></i> 
-                                                                                 (435,474 KB)
+                                                                                <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (435,474 KB)
                                                                             </p>
                                                                         </div>
                                                                     </a>
@@ -266,8 +264,7 @@ Fecha de publicación: 23 de marzo de 2021
                                                                         <div class="card-body">
                                                                             <p class="text_body">Preinscripción por titulación</p>
                                                                             <p class="text_file">
-                                                                                <i class="fal fa-file-pdf pdf_icon"></i> 
-                                                                                 (3,384 KB)
+                                                                                <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (3,384 KB)
                                                                             </p>
                                                                         </div>
                                                                     </a>
