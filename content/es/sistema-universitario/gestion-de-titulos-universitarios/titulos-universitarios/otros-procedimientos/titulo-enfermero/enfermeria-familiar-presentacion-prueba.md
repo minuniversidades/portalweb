@@ -47,7 +47,7 @@ El plazo para presentación de reclamaciones a las preguntas y respuestas es de 
                                                     <div class="container-fluid">
                                                         <div class="row">
                                                             <div class="col-12">
-								<a href="https://entrada.aulavirtualexamenes.es/AvExEnfermeria.</a><i class="fas fa-external-link-alt"></i>" target="_blank"> Instrucciones de acceso plataforma prueba y obtención de código de acceso <i class="fas fa-external-link-alt"></i> </a><br><br>
+								<a href="https://entrada.aulavirtualexamenes.es/AvExEnfermeria.docx" target="_blank"> Instrucciones de acceso plataforma prueba y obtención de código de acceso <i class="fas fa-external-link-alt"></i> </a><br><br>
 	<div class="col-12 box_card_title d-flex"> 
 			<h3 class="title_separador"><i class="fas fa-download"></i>Información relacionada</h3> 
 	</div> 
@@ -55,23 +55,23 @@ El plazo para presentación de reclamaciones a las preguntas y respuestas es de 
 		<div class="col-lg-12 cards_download_cnt">  
 			<div class="row"> 
 				<div class="download_card"> 
-					<a class="card" href="{{<siteurl>}}/documentos/</a><i class="fas fa-external-link-alt"></i>/sistema_universitario/gestion_titulos/otros_procedimientos/especialidad/PreguntasFrecuentesEnfermeriaFyCv4.</a><i class="fas fa-external-link-alt"></i>" target="_blank"> 
+					<a class="card" href="{{<siteurl>}}/documentos/word/gestion_titulos/otros_procedimientos/especialidad/PreguntasFrecuentesEnfermeriaFyCv4.docx" target="_blank"> 
 					<div class="card-header"> 
 						   <i class="fal fa-download"></i> 
 					</div> </a> 
 					<div class="card-body"> 
-						<p class="text_file"><a class="card" href="{{<siteurl>}}documentos/</a><i class="fas fa-external-link-alt"></i>/sistema_universitario/gestion_titulos/otros_procedimientos/especialidad/PreguntasFrecuentesEnfermeriaFyCv4.</a><i class="fas fa-external-link-alt"></i>" target="_blank">  
-						<span class="tit">Preguntas frecuentes en relación con la convocatoria</span></a> <i class="fal fa-file-</a><i class="fas fa-external-link-alt"></i> </a><i class="fas fa-external-link-alt"></i>_icon"></i> (</a><i class="fas fa-external-link-alt"></i> 224.361 KB)
+						<p class="text_file"><a class="card" href="{{<siteurl>}}documentos/word/gestion_titulos/otros_procedimientos/especialidad/PreguntasFrecuentesEnfermeriaFyCv4.docx" target="_blank">  
+						<span class="tit">Preguntas frecuentes en relación con la convocatoria</span></a> <i class="fal fa-file-word text-primary"></i> DOC (224,361 KB)
 					</div>
 				</div> 	
 				<div class="download_card"> 
-					<a class="card" href="{{<siteurl>}}/documentos/</a><i class="fas fa-external-link-alt"></i>/sistema_universitario/gestion_titulos/otros_procedimientos/especialidad/Instruccionesprocesodeinscripcion.</a><i class="fas fa-external-link-alt"></i>" target="_blank"> 
+					<a class="card" href="{{<siteurl>}}/documentos/word/gestion_titulos/otros_procedimientos/especialidad/Instruccionesprocesodeinscripcion.docx" target="_blank"> 
 					<div class="card-header"> 
 						   <i class="fal fa-download"></i> 
 					</div> </a> 
 					<div class="card-body"> 
-						<p class="text_file"><a class="card" href="{{<siteurl>}}documentos/</a><i class="fas fa-external-link-alt"></i>/sistema_universitario/gestion_titulos/otros_procedimientos/especialidad/Instruccionesprocesodeinscripcion.</a><i class="fas fa-external-link-alt"></i>" target="_blank">  
-						<span class="tit">Preguntas frecuentes en relación con la convocatoria</span></a> <i class="fal fa-file-</a><i class="fas fa-external-link-alt"></i> </a><i class="fas fa-external-link-alt"></i>_icon"></i> (</a><i class="fas fa-external-link-alt"></i> 561.689 KB)
+						<p class="text_file"><a class="card" href="{{<siteurl>}}documentos/word/gestion_titulos/otros_procedimientos/especialidad/Instruccionesprocesodeinscripcion.docx" target="_blank">  
+						<span class="tit">Preguntas frecuentes en relación con la convocatoria</span></a> <i class="fal fa-file-word text-primary"></i> DOC (561,689 KB)
 					</div>
 				</div>
 			</div> 
@@ -131,53 +131,53 @@ El plazo para presentación de reclamaciones a las preguntas y respuestas es de 
 		<div class="col-lg-12 cards_download_cnt">  
 			<div class="row"> 
 				<div class="download_card"> 
-					<a class="card" href="{{<siteurl>}}documentos/</a><i class="fas fa-external-link-alt"></i>/sistema_universitario/gestion_titulos/otros_procedimientos/especialidad/ResolucionAdmitidosExcluidospruebaenfermeriaFyC.</a><i class="fas fa-external-link-alt"></i>" target="_blank"> 
+					<a class="card" href="{{<siteurl>}}documentos/word/gestion_titulos/otros_procedimientos/especialidad/ResolucionAdmitidosExcluidospruebaenfermeriaFyC.docx" target="_blank"> 
 					<div class="card-header"> 
 						   <i class="fal fa-download"></i> 
 					</div> </a> 
 					<div class="card-body"> 
-						<p class="text_file"><a class="card" href="{{<siteurl>}}documentos/</a><i class="fas fa-external-link-alt"></i>/sistema_universitario/gestion_titulos/otros_procedimientos/especialidad/ResolucionAdmitidosExcluidospruebaenfermeriaFyC.</a><i class="fas fa-external-link-alt"></i>" target="_blank">  
-						<span class="tit">Listado de admitidos y excluidos provisional prueba objetiva enfermería Familiar y Comunitaria</span></a> <i class="fal fa-file-</a><i class="fas fa-external-link-alt"></i> </a><i class="fas fa-external-link-alt"></i>_icon"></i> (</a><i class="fas fa-external-link-alt"></i> 6.249 MB)
+						<p class="text_file"><a class="card" href="{{<siteurl>}}documentos/word/gestion_titulos/otros_procedimientos/especialidad/ResolucionAdmitidosExcluidospruebaenfermeriaFyC.docx" target="_blank">  
+						<span class="tit">Listado de admitidos y excluidos provisional prueba objetiva enfermería Familiar y Comunitaria</span></a> <i class="fal fa-file-word text-primary"></i> DOC (6,249 MB)
 					</div>
 				</div> 	
 				<div class="download_card"> 
-					<a class="card" href="href="{{<siteurl>}}documentos/</a><i class="fas fa-external-link-alt"></i>/sistema_universitario/gestion_titulos/otros_procedimientos/especialidad/proteccion_datos.</a><i class="fas fa-external-link-alt"></i>" target="_blank"> 
+					<a class="card" href="{{<siteurl>}}documentos/word/gestion_titulos/otros_procedimientos/especialidad/proteccion_datos.docx" target="_blank"> 
 					<div class="card-header"> 
 						   <i class="fal fa-download"></i> 
 					</div> </a> 
 					<div class="card-body"> 
-						<p class="text_file"><a class="card" href="{{<siteurl>}}documentos/</a><i class="fas fa-external-link-alt"></i>/sistema_universitario/gestion_titulos/otros_procedimientos/especialidad/proteccion_datos.</a><i class="fas fa-external-link-alt"></i>" target="_blank">  
-						<span class="tit">Información sobre protección de datos</span></a> <i class="fal fa-file-</a><i class="fas fa-external-link-alt"></i> </a><i class="fas fa-external-link-alt"></i>_icon"></i> (</a><i class="fas fa-external-link-alt"></i> 17.051 KB)
+						<p class="text_file"><a class="card" href="{{<siteurl>}}documentos/word/gestion_titulos/otros_procedimientos/especialidad/proteccion_datos.docx" target="_blank">  
+						<span class="tit">Información sobre protección de datos</span></a> <i class="fal fa-file-word text-primary"></i> DOC (17,051 KB)
 					</div>
 				</div>
 				<div class="download_card"> 
-					<a class="card" href="{{<siteurl>}}documentos/</a><i class="fas fa-external-link-alt"></i>/sistema_universitario/gestion_titulos/otros_procedimientos/especialidad/RESOLUCIONListasdefinitivas.</a><i class="fas fa-external-link-alt"></i>" target="_blank"> 
+					<a class="card" href="{{<siteurl>}}documentos/word/gestion_titulos/otros_procedimientos/especialidad/RESOLUCIONListasdefinitivas.docx" target="_blank"> 
 					<div class="card-header"> 
 						   <i class="fal fa-download"></i> 
 					</div> </a> 
 					<div class="card-body"> 
-						<p class="text_file"><a class="card" href="{{<siteurl>}}documentos/</a><i class="fas fa-external-link-alt"></i>/sistema_universitario/gestion_titulos/otros_procedimientos/especialidad/RESOLUCIONListasdefinitivas.</a><i class="fas fa-external-link-alt"></i>" target="_blank">  
-						<span class="tit">Resolución de Relación Definitiva de aspirantes admitidos y excluidos a la prueba objetiva</span></a> <i class="fal fa-file-</a><i class="fas fa-external-link-alt"></i> </a><i class="fas fa-external-link-alt"></i>_icon"></i> (</a><i class="fas fa-external-link-alt"></i> 196.88 KB)
+						<p class="text_file"><a class="card" href="{{<siteurl>}}documentos/word/gestion_titulos/otros_procedimientos/especialidad/RESOLUCIONListasdefinitivas.docx" target="_blank">  
+						<span class="tit">Resolución de Relación Definitiva de aspirantes admitidos y excluidos a la prueba objetiva</span></a> <i class="fal fa-file-word text-primary"></i> DOC (196,88 KB)
 					</div>
 				</div>
 				<div class="download_card"> 
-					<a class="card" href="{{<siteurl>}}documentos/</a><i class="fas fa-external-link-alt"></i>/sistema_universitario/gestion_titulos/otros_procedimientos/especialidad/AnexoIListadodefinitivosadmitidos.</a><i class="fas fa-external-link-alt"></i>" target="_blank"> 
+					<a class="card" href="{{<siteurl>}}documentos/word/gestion_titulos/otros_procedimientos/especialidad/AnexoIListadodefinitivosadmitidos.docx" target="_blank"> 
 					<div class="card-header"> 
 						   <i class="fal fa-download"></i> 
 					</div> </a> 
 					<div class="card-body"> 
-						<p class="text_file"><a class="card" href="{{<siteurl>}}documentos/</a><i class="fas fa-external-link-alt"></i>/sistema_universitario/gestion_titulos/otros_procedimientos/especialidad/AnexoIListadodefinitivosadmitidos.</a><i class="fas fa-external-link-alt"></i>" target="_blank">  
-						<span class="tit">Anexo I- Relación definitiva de aspirantes admitidos</span></a> <i class="fal fa-file-</a><i class="fas fa-external-link-alt"></i> </a><i class="fas fa-external-link-alt"></i>_icon"></i> (</a><i class="fas fa-external-link-alt"></i> 561.689 KB)
+						<p class="text_file"><a class="card" href="{{<siteurl>}}documentos/word/gestion_titulos/otros_procedimientos/especialidad/AnexoIListadodefinitivosadmitidos.docx" target="_blank">  
+						<span class="tit">Anexo I- Relación definitiva de aspirantes admitidos</span></a> <i class="fal fa-file-word text-primary"></i> DOC (561,689 KB)
 					</div>
 				</div>
 				<div class="download_card"> 
-					<a class="card" href="{{<siteurl>}}documentos/</a><i class="fas fa-external-link-alt"></i>/sistema_universitario/gestion_titulos/otros_procedimientos/especialidad/AnexIIlistadodefinitivoexcluidosweb.</a><i class="fas fa-external-link-alt"></i>" target="_blank"> 
+					<a class="card" href="{{<siteurl>}}documentos/word/gestion_titulos/otros_procedimientos/especialidad/AnexIIlistadodefinitivoexcluidosweb.docx" target="_blank"> 
 					<div class="card-header"> 
 						   <i class="fal fa-download"></i> 
 					</div> </a> 
 					<div class="card-body"> 
-						<p class="text_file"><a class="card" href="{{<siteurl>}}documentos/</a><i class="fas fa-external-link-alt"></i>/sistema_universitario/gestion_titulos/otros_procedimientos/especialidad/AnexIIlistadodefinitivoexcluidosweb.</a><i class="fas fa-external-link-alt"></i>" target="_blank">  
-						<span class="tit">ANEXO II Relación definitiva de aspirantes excluidos</span></a> <i class="fal fa-file-</a><i class="fas fa-external-link-alt"></i> </a><i class="fas fa-external-link-alt"></i>_icon"></i> (</a><i class="fas fa-external-link-alt"></i> 2.015 MB)
+						<p class="text_file"><a class="card" href="{{<siteurl>}}documentos/word/gestion_titulos/otros_procedimientos/especialidad/AnexIIlistadodefinitivoexcluidosweb.docx" target="_blank">  
+						<span class="tit">ANEXO II Relación definitiva de aspirantes excluidos</span></a> <i class="fal fa-file-word text-primary"></i> DOC (2,015 MB)
 					</div>
 				</div>
 			</div> 
@@ -209,33 +209,33 @@ El plazo para presentación de reclamaciones a las preguntas y respuestas es de 
 		<div class="col-lg-12 cards_download_cnt">  
 			<div class="row"> 
 				<div class="download_card"> 
-					<a class="card" href="{{<siteurl>}}documentos/</a><i class="fas fa-external-link-alt"></i>/sistema_universitario/gestion_titulos/otros_procedimientos/especialidad/PlantillaProvRespG1v2.</a><i class="fas fa-external-link-alt"></i>" target="_blank"> 
+					<a class="card" href="{{<siteurl>}}documentos/word/gestion_titulos/otros_procedimientos/especialidad/PlantillaProvRespG1v2.docx" target="_blank"> 
 					<div class="card-header"> 
 						   <i class="fal fa-download"></i> 
 					</div> </a> 
 					<div class="card-body"> 
-						<p class="text_file"><a class="card" href="{{<siteurl>}}documentos/</a><i class="fas fa-external-link-alt"></i>/sistema_universitario/gestion_titulos/otros_procedimientos/especialidad/PlantillaProvRespG1v2.</a><i class="fas fa-external-link-alt"></i>" target="_blank">  
-						<span class="tit">Plantilla provisional de respuestas - Cuestionario Grupo 1</span></a> <i class="fal fa-file-</a><i class="fas fa-external-link-alt"></i> </a><i class="fas fa-external-link-alt"></i>_icon"></i> (</a><i class="fas fa-external-link-alt"></i> 224.361 KB)
+						<p class="text_file"><a class="card" href="{{<siteurl>}}documentos/word/gestion_titulos/otros_procedimientos/especialidad/PlantillaProvRespG1v2.docx" target="_blank">  
+						<span class="tit">Plantilla provisional de respuestas - Cuestionario Grupo 1</span></a> <i class="fal fa-file-word text-primary"></i> DOC (224,361 KB)
 					</div>
 				</div> 	
 				<div class="download_card"> 
-					<a class="card" href="{{<siteurl>}}documentos/</a><i class="fas fa-external-link-alt"></i>/sistema_universitario/gestion_titulos/otros_procedimientos/especialidad/PlantillaProvRespG2.</a><i class="fas fa-external-link-alt"></i>" target="_blank"> 
+					<a class="card" href="{{<siteurl>}}documentos/word/gestion_titulos/otros_procedimientos/especialidad/PlantillaProvRespG2.docx" target="_blank"> 
 					<div class="card-header"> 
 						   <i class="fal fa-download"></i> 
 					</div> </a> 
 					<div class="card-body"> 
-						<p class="text_file"><a class="card" href="{{<siteurl>}}documentos/</a><i class="fas fa-external-link-alt"></i>/sistema_universitario/gestion_titulos/otros_procedimientos/especialidad/PlantillaProvRespG2.</a><i class="fas fa-external-link-alt"></i>" target="_blank">  
-						<span class="tit">Plantilla provisional de respuestas - Cuestionario Grupo 2</span></a> <i class="fal fa-file-</a><i class="fas fa-external-link-alt"></i> </a><i class="fas fa-external-link-alt"></i>_icon"></i> (</a><i class="fas fa-external-link-alt"></i> 561.689 KB)
+						<p class="text_file"><a class="card" href="{{<siteurl>}}documentos/word/gestion_titulos/otros_procedimientos/especialidad/PlantillaProvRespG2.docx" target="_blank">  
+						<span class="tit">Plantilla provisional de respuestas - Cuestionario Grupo 2</span></a> <i class="fal fa-file-word text-primary"></i> DOC (561,689 KB)
 					</div>
 				</div>
 				<div class="download_card"> 
-					<a class="card" href="{{<siteurl>}}documentos/</a><i class="fas fa-external-link-alt"></i>/sistema_universitario/gestion_titulos/otros_procedimientos/especialidad/PlantillaProvRespG3.</a><i class="fas fa-external-link-alt"></i>" target="_blank"> 
+					<a class="card" href="{{<siteurl>}}documentos/word/gestion_titulos/otros_procedimientos/especialidad/PlantillaProvRespG3.docx" target="_blank"> 
 					<div class="card-header"> 
 						   <i class="fal fa-download"></i> 
 					</div> </a> 
 					<div class="card-body"> 
-						<p class="text_file"><a class="card" href="{{<siteurl>}}documentos/</a><i class="fas fa-external-link-alt"></i>/sistema_universitario/gestion_titulos/otros_procedimientos/especialidad/PlantillaProvRespG3.</a><i class="fas fa-external-link-alt"></i>" target="_blank">  
-						<span class="tit">Plantilla provisional de respuestas - Cuestionario Grupo 3</span></a> <i class="fal fa-file-</a><i class="fas fa-external-link-alt"></i> </a><i class="fas fa-external-link-alt"></i>_icon"></i> (</a><i class="fas fa-external-link-alt"></i> 561.689 KB)
+						<p class="text_file"><a class="card" href="{{<siteurl>}}documentos/word/gestion_titulos/otros_procedimientos/especialidad/PlantillaProvRespG3.docx" target="_blank">  
+						<span class="tit">Plantilla provisional de respuestas - Cuestionario Grupo 3</span></a> <i class="fal fa-file-word text-primary"></i> DOC (561,689 KB)
 					</div>
 				</div>
 			</div> 
@@ -267,13 +267,13 @@ El plazo para presentación de reclamaciones a las preguntas y respuestas es de 
 		<div class="col-lg-12 cards_download_cnt">  
 			<div class="row"> 
 				<div class="download_card"> 
-					<a class="card" href="{{<siteurl>}}documentos/</a><i class="fas fa-external-link-alt"></i>/sistema_universitario/gestion_titulos/otros_procedimientos/especialidad/report_Nota_examen_enfermeria_20211216.</a><i class="fas fa-external-link-alt"></i>" target="_blank"> 
+					<a class="card" href="{{<siteurl>}}documentos/word/gestion_titulos/otros_procedimientos/especialidad/report_Nota_examen_enfermeria_20211216.docx" target="_blank"> 
 					<div class="card-header"> 
 						   <i class="fal fa-download"></i> 
 					</div> </a> 
 					<div class="card-body"> 
-						<p class="text_file"><a class="card" href="{{<siteurl>}}documentos/</a><i class="fas fa-external-link-alt"></i>/sistema_universitario/gestion_titulos/otros_procedimientos/especialidad/report_Nota_examen_enfermeria_20211216.</a><i class="fas fa-external-link-alt"></i>" target="_blank">  
-						<span class="tit">Nota informativa sobre el desarrollo de la prueba objetiva para el acceso excepcional a la especialidad al título de enfermería familiar y comunitaria</span></a> <i class="fal fa-file-</a><i class="fas fa-external-link-alt"></i> </a><i class="fas fa-external-link-alt"></i>_icon"></i> (</a><i class="fas fa-external-link-alt"></i> 204.936 KB)
+						<p class="text_file"><a class="card" href="{{<siteurl>}}documentos/word/gestion_titulos/otros_procedimientos/especialidad/report_Nota_examen_enfermeria_20211216.docx" target="_blank">  
+						<span class="tit">Nota informativa sobre el desarrollo de la prueba objetiva para el acceso excepcional a la especialidad al título de enfermería familiar y comunitaria</span></a> <i class="fal fa-file-word text-primary"></i> DOC (204,936 KB)
 					</div>
 				</div> 	
 			</div> 
