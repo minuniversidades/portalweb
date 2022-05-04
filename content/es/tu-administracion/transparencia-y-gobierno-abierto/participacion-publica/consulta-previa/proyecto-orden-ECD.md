@@ -1,5 +1,5 @@
 ---
-title: "Order ECD"
+title: "Consulta pública previa"
 type: 
 section_img: "./images/Becas_ayudas_al_Estudio.jpeg"
 struc_dep_pic: ""
@@ -144,13 +144,10 @@ La consulta pública estará abierta <b>desde el 25 de septiembre hasta el 11 de
 																			<a class="card" href="{{<siteurl>}}/documentos/word/tu_administracion/Consulta_publica_procedimientos_homologacion.docx" target="_blank"> 
 																			<div class="card-header"> 
 																				<i class="fal fa-download"></i> 
-																			</div> 
-																			</a> 
+																			</div></a> 
 																			<div class="card-body"> 
-																				<p class="text_file"><a class="card" href="{{<siteurl>}}/documentos/word/tu_administracion/Consulta_publica_procedimientos_homologacion.docx" target="_blank">  
-																				<span class="">
-                                                                                Consulta pública
-                                                                                </span></a><i style="color: blue" class="fal fa-file-word"></i> (39.705 KB)
+																				<p class="text_file"><a class="card" href="{{<siteurl>}}documentos/word/tu_administracion/Consulta_publica_procedimientos_homologacion.docx" target="_blank"><span class="tit">Consulta pública</span></a><i class="fal fa-file-word text-primary"></i>
+                                                                                DOC (39,705 KB)
 																			</div>
 																		</div>
 																	</div>
