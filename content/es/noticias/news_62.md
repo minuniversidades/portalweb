@@ -141,7 +141,7 @@ news_date: 2021-02-10T14:20:22+01:00
                                                                     <div class="card-body">
                                                                         <p class="text_body">MUNILOU Modelo</p>
                                                                         <p class="text_file">
-                                                                            <i class="fal fa-file-pdf pdf_icon"></i>(93,409 KB)
+                                                                            <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (93,409 KB)
                                                                         </p>
                                                                     </div>
                                                                 </a>

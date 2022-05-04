@@ -1,5 +1,5 @@
 ---
-title: "Orden Evaluacion Bachillerato"
+title: "Audiencia e Información pública"
 type: 
 section_img: "./images/Becas_ayudas_al_Estudio.jpeg"
 struc_dep_pic: ""
@@ -79,7 +79,7 @@ struc_dep_pic: ""
 					</div> </a> 
 					<div class="card-body"> 
 						<p class="text_file"><a class="card" href="{{<siteurl>}}/documentos/pdf/tu_administracion/211210_Proyecto_Orden_EBAU_2021-2022_002.pdf" target="_blank">  
-						<span class="tit">Proyecto de orden EBAU 2021-2022</span></a> <i style="color:#cc0000" class="fal fa-file-pdf pdf_icon"></i> (799.713 KB)
+						<span class="tit">Proyecto de orden por la que se determinan las características, el diseño y el contenido de la evaluación de Bachillerato para el acceso a la universidad, y las fechas máximas de realización y de resolución de los procedimientos de revisión de las calificaciones obtenidas, en el curso 2021-2022.</span></a> <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (799,713 KB)
 					</div>
 				</div> 	
 				<div class="download_card"> 
@@ -89,7 +89,7 @@ struc_dep_pic: ""
 					</div> </a> 
 					<div class="card-body"> 
 						<p class="text_file"><a class="card" href="{{<siteurl>}}/documentos/pdf/tu_administracion/211209_MAIN_Orden_EBAU_2022_MU_y_MEFP.pdf" target="_blank">  
-						<span class="tit">Memoria del Análisis de Impacto Normativo</span></a> <i style="color:#cc0000" class="fal fa-file-pdf pdf_icon"></i> (231.851 KB)
+						<span class="tit">Memoria del Análisis de Impacto Normativo </span></a> <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (231,851 KB)
 					</div>
 				</div>
 			</div> 

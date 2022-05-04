@@ -72,7 +72,7 @@ news_date: 2022-02-08T14:20:22+01:00
                                                                     <div class="card-body">
                                                                         <p class="text_body">Declaración Institucional impulso de participación de mujeres y niñas en la ciencia</p>
                                                                         <p class="text_file">
-                                                                            <i class="fal fa-file-pdf pdf_icon"></i>(411,393 KB)
+                                                                            <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (411,393 KB)
                                                                         </p>
                                                                     </div>
                                                                 </a>

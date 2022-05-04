@@ -81,7 +81,7 @@ struc_dep_pic: ""
 					</div> </a> 
 					<div class="card-body"> 
 						<p class="text_file"><a class="card" href="{{<siteurl>}}documentos/pdf/tu_administracion/participacion-publica/audiencia/LOSU_MAIN_20210903.pdf" target="_blank">  
-						<span class="tit">Memoria del análisis del impacto normativo </span></a> <i class="fal fa-file-pdf pdf_icon"></i>(PDF 1.808 MB)
+						<span class="tit">Memoria del análisis del impacto normativo </span></a> <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (1,808 MB)
 					</div>
 				</div> 	
 				<div class="download_card"> 

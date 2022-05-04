@@ -1,5 +1,5 @@
 ---
-title: "Real Decreto 581/2017"
+title: "Audiencia e Información pública"
 type: 
 section_img: "./images/Becas_ayudas_al_Estudio.jpeg"
 struc_dep_pic: ""
@@ -60,19 +60,17 @@ struc_dep_pic: ""
 					</div> </a> 
 					<div class="card-body"> 
 						<p class="text_file"><a class="card" href="{{<siteurl>}}documentos/pdf/tu_administracion/RD_modificacion_RD.pdf" target="_blank">  
-						<span class="tit">Proyecto de Real Decreto que modifica el Real Decreto 581/2017</span></a> 
-                        <i style="color:#cc0000" class="fal fa-file-pdf pdf_icon"></i> (134.014 KB)
+						<span class="tit">Proyecto de Real Decreto que modifica el Real Decreto 581/2017, de 9 de junio, por el que se incorpora al ordenamiento jurídico español la Directiva 2013/55/UE del Parlamento Europeo y del Consejo, de 20 de noviembre de 2013, por la que se modifica la Directiva 2005/36/CE relativa al reconocimiento de cualificaciones profesionales y el Reglamento (UE) n.º 1024/2012 relativo a la cooperación administrativa a través del Sistema de Información del Mercado Interior (Reglamento IMI) </span></a> <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (134,014 KB)
 					</div>
 				</div> 	
 				<div class="download_card"> 
-					<a class="card" href="{{<siteurl>}}documentos/PDF/tu_administracion/MAINRDModificacionRD.pdf" target="_blank"> 
+					<a class="card" href="{{<siteurl>}}documentos/pdf/tu_administracion/MAINRDModificacionRD.pdf" target="_blank"> 
 					<div class="card-header"> 
 						   <i class="fal fa-download"></i> 
 					</div> </a> 
 					<div class="card-body"> 
 						<p class="text_file"><a class="card" href="{{<siteurl>}}/documentos/pdf/tu_administracion/MAINRDModificacionRD.pdf" target="_blank">  
-						<span class="tit">Memoria del Análisis de Impacto Normativo </span></a> 
-                        <i style="color:#cc0000" class="fal fa-file-pdf pdf_icon"></i> (315.492 KB)
+						<span class="tit">Memoria del Análisis de Impacto Normativo </span></a> <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (315,492 KB)
 					</div>
 				</div>
 			</div> 

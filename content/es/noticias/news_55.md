@@ -75,8 +75,7 @@ news_date: 2021-03-12T14:20:22+01:00
                                                         <div class="card-body">
                                                             <p class="text_body">Medidas de Higiene y Prevención</p>
                                                             <p class="text_file">
-                                                                <i class="fal fa-file-pdf pdf_icon"></i> 
-                                                                    (1.168 MB)
+                                                                <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (1,168 MB)
                                                             </p>
                                                         </div>
                                                     </a>
