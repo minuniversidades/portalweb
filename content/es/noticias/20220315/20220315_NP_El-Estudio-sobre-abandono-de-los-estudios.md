@@ -59,7 +59,7 @@ url: "noticias/20220315_NP_El-Estudio-sobre-abandono-de-los-estudios/"
                                                                 <div class="card-body">
                                                                     <p class="text_body">Presentación estudio de abandono universitario</p>
                                                                     <p class="text_file">
-                                                                        <i class="fal fa-file-pdf pdf_icon"></i> (265,191 KB)
+                                                                        <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (265,191 KB)
                                                                     </p>
                                                                 </div>
                                                             </a>

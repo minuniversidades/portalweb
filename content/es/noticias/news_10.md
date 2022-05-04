@@ -61,7 +61,7 @@ El ministro de Universidades, Joan Subirats, señaló la importancia de incidir 
                                                                 <div class="card-body">
                                                                     <p class="text_body">Los Ministerios de Ciencia e Innovación y Universidades suspenden relaciones con Rusia y Bielorrusia</p>
                                                                     <p class="text_file">
-                                                                        <i class="fal fa-file-pdf pdf_icon"></i> (135,85 KB)
+                                                                        <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (135,85 KB)
                                                                     </p>
                                                                 </div>
                                                             </a>

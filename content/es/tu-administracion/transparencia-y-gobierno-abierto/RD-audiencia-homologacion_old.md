@@ -61,7 +61,7 @@ struc_dep_pic: ""
 					</div> </a> 
 					<div class="card-body"> 
 						<p class="text_file"><a class="card" href="{{<siteurl>}}documentos/pdf/tu_administracion/MAIN081021.pdf" target="_blank"> 
-						<span class="tit">Memoria del análisis del impacto normativo </span></a> <i class="fal fa-file-pdf pdf_icon"></i> (410.781 KB)
+						<span class="tit">Memoria del análisis del impacto normativo </span></a> <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (410,781 KB)
 					</div>
 				</div> 	
 				<div class="download_card"> 

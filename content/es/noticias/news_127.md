@@ -45,7 +45,7 @@ news_date: 2019-06-26T14:20:22+01:00
                                                                 <div class="card-body">
                                                                     <p class="text_body">Universidades Europeas Seleccionadas</p>
                                                                     <p class="text_file">
-                                                                        <i class="fal fa-file-pdf pdf_icon"></i> (131,329 KB)
+                                                                        <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (131,329 KB)
                                                                     </p>
                                                                 </div>
                                                             </a>
@@ -58,7 +58,7 @@ news_date: 2019-06-26T14:20:22+01:00
                                                                 <div class="card-body">
                                                                     <p class="text_body">Universidades Coordinadoras</p>
                                                                     <p class="text_file">
-                                                                        <i class="fal fa-file-pdf pdf_icon"></i> (143,893 KB)
+                                                                        <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (143,893 KB)
                                                                     </p>
                                                                 </div>
                                                             </a>

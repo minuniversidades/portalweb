@@ -47,7 +47,7 @@ news_date: 2022-02-16T14:20:22+01:00
                                                                 <div class="card-body">
                                                                     <p class="text_body">El ministro de Universidades, Joan Subirats, visita las Universidades andaluzas</p>
                                                                     <p class="text_file">
-                                                                        <i class="fal fa-file-pdf pdf_icon"></i> (248,325 KB)
+                                                                        <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (248,325 KB)
                                                                     </p>
                                                                 </div>
                                                             </a>
@@ -67,7 +67,7 @@ news_date: 2022-02-16T14:20:22+01:00
                                                                     <div class="card-body">
                                                                         <p class="text_body">El ministro de Universidades, Joan Subirats, visita las Universidades andaluzas</p>
                                                                         <p class="text_file">
-                                                                            <i class="fal fa-file-pdf pdf_icon"></i> (248,325 KB)
+                                                                            <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (248,325 KB)
                                                                         </p>
                                                                     </div>
                                                                 </a>

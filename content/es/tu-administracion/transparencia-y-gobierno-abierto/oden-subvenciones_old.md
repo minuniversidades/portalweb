@@ -54,7 +54,7 @@ struc_dep_pic: ""
 					</div> </a> 
 					<div class="card-body"> 
 						<p class="text_file"><a class="card" href="{{<siteurl>}}/documentos/pdf/tu_administracion/20210120_OMSUBVENCIONES_MUNI_V4.pdf" target="_blank">  
-						<span class="tit">Proyecto de Orden por la que se establecen las bases reguladoras de concesión de subvenciones públicas en régimen de concurrencia competitiva del Ministerio de Universidades y sus Organismos Públicos </span></a> <i class="fal fa-file-pdf pdf_icon"></i> (PDF 261,779 KB)
+						<span class="tit">Proyecto de Orden por la que se establecen las bases reguladoras de concesión de subvenciones públicas en régimen de concurrencia competitiva del Ministerio de Universidades y sus Organismos Públicos </span></a> <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (261,779 KB)
 					</div>
 				</div> 	
 				<div class="download_card"> 
@@ -64,7 +64,7 @@ struc_dep_pic: ""
 					</div> </a> 
 					<div class="card-body"> 
 						<p class="text_file"><a class="card" href="{{<siteurl>}}/documentos/pdf/tu_administracion/20210126_MAIN_V4.pdf" target="_blank">  
-						<span class="tit">Memoria de análisis de impacto normativo </span></a> <i class="fal fa-file-pdf pdf_icon"></i> (PDF 294,632 KB)
+						<span class="tit">Memoria de análisis de impacto normativo </span></a> <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (294,632 KB)
 					</div>
 				</div>
 			</div> 

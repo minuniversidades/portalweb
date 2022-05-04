@@ -59,7 +59,7 @@ Esta Ley instaura un nuevo marco para la convivencia universitaria, en consonanc
                                                                 <div class="card-body">
                                                                     <p class="text_body">Ley de Convivencia Universitaria</p>
                                                                     <p class="text_file">
-                                                                        <i class="fal fa-file-pdf pdf_icon"></i> (245,437 KB)
+                                                                        <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (245,437 KB)
                                                                     </p>
                                                                 </div>
                                                             </a>

@@ -266,7 +266,7 @@ Series de matriculados y egresados desde el curso 1985-1986
                                                                     <div class="card-body">
                                                                         <p class="text_body">Principales resultados</p>
                                                                         <p class="text_file">
-                                                                            <i class="fal fa-file-pdf pdf_icon"></i> (475,23KB)
+                                                                            <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (475,23KB)
                                                                         </p>
                                                                     </div>
                                                                 </a>
@@ -279,7 +279,7 @@ Series de matriculados y egresados desde el curso 1985-1986
                                                                     <div class="card-body">
                                                                         <p class="text_body">Metodología</p>
                                                                         <p class="text_file">
-                                                                            <i class="fal fa-file-pdf pdf_icon"></i> (261,379 KB)
+                                                                            <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (261,379 KB)
                                                                         </p>
                                                                     </div>
                                                                 </a>

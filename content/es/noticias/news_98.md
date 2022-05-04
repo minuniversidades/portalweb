@@ -118,7 +118,7 @@ news_date: 2020-06-04T14:20:22+01:00
                                                                 <div class="card-body">
                                                                     <p class="text_body">Recomendaciones sanitarias EBAU</p>
                                                                     <p class="text_file">
-                                                                        <i class="fal fa-file-pdf pdf_icon"></i> (72,675 KB)
+                                                                        <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (72,675 KB)
                                                                     </p>
                                                                 </div>
                                                             </a>
