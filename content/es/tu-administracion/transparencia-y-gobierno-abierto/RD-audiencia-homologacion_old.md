@@ -72,7 +72,7 @@ struc_dep_pic: ""
 					</div> </a> 
 					<div class="card-body"> 
 						<p class="text_file"><a class="card" href="{{<siteurl>}}documentos/pdf/tu_administracion/PRDhomologaciones081021.pdf" target="_blank">  
-						<span class="tit">Proyecto de Real Decreto </span></a> <i class="fal fa-file-pdf pdf_icon"></i>(480.444 KB)
+						<span class="tit">Proyecto de Real Decreto </span></a> <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (480,444 KB)
 					</div>
 				</div>
 			</div> 

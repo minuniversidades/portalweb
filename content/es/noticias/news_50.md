@@ -96,7 +96,7 @@ news_date: 2021-04-20T14:20:22+01:00
                                                                     <div class="card-body">
                                                                         <p class="text_body">Entidades beneficiarias, cuantías concedidas y objetivo de ayudas a conceder</p>
                                                                         <p class="text_file">
-                                                                            <i class="fal fa-file-pdf pdf_icon"></i>(71,896 KB)
+                                                                            <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (71,896 KB)
                                                                         </p>
                                                                     </div>
                                                                 </a>

@@ -1,5 +1,5 @@
 ---
-title: "Real Decreto organización de las enseñanzas"
+title: "Audiencia e Información pública"
 type: 
 section_img: "./images/Becas_ayudas_al_Estudio.jpeg"
 struc_dep_pic: ""
@@ -60,23 +60,26 @@ struc_dep_pic: ""
 								<div class="col-lg-12 cards_download_cnt">  
 			<div class="row"> 
 				<div class="download_card"> 
-					<a class="card" href="{{<siteurl>}}/documentos/</a><i class="fas fa-external-link-alt"></i>/tu_administracion/ProyRDOrganizEnsenanUniv.</a><i class="fas fa-external-link-alt"></i>" target="_blank"> 
+					<a class="card" href="{{<siteurl>}}<a class="card" href="{{<siteurl>}}documentos/pdf/tu_administracion/ProyRDOrganizEnsenanUniv.pdf"
+					target="_blank"> 
 					<div class="card-header"> 
 						   <i class="fal fa-download"></i> 
 					</div> </a> 
 					<div class="card-body"> 
-						<p class="text_file"><a class="card" href="{{<siteurl>}}/documentos/</a><i class="fas fa-external-link-alt"></i>/ProyRDOrganizEnsenanUniv.</a><i class="fas fa-external-link-alt"></i>" target="_blank">  
-						<span class="tit">Proyecto de Real Decreto por el que se establece la organización de las enseñanzas universitarias y del procedimiento de aseguramiento de su calidad</span></a> <i class="fal fa-file-</a><i class="fas fa-external-link-alt"></i> </a><i class="fas fa-external-link-alt"></i>_icon"></i> (</a><i class="fas fa-external-link-alt"></i> 375.047 KB)
+						<p class="text_file"><a class="card" href="{{<siteurl>}}<a class="card" href="{{<siteurl>}}documentos/pdf/tu_administracion/ProyRDOrganizEnsenanUniv.pdf" target="_blank">
+						<span class="tit">Proyecto de Real Decreto por el que se establece la organización de las enseñanzas universitarias y del procedimiento de aseguramiento de su calidad </span></a> <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (375,047 KB)
 					</div>
 				</div> 	
 				<div class="download_card"> 
-					<a class="card" href="{{<siteurl>}}/documentos/</a><i class="fas fa-external-link-alt"></i>/tu_administracion/MAINRDeEsenanUniv.</a><i class="fas fa-external-link-alt"></i>" target="_blank"> 
+					<a class="card" href="{{<siteurl>}}<a class="card" href="{{<siteurl>}}documentos/pdf/tu_administracion/MAINRDeEsenanUniv.pdf"
+					target="_blank"> 
 					<div class="card-header"> 
 						   <i class="fal fa-download"></i> 
 					</div> </a> 
 					<div class="card-body"> 
-						<p class="text_file"><a class="card" href="{{<siteurl>}}/documentos/</a><i class="fas fa-external-link-alt"></i>/tu_administracion/MAINRDeEsenanUniv.</a><i class="fas fa-external-link-alt"></i>" target="_blank">  
-						<span class="tit">Memoria del análisis del impacto normativo </span></a> <i class="fal fa-file-</a><i class="fas fa-external-link-alt"></i> </a><i class="fas fa-external-link-alt"></i>_icon"></i>(</a><i class="fas fa-external-link-alt"></i> 401.36 KB)
+						<p class="text_file"><a class="card" href="{{<siteurl>}}<a class="card" href="{{<siteurl>}}documentos/pdf/tu_administracion/MAINRDeEsenanUniv.pdf"
+					    target="_blank">  
+						<span class="tit">Memoria del análisis del impacto normativo </span></a> <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (401,36 KB)
 					</div>
 				</div>
 			</div> 

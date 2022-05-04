@@ -88,7 +88,7 @@ news_date: 2021-12-03T14:20:22+01:00
                                                                     <div class="card-body">
                                                                         <p class="text_body">Dossier informativo brecha salarial</p>
                                                                         <p class="text_file">
-                                                                            <i class="fal fa-file-pdf pdf_icon"></i>(2,01 MB)
+                                                                            <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (2,01 MB)
                                                                         </p>
                                                                     </div>
                                                                 </a>

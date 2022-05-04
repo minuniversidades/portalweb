@@ -72,10 +72,8 @@ struc_dep_pic: ""
 						   <i class="fal fa-download"></i> 
 					</div> </a> 
 					<div class="card-body"> 
-                        <p class="text_body">Memoria de análisis de impacto normativo</p>
-                        <p class="text_file">
-                            <i style="color:#cc0000" class="fal fa-file-pdf pdf_icon"></i>  (299,093 KB).
-                        </p>
+						<p class="text_file"><a class="card" href="{{<siteurl>}}{{<siteurl>}}documentos/pdf/tu_administracion/MAIN_RD_Derogacion_Reglamento_Disciplinario.pdf" target="_blank">  
+						<span class="tit">Memoria de análisis de impacto normativo  </span></a> <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (299,093 KB)
 					</div>
 				</div>
 			</div> 

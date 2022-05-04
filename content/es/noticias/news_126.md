@@ -68,7 +68,7 @@ news_date: 2019-07-04T14:20:22+01:00
                                                                     <div class="card-body">
                                                                         <p class="text_body">Inserción laboral de los egresados universitarios</p>
                                                                         <p class="text_file">
-                                                                            <i class="fal fa-file-pdf pdf_icon"></i>(3,31 MB)
+                                                                            <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (3,31 MB)
                                                                         </p>
                                                                     </div>
                                                                 </a>

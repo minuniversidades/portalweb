@@ -60,7 +60,7 @@ news_date: 2020-06-11T14:20:22+01:00
                                                                     <div class="card-body">
                                                                         <p class="text_body">200611_El Ministerio desarrolla las recomendaciones generales para el desarrollo del curso</p>
                                                                         <p class="text_file">
-                                                                            <i class="fal fa-file-pdf pdf_icon"></i>(44,875 KB)
+                                                                            <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (44,875 KB)
                                                                         </p>
                                                                     </div>
                                                                 </a>

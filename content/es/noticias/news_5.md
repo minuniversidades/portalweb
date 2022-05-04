@@ -75,7 +75,7 @@ tags: ['MINISTERIO']
                                                                     <div class="card-body">
                                                                         <p class="text_body">El Ministerio de Universidades continúa la senda de la transformación del sistema universitario</p>
                                                                         <p class="text_file">
-                                                                            <i class="fal fa-file-pdf pdf_icon"></i>(421.252 KB)
+                                                                            <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (421.252 KB)
                                                                         </p>
                                                                     </div>
                                                                 </a>

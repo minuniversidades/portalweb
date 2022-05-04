@@ -75,7 +75,7 @@ news_date: 2018-09-06T14:20:22+01:00
                                                                     <div class="card-body">
                                                                         <p class="text_body">Ver noticia</p>
                                                                         <p class="text_file">
-                                                                            <i class="fal fa-file-pdf pdf_icon"></i>(231,406 KB)
+                                                                            <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (231,406 KB)
                                                                         </p>
                                                                     </div>
                                                                 </a>

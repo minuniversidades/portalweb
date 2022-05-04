@@ -73,7 +73,7 @@ news_date: 2020-05-25T14:20:22+01:00
                                                                     <div class="card-body">
                                                                         <p class="text_body">Un equipo interuniversitario de investigación realiza un estudio sobre el impacto psicológico de la COVID-19 y el confinamiento en la población</p>
                                                                         <p class="text_file">
-                                                                            <i class="fal fa-file-pdf pdf_icon"></i>(55,408 KB)
+                                                                            <i class="fal fa-file-pdf pdf_icon text-danger"></i> PDF (55,408 KB)
                                                                         </p>
                                                                     </div>
                                                                 </a>
